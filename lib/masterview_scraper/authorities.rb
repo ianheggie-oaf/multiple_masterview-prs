@@ -108,7 +108,8 @@ module MasterviewScraper
     lismore: {
       url: "https://tracker.lismore.nsw.gov.au",
       use_api: true,
-      force_detail: true
+      force_detail: true,
+      australian_proxy: true
     },
     port_macquarie_hastings: {
       url: "https://datracker.pmhc.nsw.gov.au",
