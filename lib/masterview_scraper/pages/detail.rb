@@ -161,7 +161,8 @@ module MasterviewScraper
         "Surrender Consent",
         "Cancelled/Surrendered",
         "Cancelled",
-        "Cancelled/Withdrawn"
+        "Cancelled/Withdrawn",
+        "Cancelled by Applicant"
       ].freeze
 
       REJECTED = [
