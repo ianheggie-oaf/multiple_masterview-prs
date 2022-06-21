@@ -150,6 +150,8 @@ module MasterviewScraper
       WITHDRAWN = [
         "Withdrawn",
         "Application Withdrawn",
+        # I really am not sure what exactly is meant by an application being returned
+        "Application returned",
         "Withdrawn by Applicant",
         "Withdrawn/Cancelled",
         "Withdrawn/cancelled - Other",
