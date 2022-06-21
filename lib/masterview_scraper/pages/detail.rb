@@ -55,7 +55,7 @@ module MasterviewScraper
           details.each do |detail|
             if detail =~ /^Address : (.*)/
               address = Regexp.last_match(1)
-            elsif detail =~ /^Description: (.*)/ ||
+            elsif detail =~ /^Description:(.*)/ ||
                   detail =~ /^Description : (.*)/ ||
                   detail =~ /Activity:(.*)/
               description = Regexp.last_match(1).squeeze(" ").strip
