@@ -10,7 +10,7 @@ module MasterviewScraper
       force_detail: true
     },
     bogan: {
-      url: "http://datracker.bogan.nsw.gov.au:81",
+      url: "https://datracker.bogan.nsw.gov.au:81",
       use_api: true,
       force_detail: true
     },
