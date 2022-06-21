@@ -144,7 +144,8 @@ module MasterviewScraper
         "PC Approved Complying Development",
         "Privately Certified CC Approval",
         "Privately Certified Occ Cert Issued",
-        "Final Certificate Issued CCC"
+        "Final Certificate Issued CCC",
+        "APPROVED- PRIVATE CERTIFIER"
       ].freeze
 
       WITHDRAWN = [
