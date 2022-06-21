@@ -40,7 +40,7 @@ module MasterviewScraper
       timeout: 180
     },
     cessnock: {
-      url: "http://datracker.cessnock.nsw.gov.au",
+      url: "https://datracker.cessnock.nsw.gov.au",
       use_api: true,
       force_detail: true
     },
