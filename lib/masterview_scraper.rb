@@ -32,7 +32,6 @@ module MasterviewScraper
     params: {},
     state: nil,
     use_api: false,
-    disable_ssl_certificate_check: false,
     long_council_reference: false,
     # If this is true get all the information from the detail page. Use this
     # as a stepping stone to adding "decision" and "decision date" which is only
@@ -46,7 +45,6 @@ module MasterviewScraper
     if use_api
       scrape_api_period(
         url,
-        disable_ssl_certificate_check,
         long_council_reference,
         types,
         force_detail,
@@ -59,7 +57,6 @@ module MasterviewScraper
       scrape_url(
         url_last_n_days(url, 30, params),
         state,
-        disable_ssl_certificate_check,
         force_detail,
         timeout
       ) do |record|
@@ -69,11 +66,13 @@ module MasterviewScraper
   end
 
   def self.scrape_api_period(
-    url, disable_ssl_certificate_check, long_council_reference, types,
+    url, long_council_reference, types,
     force_detail, timeout, page_size = 100
   )
     agent = Mechanize.new
-    agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+    # We're doing this for every authority because the problem of incomplete certificates
+    # is now common enough
+    agent.verify_mode = OpenSSL::SSL::VERIFY_NONE
     # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
     # http://morph:password@au.proxy.oaf.org.au:8888 replacing password with
     # the real password.
@@ -131,10 +130,12 @@ module MasterviewScraper
   end
 
   # Set state if the address does not already include the state (e.g. NSW, WA, etc..)
-  def self.scrape_url(url, state = nil, disable_ssl_certificate_check = false, force_detail = false,
+  def self.scrape_url(url, state = nil, force_detail = false,
                       timeout = nil)
     agent = Mechanize.new
-    agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+    # We're using the proxy for every authority because the problem is becoming common
+    # enough that it's easier just to use it for everything
+    agent.verify_mode = OpenSSL::SSL::VERIFY_NONE
     # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
     # http://morph:password@au.proxy.oaf.org.au:8888 replacing password with
     # the real password.
