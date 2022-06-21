@@ -27,8 +27,7 @@ module MasterviewScraper
       url: "https://datracker.byron.nsw.gov.au/MasterViewUI-External",
       use_api: true,
       page_size: 10,
-      force_detail: true,
-      australian_proxy: true
+      force_detail: true
     },
     camden: {
       url: "https://planning.camden.nsw.gov.au",
@@ -74,8 +73,7 @@ module MasterviewScraper
       use_api: true,
       # Has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=datracking.griffith.nsw.gov.au
       disable_ssl_certificate_check: true,
-      force_detail: true,
-      australian_proxy: true
+      force_detail: true
     },
     gunnedah: {
       url: "http://datracking.gunnedah.nsw.gov.au",
@@ -96,8 +94,7 @@ module MasterviewScraper
     lismore: {
       url: "https://tracker.lismore.nsw.gov.au",
       use_api: true,
-      force_detail: true,
-      australian_proxy: true
+      force_detail: true
     },
     maranoa: {
       url: "http://pdonline.maranoa.qld.gov.au",
