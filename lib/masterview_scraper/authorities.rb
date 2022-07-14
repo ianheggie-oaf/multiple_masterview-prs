@@ -48,6 +48,10 @@ module MasterviewScraper
       use_api: true,
       force_detail: true
     },
+    dubbo: {
+      url: "https://planning.dubbo.nsw.gov.au/",
+      use_api: true
+    },
     fairfield: {
       url: "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
       params: { "4a" => 10, "6" => "F" },

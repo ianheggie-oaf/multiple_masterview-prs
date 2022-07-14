@@ -1,0 +1,1048 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://planning.dubbo.nsw.gov.au//
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - planning.dubbo.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/Home/Disclaimer"
+      Server:
+      - Microsoft-IIS/10.0
+      Set-Cookie:
+      - ASP.NET_SessionId=xuayt0vuuwphfs4bambw045b; path=/; HttpOnly; SameSite=Lax
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      Date:
+      - Thu, 14 Jul 2022 05:06:23 GMT
+      Content-Length:
+      - '133'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/Home/Disclaimer\">here</a>.</h2>\r\n</body></html>\r\n"
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://planning.dubbo.nsw.gov.au/Home/Disclaimer
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=xuayt0vuuwphfs4bambw045b
+      Host:
+      - planning.dubbo.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/10.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      Date:
+      - Thu, 14 Jul 2022 05:06:23 GMT
+      Content-Length:
+      - '11556'
+    body:
+      encoding: UTF-8
+      string: "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n    <meta charset=\"utf-8\"
+        />\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n
+        \   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"
+        />\r\n    <meta name=\"author\" content=\"\" />\r\n    <meta name=\"keywords\"
+        content=\"Dubbo City Council, DA Tracker,Application Tracker,Development Application,Development
+        Application Tracking, DA Enquiry, Development Application Enquiry, Application
+        Tracker\">\r\n    <meta name=\"description\" content=\"The official Dubbo
+        City Council Application Tracker\">\r\n\r\n    <!--favicon-->\r\n    <link
+        href=\"/favicon.ico\" rel=\"shortcut icon\" type=\"image/x-icon\" />\r\n\r\n
+        \   <!-- jQuery -->\r\n    <script src=\"/Scripts/jquery-1.11.1.js\"></script>\r\n\r\n
+        \   <script src=\"/Scripts/jquery-ui-1.11.2.js\"></script>\r\n\r\n    <link
+        href=\"/Content/themes/base/core.css\" rel=\"stylesheet\"/>\r\n<link href=\"/Content/themes/base/accordion.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/themes/base/theme.css\" rel=\"stylesheet\"/>\r\n\r\n\r\n
+        \   <!-- Bootstrap -->\r\n    <script src=\"/Scripts/bootstrap.js\"></script>\r\n\r\n
+        \   <link href=\"/Content/bootstrap-theme.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/Content/bootstrap.css\" rel=\"stylesheet\"/>\r\n\r\n    <link href=\"/Content/font-awesome.css\"
+        rel=\"stylesheet\"/>\r\n\r\n    <link href=\"/Council_Theme/Dubbo/dubbo.css\"
+        rel=\"stylesheet\" />\r\n    <!-- DataTables -->\r\n    <script src=\"/Scripts/DataTables/jquery.dataTables.js\"></script>\r\n<script
+        src=\"/Scripts/DataTables/dataTables.bootstrap.js\"></script>\r\n<script src=\"/Scripts/DataTables/dataTables.responsive.js\"></script>\r\n\r\n
+        \   \r\n    <link href=\"/Content/DataTables/css/dataTables.bootstrap.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/DataTables/css/dataTables.responsive.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/DataTables/css/dataTables.responsive.scss\"
+        rel=\"stylesheet\"/>\r\n\r\n\r\n\r\n    <!-- Bootstrap SB-Admin-2 Plugin and
+        other css and js files-->\r\n    <script src=\"/js/bootstrap-combobox.js\"></script>\r\n<script
+        src=\"/js/bootstrap-datepicker.js\"></script>\r\n<script src=\"/js/jquery.form.js\"></script>\r\n<script
+        src=\"/js/jquery.tablesorter.js\"></script>\r\n<script src=\"/js/masterview.js\"></script>\r\n<script
+        src=\"/js/metisMenu.js\"></script>\r\n<script src=\"/js/sb-admin-2.js\"></script>\r\n\r\n
+        \   <link href=\"/css/bootstrap-combobox.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/css/datepicker3.css\" rel=\"stylesheet\"/>\r\n<link href=\"/css/masterview-customisations.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/css/sb-admin-2.css\" rel=\"stylesheet\"/>\r\n\r\n\r\n
+        \   <link href=\"/Council_Theme/Dubbo/dubbo.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/Council_Theme/Dubbo/dubbo_20160225.css\" rel=\"stylesheet\"/>\r\n\r\n
+        \   \r\n\r\n\r\n    <title>Dubbo City Council - Application Tracker</title>\r\n\r\n
+        \   <!-- Custom Fonts\r\n        <link href=\"/font-awesome/css/font-awesome.min.css\"
+        rel=\"stylesheet\" type=\"text/css\">\r\n    -->\r\n    <!-- HTML5 Shim and
+        Respond.js IE8 support of HTML5 elements and media queries -->\r\n    <!--
+        WARNING: Respond.js doesn't work if you view the page via file:// -->\r\n
+        \   <!--[if lt IE 9]>\r\n        <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\r\n
+        \       <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\r\n
+        \   <![endif]-->\r\n\r\n</head>\r\n\r\n\r\n<body>\r\n    <div id=\"wrapper\">\r\n
+        \       <!-- Navigation -->\r\n        <div id=\"header\">\r\n            <a
+        href=\"http://www.dubbo.nsw.gov.au\">\r\n                <img alt=\"\" style=\"width:140px;
+        min-height: 100px;\" id=\"council_logo\" src=\"/Council_Theme/Dubbo/dcclogo.gif\"
+        class=\"img-responsive Left-block\" />\r\n            </a>\r\n            <!--logo
+        end-->\r\n            <!--menu1 end-->\r\n            <div id=\"banner\">\r\n
+        \               <img src=\"/Council_Theme/Dubbo/dubbo_banner.jpg\" />\r\n
+        \           </div>\r\n        </div>\r\n\r\n        <nav class=\"navbar navbar-default
+        navbar-static-top\" role=\"navigation\" style=\"margin-bottom: 0\">\r\n            <div
+        class=\"navbar-header\">\r\n                <button type=\"button\" class=\"navbar-toggle\"
+        data-toggle=\"collapse\" data-target=\".navbar-collapse\">\r\n                    <span
+        class=\"sr-only\">Toggle navigation</span>\r\n                    <span class=\"icon-bar\"></span>\r\n
+        \                   <span class=\"icon-bar\"></span>\r\n                    <span
+        class=\"icon-bar\"></span>\r\n                </button>\r\n            </div>\r\n\r\n
+        \           <!-- /.navbar-header -->\r\n            <ul class=\"nav navbar-top-links
+        navbar-right hidden-xs hidden-sm hidden-md\">\r\n                <li>\r\n
+        \                   <a href=\"#\"><span id=\"printIcon\" class=\"glyphicon
+        glyphicon-print\" onclick=\"window.print();\"></span></a>\r\n                </li>\r\n
+        \           </ul>\r\n\r\n            <div class=\"navbar-default sidebar\"
+        role=\"navigation\">\r\n                <div class=\"sidebar-nav navbar-collapse\">\r\n
+        \                   <ul class=\"nav\" id=\"side-menu\">\r\n\r\n                    </ul>\r\n
+        \               </div>\r\n                <!-- /.sidebar-collapse -->\r\n
+        \           </div>\r\n            <!-- /.navbar-static-side -->\r\n        </nav>\r\n
+        \       <div id=\"page-wrapper\">\r\n\r\n            <div class=\"container-fluid\">\r\n\r\n
+        \               \r\n\r\n\r\n<div class=\"page-header\">\r\n    <h2>Disclaimer</h2>\r\n</div>\r\n\r\n<div
+        id=\"scrollableContent\">\r\n<h3>Terms and Conditions</h3>\r\n\r\n<p class=\"section\">\r\nAccess
+        to information contained on this website (the Service) is provided to you
+        pursuant to the provisions of the <i>Environmental Planning and Assessment
+        Act, 1979 (NSW)</i> and the <i>Government Information (Public Access) Act,
+        2009 (NSW)</i> [GIPA] as applicable. \r\n</p>\r\n\r\n<p class=\"section\">\r\nBy
+        using this enquiry system you accept and agree to the Terms and Conditions
+        set out below.\r\n</p>\r\n\r\n<p class=\"section\">\r\n You acknowledge, accept
+        and agree that:\r\n</p>\r\n<ol>\r\n\t<li>Content and use of information </li>\r\nThe
+        information provided by the Service may contain inaccuracies or errors. Dubbo
+        Regional Council (Council) makes no warranties or representations regarding
+        the currency, quality, accuracy, merchantability or fitness for purpose of
+        the information provided by the Service, or that the Service is free from
+        any virus or other defect. It is your sole responsibility to make your own
+        assessment of the information provided by the Service.  Council will not in
+        any circumstances be liable to you for any loss or damage (including without
+        limitation, consequential loss or damage) however caused and whether arising
+        directly or indirectly from your access to or use of the information provided
+        by the Service. \r\n\t<li>Indemnity</li>\r\nYou indemnify and agree to keep
+        indemnified Council, its employees, representatives and agents against all
+        claims, demands, actions, proceedings, costs, expenses and liabilities (including
+        without limitation legal costs and disbursements on a full indemnity basis)
+        suffered or incurred by Council directly or indirectly as a result of:\r\n\t<ul>\r\n\t\t<li>any
+        breach of your obligations under these Terms and Conditions; or</li>\r\n\t\t<li>arising
+        or connected in any way with your access or use of the information provided
+        by the Service. </li>\r\n\t</ul>\r\n\t<li>Copyright  </li>\r\nThe documents
+        and information provided on this website by Council constitute\r\n'open access
+        information' in accordance with Section 6 of the <i>Government Information
+        (Public Access) Act, 2009</i> and Schedule 1 of the <i>Government Information
+        (Public Access) Regulation, 2009</i>.  Plans, drawings and any other documents
+        associated with development applications that are provided on this website
+        (including downloadable materials) may be subject to the copyright laws of
+        Australia and international agreements with other countries. The contents
+        of this website are subject to copyright and are protected by the laws of
+        Australia and other countries through international treaties. \r\n<br/>\r\nYou
+        acknowledge, accept and agree that:\r\n\t<ul>\r\n\t\t<li>You will not alter,
+        copy, reproduce, republish, upload, distribute or modify any documents provided
+        on Council's website, except as permitted by law; </li>\r\n\t\t<li>Where the
+        material shown on this website incorporates any third party copyright or registered
+        or unregistered trademarks, your access to and use of this information is
+        subject to the relevant intellectual property rights of such third parties;
+        and </li>\r\n\t\t<li>Planning documents are provided for plan enquiry purposes.
+        \ The Dubbo Local Environmental Plan 2011 is available at <a href=\"http://www.legislation.nsw.gov.au\">http://www.legislation.nsw.gov.au</a></li>\r\n\t</ul>\r\n</ol>\r\n\r\n\r\n</div>\r\n\r\n<p
+        class=\"section\">\r\n</br>\r\n<b>I have read and understood the provisions
+        set out above.</b>\r\n</p>\r\n</br>\r\n\r\n\r\n\r\n\r\n<form action=\"/Home/DisclaimerProcessing\"
+        id=\"disclaimer-form\" method=\"post\"><input id=\"agreed\" name=\"agreed\"
+        type=\"hidden\" value=\"False\" />    <div id=\"btns\">\r\n        <button
+        id=\"agree\" type=\"button\" class=\"btn btn-primary\" form=\"disclaimer-form\">Agree</button>\r\n
+        \       <button id=\"disagree\" type=\"button\" class=\"btn btn-warning\"
+        form=\"disclaimer-form\">Disagree</button>\r\n    </div>\r\n</form>\r\n<script
+        type=\"text/javascript\">\r\n\r\n    //var initialHeightOfScrollBox;\r\n    var
+        lastScrollTop;\r\n    var headerHeight;\r\n\r\n    $(document).ready(function
+        () {\r\n\r\n        updateLeftMargin();\r\n        attachClickHandlers();\r\n\r\n
+        \       if (isTextBlockOverflowing()) {\r\n            var actualContentHeight
+        = $('#page-wrapper').height();\r\n            lastScrollTop = 0;\r\n            //initialHeightOfScrollBox
+        = $('#scrollableContent').height();\r\n            headerHeight = $(window).height()
+        - $('#scrollableContent').offset().top;\r\n\r\n            var newHeight =
+        headerHeight + $(window).scrollTop() - $('#btns').height() - 100;\r\n            $('#scrollableContent').height(newHeight);\r\n\r\n
+        \           $(window).scroll(function () {\r\n                var newHeight
+        = headerHeight + $(window).scrollTop() - $('#btns').height() - 100;\r\n\r\n
+        \               adjustDisclaimerContent(newHeight);\r\n            });\r\n\r\n\r\n
+        \           function isScrollDown() {\r\n                var st = $(window).scrollTop();\r\n
+        \               var result = st >= lastScrollTop;\t\t  // downscroll\r\n\r\n
+        \               lastScrollTop = st;\r\n                return result;\r\n
+        \           }\r\n\r\n\r\n            function adjustDisclaimerContent(newHeight)
+        {\r\n                var bIsDownScroll = isScrollDown();\r\n\r\n                var
+        scrollableContentHeight = $('#scrollableContent').height();\r\n\r\n                if
+        (bIsDownScroll && actualContentHeight > scrollableContentHeight) {\r\n                    $('#scrollableContent').height(newHeight);\r\n
+        \               }\r\n                else if (!bIsDownScroll && actualContentHeight
+        > newHeight) {\r\n                    $('#scrollableContent').height(newHeight);\r\n
+        \               }\r\n            }\r\n        }\r\n\r\n    });\r\n\r\n\r\n
+        \   function updateLeftMargin() {\r\n        if ($('#side-menu').html()) {\r\n
+        \           $('#page-wrapper').css({ 'margin-left': '0' });\r\n            $('.sidebar').hide();\r\n
+        \       }\r\n    }\r\n\r\n\r\n    function attachClickHandlers() {\r\n        $('#agree').click(function
+        () {\r\n            $('#agreed').val(\"true\");\r\n            $('#disclaimer-form').submit();\r\n
+        \       });\r\n\r\n        $('#disagree').click(function () {\r\n            $('#agreed').val(\"false\");\r\n
+        \           $('#disclaimer-form').submit();\r\n        });\r\n    }\r\n\r\n
+        \   function isTextBlockOverflowing() {\r\n        return $(\"#scrollableContent\").prop('scrollHeight')
+        > $(\"#scrollableContent\").height();\r\n    }\r\n</script>\r\n            </div>\r\n
+        \           <!-- /.container-fluid -->\r\n\r\n        </div>\r\n        <!--
+        /#page-wrapper -->\r\n        <div id=\"footer\">\r\n            \r\n\r\n\r\n
+        \       </div>\r\n        <!-- /#wrapper -->\r\n    </div>\r\n</body>\r\n</html>"
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://planning.dubbo.nsw.gov.au/Home/DisclaimerProcessing
+    body:
+      encoding: UTF-8
+      string: agreed=true
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=xuayt0vuuwphfs4bambw045b
+      Host:
+      - planning.dubbo.nsw.gov.au
+      Referer:
+      - https://planning.dubbo.nsw.gov.au/Home/Disclaimer
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '11'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/"
+      Server:
+      - Microsoft-IIS/10.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      Set-Cookie:
+      - User=accessAllowed-MasterView=True; path=/
+      X-Powered-By:
+      - ASP.NET
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      Date:
+      - Thu, 14 Jul 2022 05:06:23 GMT
+      Content-Length:
+      - '118'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/\">here</a>.</h2>\r\n</body></html>\r\n"
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://planning.dubbo.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=xuayt0vuuwphfs4bambw045b; User=accessAllowed-MasterView=True
+      Host:
+      - planning.dubbo.nsw.gov.au
+      Referer:
+      - https://planning.dubbo.nsw.gov.au/Home/Disclaimer
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/10.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      Date:
+      - Thu, 14 Jul 2022 05:06:23 GMT
+      Content-Length:
+      - '21058'
+    body:
+      encoding: UTF-8
+      string: "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n    <meta charset=\"utf-8\"
+        />\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n
+        \   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"
+        />\r\n    <meta name=\"author\" content=\"\" />\r\n    <meta name=\"keywords\"
+        content=\"Dubbo City Council, DA Tracker,Application Tracker,Development Application,Development
+        Application Tracking, DA Enquiry, Development Application Enquiry, Application
+        Tracker\">\r\n    <meta name=\"description\" content=\"The official Dubbo
+        City Council Application Tracker\">\r\n\r\n    <!--favicon-->\r\n    <link
+        href=\"/favicon.ico\" rel=\"shortcut icon\" type=\"image/x-icon\" />\r\n\r\n
+        \   <!-- jQuery -->\r\n    <script src=\"/Scripts/jquery-1.11.1.js\"></script>\r\n\r\n
+        \   <script src=\"/Scripts/jquery-ui-1.11.2.js\"></script>\r\n\r\n    <link
+        href=\"/Content/themes/base/core.css\" rel=\"stylesheet\"/>\r\n<link href=\"/Content/themes/base/accordion.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/themes/base/theme.css\" rel=\"stylesheet\"/>\r\n\r\n\r\n
+        \   <!-- Bootstrap -->\r\n    <script src=\"/Scripts/bootstrap.js\"></script>\r\n\r\n
+        \   <link href=\"/Content/bootstrap-theme.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/Content/bootstrap.css\" rel=\"stylesheet\"/>\r\n\r\n    <link href=\"/Content/font-awesome.css\"
+        rel=\"stylesheet\"/>\r\n\r\n    <link href=\"/Council_Theme/Dubbo/dubbo.css\"
+        rel=\"stylesheet\" />\r\n    <!-- DataTables -->\r\n    <script src=\"/Scripts/DataTables/jquery.dataTables.js\"></script>\r\n<script
+        src=\"/Scripts/DataTables/dataTables.bootstrap.js\"></script>\r\n<script src=\"/Scripts/DataTables/dataTables.responsive.js\"></script>\r\n\r\n
+        \   \r\n    <link href=\"/Content/DataTables/css/dataTables.bootstrap.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/DataTables/css/dataTables.responsive.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/DataTables/css/dataTables.responsive.scss\"
+        rel=\"stylesheet\"/>\r\n\r\n\r\n\r\n    <!-- Bootstrap SB-Admin-2 Plugin and
+        other css and js files-->\r\n    <script src=\"/js/bootstrap-combobox.js\"></script>\r\n<script
+        src=\"/js/bootstrap-datepicker.js\"></script>\r\n<script src=\"/js/jquery.form.js\"></script>\r\n<script
+        src=\"/js/jquery.tablesorter.js\"></script>\r\n<script src=\"/js/masterview.js\"></script>\r\n<script
+        src=\"/js/metisMenu.js\"></script>\r\n<script src=\"/js/sb-admin-2.js\"></script>\r\n\r\n
+        \   <link href=\"/css/bootstrap-combobox.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/css/datepicker3.css\" rel=\"stylesheet\"/>\r\n<link href=\"/css/masterview-customisations.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/css/sb-admin-2.css\" rel=\"stylesheet\"/>\r\n\r\n\r\n
+        \   <link href=\"/Council_Theme/Dubbo/dubbo.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/Council_Theme/Dubbo/dubbo_20160225.css\" rel=\"stylesheet\"/>\r\n\r\n
+        \   \r\n\r\n\r\n    <title>Dubbo City Council - Application Tracker</title>\r\n\r\n
+        \   <!-- Custom Fonts\r\n        <link href=\"/font-awesome/css/font-awesome.min.css\"
+        rel=\"stylesheet\" type=\"text/css\">\r\n    -->\r\n    <!-- HTML5 Shim and
+        Respond.js IE8 support of HTML5 elements and media queries -->\r\n    <!--
+        WARNING: Respond.js doesn't work if you view the page via file:// -->\r\n
+        \   <!--[if lt IE 9]>\r\n        <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\r\n
+        \       <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\r\n
+        \   <![endif]-->\r\n\r\n</head>\r\n\r\n\r\n<body>\r\n    <div id=\"wrapper\">\r\n
+        \       <!-- Navigation -->\r\n        <div id=\"header\">\r\n            <a
+        href=\"http://www.dubbo.nsw.gov.au\">\r\n                <img alt=\"\" style=\"width:140px;
+        min-height: 100px;\" id=\"council_logo\" src=\"/Council_Theme/Dubbo/dcclogo.gif\"
+        class=\"img-responsive Left-block\" />\r\n            </a>\r\n            <!--logo
+        end-->\r\n            <!--menu1 end-->\r\n            <div id=\"banner\">\r\n
+        \               <img src=\"/Council_Theme/Dubbo/dubbo_banner.jpg\" />\r\n
+        \           </div>\r\n        </div>\r\n\r\n        <nav class=\"navbar navbar-default
+        navbar-static-top\" role=\"navigation\" style=\"margin-bottom: 0\">\r\n            <div
+        class=\"navbar-header\">\r\n                <button type=\"button\" class=\"navbar-toggle\"
+        data-toggle=\"collapse\" data-target=\".navbar-collapse\">\r\n                    <span
+        class=\"sr-only\">Toggle navigation</span>\r\n                    <span class=\"icon-bar\"></span>\r\n
+        \                   <span class=\"icon-bar\"></span>\r\n                    <span
+        class=\"icon-bar\"></span>\r\n                </button>\r\n            </div>\r\n\r\n
+        \           <!-- /.navbar-header -->\r\n            <ul class=\"nav navbar-top-links
+        navbar-right hidden-xs hidden-sm hidden-md\">\r\n                <li>\r\n
+        \                   <a href=\"#\"><span id=\"printIcon\" class=\"glyphicon
+        glyphicon-print\" onclick=\"window.print();\"></span></a>\r\n                </li>\r\n
+        \           </ul>\r\n\r\n            <div class=\"navbar-default sidebar\"
+        role=\"navigation\">\r\n                <div class=\"sidebar-nav navbar-collapse\">\r\n
+        \                   <ul class=\"nav\" id=\"side-menu\">\r\n                        <li
+        class=\"active\">\r\n                            <a href=\"#\"><i class=\"fa
+        fa-list-ul fa-fw\"></i>Application Tracker<span class=\"fa arrow\"></span></a>\r\n
+        \                           <ul class=\"nav nav-second-level collapse\">\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Home/About target=_self>What is Application Tracker?</a>\r\n                                        </li>\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Home/Disclaimer target=_self>Disclaimer</a>\r\n                                        </li>\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Home/FAQ target=_self>FAQ</a>\r\n                                        </li>\r\n
+        \                           </ul>\r\n                            <!-- /.nav-second-level
+        -->\r\n                        </li>\r\n                        <li class=\"active\">\r\n
+        \                           <a href=\"#\"><i class=\"fa fa-list-ul fa-fw\"></i>Applications<span
+        class=\"fa arrow\"></span></a>\r\n                            <ul class=\"nav
+        nav-second-level collapse\">\r\n                                        <li>\r\n
+        \                                           <a href=/Home/Index target=>Application
+        Tracker Home</a>\r\n                                        </li>\r\n                                        <li>\r\n
+        \                                           <a href=/Home/Search id=search
+        target=_self>Search</a>\r\n                                        </li>\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Application/AdvancedSearchResult?RemoveUndeterminedApplications=False&ShowOutstandingApplications=True&ShowExhibitedApplications=False&IncludeDocuments=False
+        id=outstanding-apps target=_self>Undetermined Applications</a>\r\n                                        </li>\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Application/AdvancedSearchResult?RemoveUndeterminedApplications=False&ShowOutstandingApplications=False&ShowExhibitedApplications=True&IncludeDocuments=False
+        id=exhibited-apps target=_self>Applications On Exhibition</a>\r\n                                        </li>\r\n
+        \                           </ul>\r\n                            <!-- /.nav-second-level
+        -->\r\n                        </li>\r\n                        <li class=\"active\">\r\n
+        \                           <a href=\"#\"><i class=\"fa fa-list-ul fa-fw\"></i>Applications
+        Submitted<span class=\"fa arrow\"></span></a>\r\n                            <ul
+        class=\"nav nav-second-level collapse\">\r\n                                        <li>\r\n
+        \                                           <a href=/Application/AdvancedSearchResult?DateFrom=11%2f07%2f2022&DateTo=14%2f07%2f2022&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=10%2c11%2c16%2c13%2c14%2c15%2c8%2c5&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Week</a>\r\n                                        </li>\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=3%2f07%2f2022&DateTo=9%2f07%2f2022&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=10%2c11%2c16%2c13%2c14%2c15%2c8%2c5&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Week</a>\r\n                                        </li>\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f07%2f2022&DateTo=14%2f07%2f2022&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=10%2c11%2c16%2c13%2c14%2c15%2c8%2c5&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Month</a>\r\n                                        </li>\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f06%2f2022&DateTo=30%2f06%2f2022&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=10%2c11%2c16%2c13%2c14%2c15%2c8%2c5&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Month</a>\r\n                                        </li>\r\n
+        \                           </ul>\r\n                            <!-- /.nav-second-level
+        -->\r\n                        </li>\r\n                        <li class=\"active\">\r\n
+        \                           <a href=\"#\"><i class=\"fa fa-list-ul fa-fw\"></i>Applications
+        Determined<span class=\"fa arrow\"></span></a>\r\n                            <ul
+        class=\"nav nav-second-level collapse\">\r\n                                        <li>\r\n
+        \                                           <a href=/Application/AdvancedSearchResult?DateFrom=11%2f07%2f2022&DateTo=14%2f07%2f2022&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=10%2c11%2c16%2c13%2c14%2c15%2c8%2c5&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Week</a>\r\n                                        </li>\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=3%2f07%2f2022&DateTo=9%2f07%2f2022&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=10%2c11%2c16%2c13%2c14%2c15%2c8%2c5&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Week</a>\r\n                                        </li>\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f07%2f2022&DateTo=14%2f07%2f2022&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=10%2c11%2c16%2c13%2c14%2c15%2c8%2c5&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Month</a>\r\n                                        </li>\r\n
+        \                                       <li>\r\n                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f06%2f2022&DateTo=30%2f06%2f2022&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=10%2c11%2c16%2c13%2c14%2c15%2c8%2c5&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Month</a>\r\n                                        </li>\r\n
+        \                           </ul>\r\n                            <!-- /.nav-second-level
+        -->\r\n                        </li>\r\n\r\n                    </ul>\r\n
+        \               </div>\r\n                <!-- /.sidebar-collapse -->\r\n
+        \           </div>\r\n            <!-- /.navbar-static-side -->\r\n        </nav>\r\n
+        \       <div id=\"page-wrapper\">\r\n\r\n            <div class=\"container-fluid\">\r\n\r\n
+        \               \r\n\r\n\r\n\r\n\r\n\r\n<div class=\"page-header\">\r\n    <h2>Welcome</h2>\r\n</div>\r\n\r\n<div>\r\n<p>\r\n<h4>What
+        is Application  Tracker?</h4>\r\n\r\nApplication  Tracker is a tool to track
+        the progress of development applications, construction certificates and complying
+        development certificates.</p>\r\n</p>\r\n\r\n<p>\r\n\t<h4>What information
+        is available?</h4>\r\n\t<ul>\r\n        <li>All development applications,
+        construction certificates, and complying development certificates submitted
+        from 1 November 2015 will provide access to submitted plans and supporting
+        documents as well as tracking details of the progress of the application</li>\r\n
+        \       <li>More limited information is provided for applications submitted
+        from 1 January 2001 to 31 October 2015</li>\r\n        <li>Occupation Certificates
+        (where issued) are provided only from 2010 </li>\r\n    </ul>\r\n\t</P>\r\n\t<p>\r\n\t<h4>What
+        information is not available?</h4>\r\n\t<ul>\r\n        <li>Application Form</li>\r\n
+        \       <li>Documentation associated with privately certified applications</li>\r\n\t<li>Internal
+        reports</li>\r\n    </ul>\r\n\t</P>\r\n\r\n</div>\r\n\r\n\r\n<div id=\"gmapsLabel\">\r\n
+        \   <h4>Applications submitted between 27 June 2022 and 10 July 2022</h4>\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n<div
+        id=\"map_container\" class=\"homepage\">\r\n    <div id=\"map_canvas\" class=\"iframe-rwd\"></div>\r\n</div>\r\n\r\n\r\n<div
+        id=\"map_canvas_print_container\">\r\n    <div id=\"map_canvas_print\"></div>\r\n</div>\r\n\r\n\r\n<script
+        type=\"text/javascript\">\r\n\r\n    var map, mapPrint;\r\n    var geocoder;\r\n
+        \   var bounds;\r\n    var next = 0;\r\n    var propertyAddressesGM;\r\n    var
+        boundsEnabled = false;\r\n    var arrMarkerAndInfoWindowHolder = [];\r\n\r\n
+        \   //CLIENT SPECIFIC VALUES\r\n    //prevents markers showing from outside
+        this region when boundsEnabled=true\r\n    var latMaxLimit = -27;\r\n    var
+        lngMaxLimit = 153;\r\n\r\n    // using the web.config to get zoomlevel,base
+        address and scrollenabled values\r\n    var defaultZoomLevelGM = 12;\r\n    var
+        scrollenabled = false;\r\n    var scrollconfig = \"\";\r\n    var baseaddress
+        = \"\";\r\n    var basecountrycode = \"\";\r\n    var infowindow;\r\n\r\n
+        \   function initializeGoogleMaps() {\r\n\r\n        google.maps.event.addDomListener(window,
+        'resize', function() {\r\n            var center = map.getCenter();\r\n            google.maps.event.trigger(map,
+        'resize');\r\n            map.setCenter(center);\r\n            mapPrint.setCenter(center);\r\n
+        \       });\r\n\r\n        geocoder = new google.maps.Geocoder();\r\n        bounds
+        = new google.maps.LatLngBounds();\r\n\r\n        scrollconfig = \"yes\";\r\n
+        \       if(scrollconfig == \"yes\") {\r\n            scrollenabled = true;\r\n
+        \       }\r\n\r\n        var mapOptions = {\r\n            zoom: defaultZoomLevelGM,\r\n
+        \           mapTypeId: google.maps.MapTypeId.ROADMAP,\r\n            scrollwheel:
+        true\r\n        };\r\n\r\n        map = new google.maps.Map(document.getElementById(\"map_canvas\"),
+        mapOptions);\r\n\r\n        //Only load the maps for tablets and bigger screens\r\n
+        \       if(screen.width > 768)\r\n        {\r\n            mapPrint = new
+        google.maps.Map(document.getElementById(\"map_canvas_print\"), mapOptions);\r\n
+        \           setEventListenersToBindPrintMapToDisplayMap();\r\n        }\r\n
+        \       else {\r\n            $('#map_canvas_print_container').remove();\r\n
+        \       }\r\n\r\n        setMapCentre();\r\n\r\n        populateMarkerAndInfoWindowHolderArray();\r\n\r\n
+        \       createAndPlotMarkers() ;\r\n    }\r\n\r\n    function setMapCentre()
+        {\r\n        // Get the centre Point address and Set Centre Point\r\n        baseaddress
+        = \"Corner Church &amp; Darling streets, Dubbo NSW 2830\";\r\n        basecountrycode
+        = \"AU\";\r\n\r\n        geocoder.geocode({'address' : baseaddress, 'componentRestrictions'
+        : {'country':basecountrycode}},\r\n            function(results, status) {\r\n
+        \               if(status == google.maps.GeocoderStatus.OK) {\r\n                    var
+        result = results[0].geometry.location;\r\n                    map.setCenter(result);\r\n
+        \               }\r\n            });\r\n    }\r\n\r\n    /* Sets event handlers
+        so that the changes on the display map reflect on the hidden print map */\r\n
+        \   function setEventListenersToBindPrintMapToDisplayMap() {\r\n        google.maps.event.addListener(map,
+        'zoom_changed', function() {\r\n            var zoomLevel = map.getZoom();\r\n
+        \           var center = map.getCenter();\r\n\r\n            //Set zoom and
+        center of the hidden printable map\r\n            mapPrint.setZoom(zoomLevel);\r\n
+        \           mapPrint.setCenter(center);\r\n        });\r\n\r\n        google.maps.event.addListener(map,
+        'center_changed', function() {\r\n            var center = map.getCenter();\r\n\r\n
+        \           //Set center of the hidden printable map\r\n            mapPrint.setCenter(center);\r\n
+        \       });\r\n    }\r\n\r\n    /* Parses XML geocodes and populates the data
+        into MarkerAndInfoWindowHolder object instances to later plot on the map */\r\n
+        \   function populateMarkerAndInfoWindowHolderArray() {\r\n        var properties
+        = null;\r\n        latlngbounds = new google.maps.LatLngBounds();\r\n\r\n
+        \       var item = [];\r\n\r\n        $(item).each(function()\r\n        {\r\n
+        \           var arrProperty = $(this);\r\n            createMarkerAndInfoWindowHolderObjects(arrProperty[0],
+        arrProperty[1], arrProperty[2], arrProperty[3], arrProperty[4]);\r\n        });\r\n
+        \   }\r\n\r\n    /* Checks if a marker has already been created for newLocation
+        */\r\n    function isNewLocation(newLocation)\r\n    {\r\n        var bNewLocation
+        = true;\r\n\r\n        $(arrMarkerAndInfoWindowHolder).each(function () {\r\n\r\n
+        \           if (newLocation.equals(this.location)) {\r\n                bNewLocation
+        = false;\r\n                return false;   //This breaks the each loop\r\n
+        \           }\r\n        });\r\n\r\n        return bNewLocation;\r\n    }\r\n\r\n
+        \   /* Creates MarkerAndInfoWindowHolder objects and adds them to the array
+        and modifies them */\r\n    function createMarkerAndInfoWindowHolderObjects(coord,
+        address, content, key, appNo) {\r\n        var coordArray = new Array();\r\n
+        \       coordArray[0] = parseFloat(coord.split(\",\")[0]); //.map not supported
+        in IE 8\r\n        coordArray[1] = parseFloat(coord.split(\",\")[1]);\r\n\r\n
+        \       if (!boundsEnabled || (parseInt(coordArray[0]) >= latMaxLimit && parseInt(coordArray[1])
+        <= lngMaxLimit)) {\r\n            var newLocation = new google.maps.LatLng(coordArray[0],
+        coordArray[1]);\r\n            var link = \"<a href='/Application/ApplicationDetails/\"
+        + key + \"/'>\" + appNo + \" - \" + address + \"</a><br/>\" + content\r\n
+        \           var bNewLocation = isNewLocation(newLocation);\r\n\r\n            if(bNewLocation)
+        {\r\n                arrMarkerAndInfoWindowHolder.push(new MarkerAndInfoWindowHolder(content,
+        newLocation, link));\r\n            }\r\n            else {\r\n                $(arrMarkerAndInfoWindowHolder).each(function
+        (index, obj) {\r\n\r\n                    if (newLocation.equals(obj.location))
+        {\r\n                        obj.infoWindowContent = obj.infoWindowContent
+        + \"<br/>\" + link;\r\n\r\n                        return false;   //exit
+        each loop\r\n                    }\r\n                });\r\n            }\r\n\r\n
+        \           latlngbounds.extend(newLocation);\r\n        }\r\n    }\r\n\r\n
+        \   /* Creates and sets the markers on the map */\r\n    function createAndPlotMarkers()
+        {\r\n\r\n        $(arrMarkerAndInfoWindowHolder).each(function() {\r\n            var
+        markerTitle = this.markerTitle;\r\n            var location = this.location;\r\n
+        \           var infoWindowContent = this.infoWindowContent;\r\n\r\n            //Sets
+        the marker on the display map\r\n            var marker = new google.maps.Marker({\r\n
+        \               map: map,\r\n                position: location,\r\n                title:
+        markerTitle\r\n            });\r\n\r\n            //Sets the marker on the
+        printable map\r\n            new google.maps.Marker({\r\n                map:
+        mapPrint,\r\n                position: location,\r\n                title:
+        markerTitle\r\n            });\r\n\r\n            //Attach eventlistener to
+        the marker\r\n            google.maps.event.addListener(marker, 'click', function
+        () {\r\n                if (infowindow)\r\n                    infowindow.close();\r\n\r\n
+        \               infowindow = new google.maps.InfoWindow({\r\n                    content:
+        infoWindowContent,\r\n                    maxWidth: 400\r\n                });\r\n\r\n
+        \               infowindow.open(map, marker);\r\n            });\r\n        });\r\n\r\n
+        \   }\r\n\r\n    /* An object that holds information about the locations which
+        have been created \r\n    using data from parsed geocode XML \r\n    markerTitle:
+        title of the marker/pin on the map\r\n    location: google maps location object
+        to pass to marker constructor\r\n    infoWindowContent: content that appears
+        when the marker/pin is clicked\r\n    */\r\n    function MarkerAndInfoWindowHolder(markerTitle,
+        location, infoWindowContent) {\r\n        this.markerTitle = markerTitle;\r\n
+        \       this.location = location;\r\n        this.infoWindowContent = infoWindowContent;\r\n
+        \   }\r\n\r\n    function loadGoogleMapsScript() {\r\n        var script =
+        document.createElement(\"script\");\r\n        script.type = \"text/javascript\";\r\n
+        \       script.src = \"//maps.googleapis.com/maps/api/js?key=AIzaSyAjA10pwfhURqMYCfj5ISIOCm83O2Bv_b0&callback=initializeGoogleMaps\";\r\n
+        \       document.body.appendChild(script);\r\n    }\r\n\r\n    window.onload
+        = loadGoogleMapsScript;\r\n\r\n</script>\r\n\r\n\r\n            </div>\r\n
+        \           <!-- /.container-fluid -->\r\n\r\n        </div>\r\n        <!--
+        /#page-wrapper -->\r\n        <div id=\"footer\">\r\n            \r\n\r\n\r\n
+        \       </div>\r\n        <!-- /#wrapper -->\r\n    </div>\r\n</body>\r\n</html>"
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://planning.dubbo.nsw.gov.au//Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=0&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=xuayt0vuuwphfs4bambw045b; User=accessAllowed-MasterView=True
+      Host:
+      - planning.dubbo.nsw.gov.au
+      Referer:
+      - https://planning.dubbo.nsw.gov.au/
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '298'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/10.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      Date:
+      - Thu, 14 Jul 2022 05:06:33 GMT
+      Content-Length:
+      - '22236'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":133,"recordsFiltered":133,"data":[["011.2018.00000441.002","11.2018.441.2","Construction
+        Certificate","08/05/2019","Boundary Rd, Dubbo 2830 NSW \u003cbr/\u003eMagnolia
+        Bvd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003e8 Lot residential subdivision\u003c/b\u003e"],["008.2019.00000811.001","8.2019.811.1","Subdivision
+        App (Exempt/Old)","08/05/2019","1 Mallee Rd, Dubbo 2830 NSW \u003cbr/\u003e1-1
+        Mallee Rd, Dubbo 2830 NSW \u003cbr/\u003e2 Tannery Rd, Dubbo 2830 NSW \u003cbr/\u003e26
+        Purvis La, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eRoad widening\u003c/b\u003e"],["013.2017.00000462.001","13.2017.462.1","Subdivision
+        Certificate","08/05/2019","182 Fitzroy St, Dubbo 2830 NSW \u003cbr/\u003e197
+        Wingewarra St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eTwo (2) lot subdivision\u003c/b\u003e"],["010.2016.00000094.002","10.2016.94.2","S96","14/05/2019","7
+        Volta Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eModified application
+        - Multi-dwelling housing (9 units) and Community Title subdivision\u003c/b\u003e"],["010.2001.00001354.019","10.2001.1354.19","S96","30/04/2019","2-12
+        Glenabbey Dr, Dubbo 2830 NSW \u003cbr/\u003eBlackbutt Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eModified
+        application - Housing for older people and people with a disability (SEPP
+        5)\u003c/b\u003e"],["010.2017.00000671.002","10.2017.671.2","S96","02/05/2019","1
+        Church St, Dubbo 2830 NSW \u003cbr/\u003eBligh St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eModified
+        application - Mixed use development comprising commercial premises (restaurant
+        and bar) on ground floor, 57 serviced apartments (floors 2 to 6) and 27 shop
+        top housing units (floors 7 to 13), plus parking over four (4) levels and
+        roof terrace.  The proposal also includes a four (4) lot stratum and subsequent
+        84 lot strata title subdivision.\u003c/b\u003e"],["013.2018.00000202.001","13.2018.202.1","Subdivision
+        Certificate","06/05/2019","102L Burraway Rd, Terramungamine 2830 NSW \u003cbr/\u003e\u003cb\u003eTwo
+        (2) lot subdivision\u003c/b\u003e"],["010.2019.00000183.001","10.2019.183.1","Development
+        Application","06/05/2019","21R Bulwarra Dr, Dubbo 2830 NSW \u003cbr/\u003e22R
+        Bulwarra Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eTwo (2) lot subdivision\u003c/b\u003e"],["011.2019.00000191.001","11.2019.191.1","Construction
+        Certificate","10/05/2019","35 Azure Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of two (2) storey exhibition home with attached garage, porch, deck and alfresco\u003c/b\u003e"],["010.2019.00000191.001","10.2019.191.1","Development
+        Application","10/05/2019","35 Azure Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eExhibition
+        home\u003c/b\u003e"],["011.2019.00000192.001","11.2019.192.1","Construction
+        Certificate","10/05/2019","33 Azure Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch, alfresco and retaining wall\u003c/b\u003e"],["010.2019.00000192.001","10.2019.192.1","Development
+        Application","10/05/2019","33 Azure Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eExhibition
+        home\u003c/b\u003e"],["010.2019.00000181.001","10.2019.181.1","Development
+        Application","03/05/2019","8L Bungoona Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and additions to existing dwelling and freestanding shed\u003c/b\u003e"],["011.2019.00000025.001","11.2019.25.1","Construction
+        Certificate","29/04/2019","169 Boundary Rd, Dubbo 2830 NSW \u003cbr/\u003e175
+        Boundary Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection of attached
+        dual occupancy with garages, patios and porches - Units 1 and 2 only\u003c/b\u003e"],["010.2019.00000177.001","10.2019.177.1","Development
+        Application","01/05/2019","16 Aqua Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of inground swimming pool\u003c/b\u003e"],["011.2019.00000196.001","11.2019.196.1","Construction
+        Certificate","14/05/2019","8 Ivy Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and patio\u003c/b\u003e"],["010.2019.00000196.001","10.2019.196.1","Development
+        Application","14/05/2019","8 Ivy Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and patio\u003c/b\u003e"],["014.2018.00000302.002","14.2018.302.2","Occupation
+        Certificate","07/05/2019","11 Champagne Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of two (2) storey dwelling with attached garage, balcony, verandah\u003c/b\u003e"],["014.2018.00000302.001","14.2018.302.1","Occupation
+        Certificate","29/04/2019","11 Champagne Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding shed\u003c/b\u003e"],["010.2017.00000659.002","10.2017.659.2","S96","29/04/2019","1
+        Tenandra St, Wongarbon 2831 NSW \u003cbr/\u003e64 Railway St, Wongarbon 2831
+        NSW \u003cbr/\u003eTenandra St, Wongarbon 2831 NSW \u003cbr/\u003e\u003cb\u003eModified
+        application - Two (2) lot subdivision\u003c/b\u003e"],["011.2016.00000494.002","11.2016.494.2","Construction
+        Certificate","10/05/2019","37 Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e38 Peel
+        Pl, Dubbo 2830 NSW \u003cbr/\u003e39 Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e40
+        Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e41 Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e42
+        Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e43 Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e45
+        Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e47 Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e49
+        Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e51 Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e53
+        Peel Pl, Dubbo 2830 NSW \u003cbr/\u003e55 Peel Pl, Dubbo 2830 NSW \u003cbr/\u003ePeel
+        Pl, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003e13 Lot (Lot 20 to 32) Residential
+        Subdivision\u003c/b\u003e"],["010.2019.00000174.001","10.2019.174.1","Development
+        Application","30/04/2019","10 Arthur Butler Dr, Dubbo 2830 NSW \u003cbr/\u003e4R
+        Cooreena Rd, Dubbo 2830 NSW \u003cbr/\u003e8 Howe Pl, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of roofed deck\u003c/b\u003e"],["011.2019.00000174.001","11.2019.174.1","Construction
+        Certificate","30/04/2019","10 Arthur Butler Dr, Dubbo 2830 NSW \u003cbr/\u003e4R
+        Cooreena Rd, Dubbo 2830 NSW \u003cbr/\u003e8 Howe Pl, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of roofed deck\u003c/b\u003e"],["014.2018.00000245.001","14.2018.245.1","Occupation
+        Certificate","26/04/2019","50 Hindmarsh Esp, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage and patio\u003c/b\u003e"],["015.2006.00000244.002","15.2006.244.2","Compliance
+        Certificate","10/05/2019","33 St Andrews Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInground,
+        outdoor swimming pool\u003c/b\u003e"],["010.2019.00000184.001","10.2019.184.1","Development
+        Application","06/05/2019","Azure Ave, Dubbo 2830 NSW \u003cbr/\u003eBoundary
+        Rd, Dubbo 2830 NSW \u003cbr/\u003eKeswick Pkwy, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eBoundary
+        adjustment\u003c/b\u003e"],["011.2019.00000188.001","11.2019.188.1","Construction
+        Certificate","08/05/2019","19 Noccundra Pl, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding shed\u003c/b\u003e"],["010.2019.00000188.001","10.2019.188.1","Development
+        Application","08/05/2019","19 Noccundra Pl, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding shed\u003c/b\u003e"],["010.2019.00000193.001","10.2019.193.1","Development
+        Application","10/05/2019","17 Purvis La, Dubbo 2830 NSW \u003cbr/\u003eMerrilea
+        Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eWarehouse (Wool storage)\u003c/b\u003e"],["010.2019.00000031.002","10.2019.31.2","S96","01/05/2019","88
+        Macquarie St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eModified application
+        - Commercial premises (alterations)\u003c/b\u003e"],["010.2019.00000189.001","10.2019.189.1","Development
+        Application","09/05/2019","3 Naman St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eDual
+        occupancy (attached)\u003c/b\u003e"],["010.2019.00000187.001","10.2019.187.1","Development
+        Application","08/05/2019","9 Mangrove Cres, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and patio\u003c/b\u003e"],["015.2003.00000109.001","15.2003.109.1","Compliance
+        Certificate","09/05/2019","75 Darling St, Dubbo 2830 NSW \u003cbr/\u003eMacleay
+        St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInground, outdoor swimming
+        pool\u003c/b\u003e"],["010.2019.00000175.001","10.2019.175.1","Development
+        Application","30/04/2019","4535 Burrendong Wy, Euchareena 2866 NSW \u003cbr/\u003e\u003cb\u003eAdditions
+        to dwelling\u003c/b\u003e"],["010.2019.00000195.001","10.2019.195.1","Development
+        Application","13/05/2019","154R Narromine Rd, Dubbo 2830 NSW \u003cbr/\u003e1R
+        The Falls Rd, Dubbo 2830 NSW \u003cbr/\u003eNarromine Rd, Dubbo 2830 NSW \u003cbr/\u003eThe
+        Falls Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eBoundary adjustment\u003c/b\u003e"],["010.2019.00000186.001","10.2019.186.1","Development
+        Application","06/05/2019","52 Lincoln Pky, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and alfresco\u003c/b\u003e"],["010.2019.00000178.001","10.2019.178.1","Development
+        Application","01/05/2019","11 Wave Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and patio\u003c/b\u003e"],["010.2018.00000262.002","10.2018.262.2","S96","26/04/2019","8
+        Paterson Crct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eModified application
+        - Erection of dwelling with attached garage, verandah, patio and detached
+        garage and front fence\u003c/b\u003e"],["010.2019.00000185.001","10.2019.185.1","Development
+        Application","06/05/2019","55 Lakeside Crct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of inground swimming pool\u003c/b\u003e"],["011.2018.00000561.001","11.2018.561.1","Construction
+        Certificate","14/05/2019","Azure Ave, Dubbo 2830 NSW \u003cbr/\u003eBoundary
+        Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eStage CC33 Southlakes Estate
+        - Civil works\u003c/b\u003e"],["010.2019.00000197.001","10.2019.197.1","Development
+        Application","14/05/2019","3 Lesmurdie Pde, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eDual
+        occupancy (attached)\u003c/b\u003e"],["016.2019.00000032.001","16.2019.32.1","Complying
+        Development","06/05/2019","31 Bradford Crct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage and porch\u003c/b\u003e"],["011.2012.00000426.003","11.2012.426.3","Construction
+        Certificate","23/04/2019","195-197 Macquarie St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eStaged
+        construction - Alterations and additions to ground floor\u003c/b\u003e"],["010.2019.00000173.001","10.2019.173.1","Development
+        Application","26/04/2019","4 Mangrove Cres, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, carport and porch\u003c/b\u003e"],["015.2006.00000221.001","15.2006.221.1","Compliance
+        Certificate","06/05/2019","20 Saint Albans Wy, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInground,
+        outdoor swimming pool\u003c/b\u003e"],["010.2019.00000176.001","10.2019.176.1","Development
+        Application","30/04/2019","4 Beatrice Pl, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of Patio Cover\u003c/b\u003e"],["010.2019.00000190.001","10.2019.190.1","Development
+        Application","09/05/2019","1 Noccundra Pl, Dubbo 2830 NSW \u003cbr/\u003e3-3
+        Shindys Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection of freestanding
+        cubby house\u003c/b\u003e"],["010.2019.00000179.001","10.2019.179.1","Development
+        Application","02/05/2019","42 St Andrews Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of carport\u003c/b\u003e"],["010.2019.00000180.001","10.2019.180.1","Development
+        Application","02/05/2019","196 Brisbane St, Dubbo 2830 NSW \u003cbr/\u003eCarrington
+        Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eBusiness identification signage\u003c/b\u003e"],["013.2017.00000395.001","13.2017.395.1","Subdivision
+        Certificate","30/04/2019","14 Graza Ave, Dubbo 2830 NSW \u003cbr/\u003e14
+        Mortlock Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eTwo (2) lot subdivision\u003c/b\u003e"],["011.2019.00000176.001","11.2019.176.1","Construction
+        Certificate","30/04/2019","4 Beatrice Pl, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of Patio Cover\u003c/b\u003e"],["011.2019.00000190.001","11.2019.190.1","Construction
+        Certificate","09/05/2019","1 Noccundra Pl, Dubbo 2830 NSW \u003cbr/\u003e3-3
+        Shindys Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection of freestanding
+        cubby house\u003c/b\u003e"],["011.2019.00000177.001","11.2019.177.1","Construction
+        Certificate","01/05/2019","16 Aqua Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of inground swimming pool\u003c/b\u003e"],["010.2019.00000172.001","10.2019.172.1","Development
+        Application","26/04/2019","5 Naman St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eHome
+        business (catering)\u003c/b\u003e"],["013.2018.00000510.001","13.2018.510.1","Subdivision
+        Certificate","30/04/2019","17 Boyd Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eTwo
+        (2) lot subdivision\u003c/b\u003e"],["011.2019.00000179.001","11.2019.179.1","Construction
+        Certificate","02/05/2019","42 St Andrews Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of carport\u003c/b\u003e"],["011.2019.00000178.001","11.2019.178.1","Construction
+        Certificate","01/05/2019","11 Wave Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and patio\u003c/b\u003e"],["011.2019.00000194.001","11.2019.194.1","Construction
+        Certificate","10/05/2019","84 Murrayfield Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding garage\u003c/b\u003e"],["010.2019.00000194.001","10.2019.194.1","Development
+        Application","10/05/2019","84 Murrayfield Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding garage\u003c/b\u003e"],["015.1994.00000417.002","15.1994.417.2","Compliance
+        Certificate","07/05/2019","39 Murrayfield Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInground,
+        outdoor swimming pool\u003c/b\u003e"],["011.2019.00000186.001","11.2019.186.1","Construction
+        Certificate","06/05/2019","52 Lincoln Pky, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and alfresco\u003c/b\u003e"],["011.2019.00000182.001","11.2019.182.1","Construction
+        Certificate","03/05/2019","35 Amadeus Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of inground swimming pool\u003c/b\u003e"],["010.2019.00000182.001","10.2019.182.1","Development
+        Application","03/05/2019","35 Amadeus Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of inground swimming pool\u003c/b\u003e"],["014.2018.00000064.002","14.2018.64.2","Occupation
+        Certificate","08/05/2019","2 Nolan Esp, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, alfresco and porch\u003c/b\u003e"],["014.2018.00000399.001","14.2018.399.1","Occupation
+        Certificate","07/05/2019","12 Snowy Cr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eDual
+        occupancy (detached)\u003c/b\u003e"],["011.2019.00000173.001","11.2019.173.1","Construction
+        Certificate","26/04/2019","4 Mangrove Cres, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, carport and porch\u003c/b\u003e"],["011.2019.00000187.001","11.2019.187.1","Construction
+        Certificate","08/05/2019","9 Mangrove Cres, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and patio\u003c/b\u003e"],["011.2019.00000185.001","11.2019.185.1","Construction
+        Certificate","06/05/2019","55 Lakeside Crct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of inground swimming pool\u003c/b\u003e"],["014.2018.00000063.001","14.2018.63.1","Occupation
+        Certificate","14/05/2019","42 Argyle Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and alfresco\u003c/b\u003e"],["014.2017.00000083.001","14.2017.83.1","Occupation
+        Certificate","14/05/2019","16L Panai Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of rural shed\u003c/b\u003e"],["016.2019.00000022.002","16.2019.22.2","Complying
+        Development","08/05/2019","3 Pindari Gr, Montefiores 2820 NSW \u003cbr/\u003e\u003cb\u003eModified
+        application - Erection of dwelling with attached alfresco and detached shed\u003c/b\u003e"],["014.2019.00000033.001","14.2019.33.1","Occupation
+        Certificate","10/05/2019","21 Tamworth St, Dubbo 2830 NSW \u003cbr/\u003eDarling
+        St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eAlterations and additions to
+        existing dwelling\u003c/b\u003e"],["011.2018.00000262.002","11.2018.262.2","Construction
+        Certificate","26/04/2019","8 Paterson Crct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eModified
+        application - Erection of dwelling with attached garage, verandah, patio and
+        detached garage and front fence\u003c/b\u003e"],["014.2019.00000087.001","14.2019.87.1","Occupation
+        Certificate","10/05/2019","18 Wollomombi Pde, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of patio cover\u003c/b\u003e"],["014.2019.00000049.001","14.2019.49.1","Occupation
+        Certificate","10/05/2019","23 Pebble Beach Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding garage\u003c/b\u003e"],["014.2018.00000357.001","14.2018.357.1","Occupation
+        Certificate","10/05/2019","82 Lakeside Crct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage and alfresco\u003c/b\u003e"],["014.2017.00000318.002","14.2017.318.2","Occupation
+        Certificate","09/05/2019","66-72 Windsor Pde, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        to existing showroom, extension to workshop and erection o f rear detached
+        showroom\u003c/b\u003e"],["014.2018.00000528.001","14.2018.528.1","Occupation
+        Certificate","08/05/2019","422 Macquarie St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eGlass
+        enclose existing patio\u003c/b\u003e"],["015.2003.00000939.002","15.2003.939.2","Compliance
+        Certificate","08/05/2019","8 Arbory Cl, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInground,
+        outdoor swimming pool\u003c/b\u003e"],["014.2018.00000101.001","14.2018.101.1","Occupation
+        Certificate","08/05/2019","8 Cunningham St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding garage\u003c/b\u003e"],["011.2019.00000034.001","11.2019.34.1","Construction
+        Certificate","06/05/2019","13 Moonul St, Eumungerie 2822 NSW \u003cbr/\u003e38
+        Balladoran St, Eumungerie 2822 NSW \u003cbr/\u003e\u003cb\u003eErection of
+        dwelling with attached shed\u003c/b\u003e"],["016.2019.00000031.001","16.2019.31.1","Complying
+        Development","06/05/2019","4 Crown St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and additions to existing dwelling\u003c/b\u003e"],["016.2019.00000030.001","16.2019.30.1","Complying
+        Development","02/05/2019","4 Cavelle Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage and alfresco\u003c/b\u003e"],["014.2018.00000209.001","14.2018.209.1","Occupation
+        Certificate","07/05/2019","47 Lincoln Pky, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and alfresco\u003c/b\u003e"],["014.2019.00000008.001","14.2019.8.1","Occupation
+        Certificate","06/05/2019","15 Holmwood Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of inground swimming pool\u003c/b\u003e"],["014.2018.00000535.001","14.2018.535.1","Occupation
+        Certificate","06/05/2019","49 Meadowbank Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding garage\u003c/b\u003e"],["014.2018.00000076.002","14.2018.76.2","Occupation
+        Certificate","06/05/2019","10 Paterson Crct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch, verandah and patio\u003c/b\u003e"],["014.2019.00000121.001","14.2019.121.1","Occupation
+        Certificate","06/05/2019","3 Brennan Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of patio cover\u003c/b\u003e"],["014.2018.00000579.001","14.2018.579.1","Occupation
+        Certificate","06/05/2019","60 Hindmarsh Esp, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and patio\u003c/b\u003e"],["014.2018.00000152.001","14.2018.152.1","Occupation
+        Certificate","01/05/2019","45 Leonard St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding gargage\u003c/b\u003e"],["014.2018.00000518.001","14.2018.518.1","Occupation
+        Certificate","30/04/2019","22L Medway Rd, Brocklehurst 2830 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of inground swimming pool\u003c/b\u003e"],["015.2013.00000463.001","15.2013.463.1","Compliance
+        Certificate","24/04/2019","8L Sandy Pines Rd, Dubbo 2830 NSW \u003cbr/\u003eNarromine
+        Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInground, outdoor swimming
+        pool\u003c/b\u003e"],["014.2019.00000032.001","14.2019.32.1","Occupation Certificate","30/04/2019","18
+        Gundarra St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection of attached
+        patio cover and carport\u003c/b\u003e"],["014.2018.00000314.001","14.2018.314.1","Occupation
+        Certificate","30/04/2019","3 Cowal Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, carport and alfresco\u003c/b\u003e"],["014.2019.00000002.001","14.2019.2.1","Occupation
+        Certificate","26/04/2019","92 Sheraton Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding garage\u003c/b\u003e"],["014.2016.00000472.001","14.2016.472.1","Occupation
+        Certificate","26/04/2019","27 Champagne Dr, Dubbo 2830 NSW \u003cbr/\u003e28A
+        Lansdowne Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eModified application
+        - Seniors living (residential care facility)\u003c/b\u003e"],["014.2019.00000073.001","14.2019.73.1","Occupation
+        Certificate","26/04/2019","10 Askernish Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of attached patio\u003c/b\u003e"],["014.2018.00000586.001","14.2018.586.1","Occupation
+        Certificate","24/04/2019","45L Minore Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage\u003c/b\u003e"],["014.2018.00000098.001","14.2018.98.1","Occupation
+        Certificate","24/04/2019","21 Naman St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding garage and 22kL rainwater tank\u003c/b\u003e"],["014.2018.00000180.001","14.2018.180.1","Occupation
+        Certificate","23/04/2019","15 Kent Pl, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eModified
+        application - Erection of garage with attached carport\u003c/b\u003e"]]}'
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://planning.dubbo.nsw.gov.au//Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=100&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=xuayt0vuuwphfs4bambw045b; User=accessAllowed-MasterView=True
+      Host:
+      - planning.dubbo.nsw.gov.au
+      Referer:
+      - https://planning.dubbo.nsw.gov.au//Application/GetApplications
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '300'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/10.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      Date:
+      - Thu, 14 Jul 2022 05:06:39 GMT
+      Content-Length:
+      - '7023'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":133,"recordsFiltered":133,"data":[["010.2019.00000164.001","10.2019.164.1","Development
+        Application","15/04/2019","46 Lincoln Pky, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of patio cover\u003c/b\u003e"],["011.2019.00000164.001","11.2019.164.1","Construction
+        Certificate","15/04/2019","46 Lincoln Pky, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of patio cover\u003c/b\u003e"],["014.2018.00000028.002","14.2018.28.2","Occupation
+        Certificate","17/04/2019","8 Wave Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage and patio\u003c/b\u003e"],["014.2010.00000105.001","14.2010.105.1","Occupation
+        Certificate","16/04/2019","426 Wheelers La, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and additions to existing dwelling\u003c/b\u003e"],["010.2019.00000171.001","10.2019.171.1","Development
+        Application","18/04/2019","100-102 Arthur St, Wellington 2820 NSW \u003cbr/\u003e\u003cb\u003eBusiness
+        identification signage\u003c/b\u003e"],["011.2019.00000168.001","11.2019.168.1","Construction
+        Certificate","16/04/2019","59 Lincoln Pky, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, patio and alfresco\u003c/b\u003e"],["010.2019.00000168.001","10.2019.168.1","Development
+        Application","16/04/2019","59 Lincoln Pky, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, patio and alfresco\u003c/b\u003e"],["011.2017.00000022.002","11.2017.22.2","Construction
+        Certificate","17/04/2019","16-12 Bourke St, Dubbo 2830 NSW \u003cbr/\u003eRiver
+        St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eModified application - Vehicle
+        sales premises (alterations and additions)\u003c/b\u003e"],["010.2019.00000163.001","10.2019.163.1","Development
+        Application","15/04/2019","12 Durum Crct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of detached garage\u003c/b\u003e"],["011.2019.00000170.001","11.2019.170.1","Construction
+        Certificate","18/04/2019","15 Mangrove Cres, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and patio\u003c/b\u003e"],["010.2019.00000170.001","10.2019.170.1","Development
+        Application","18/04/2019","15 Mangrove Cres, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and patio\u003c/b\u003e"],["016.2019.00000028.001","16.2019.28.1","Complying
+        Development","15/04/2019","17R Wellington Rd, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of ground mounted solar installation (85kWh)\u003c/b\u003e"],["014.2018.00000123.001","14.2018.123.1","Occupation
+        Certificate","16/04/2019","51-53 Buckenbah St, Geurie 2818 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of solar panels (16.50kW)\u003c/b\u003e"],["011.2019.00000169.001","11.2019.169.1","Construction
+        Certificate","18/04/2019","4 Spring Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding garage\u003c/b\u003e"],["010.2019.00000165.001","10.2019.165.1","Development
+        Application","15/04/2019","1155 Uungula Rd, Wuuluman 2820 NSW \u003cbr/\u003e\u003cb\u003eMeteorological
+        mast\u003c/b\u003e"],["010.2019.00000166.001","10.2019.166.1","Development
+        Application","15/04/2019","145 Yarragal Rd, Wuuluman 2820 NSW \u003cbr/\u003e\u003cb\u003eMeteorological
+        mast\u003c/b\u003e"],["014.2018.00000100.001","14.2018.100.1","Occupation
+        Certificate","15/04/2019","13 Boyd Ave, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and alfresco\u003c/b\u003e"],["014.2019.00000029.001","14.2019.29.1","Occupation
+        Certificate","17/04/2019","56 Windsor Pde, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInternal
+        fitout (Laser clinic - Tenancy 131)\u003c/b\u003e"],["010.2019.00000169.001","10.2019.169.1","Development
+        Application","18/04/2019","4 Spring Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding garage\u003c/b\u003e"],["011.2019.00000152.001","11.2019.152.1","Construction
+        Certificate","17/04/2019","44 Lincoln Pky, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, patio, pergola and alfresco\u003c/b\u003e"],["011.2015.00000073.001","11.2015.73.1","Construction
+        Certificate","16/04/2019","177-191 Macquarie St, Dubbo 2830 NSW \u003cbr/\u003eCentre
+        La, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection of substation and
+        supporting structure\u003c/b\u003e"],["014.2018.00000045.002","14.2018.45.2","Occupation
+        Certificate","16/04/2019","16 Aqua Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and alfresco\u003c/b\u003e"],["011.2019.00000167.001","11.2019.167.1","Construction
+        Certificate","15/04/2019","11 Snowy Cr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding shed with attached awning\u003c/b\u003e"],["010.2019.00000167.001","10.2019.167.1","Development
+        Application","15/04/2019","11 Snowy Cr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of freestanding shed with attached awning\u003c/b\u003e"],["015.1990.00000580.001","15.1990.580.1","Compliance
+        Certificate","17/04/2019","9 Davidson Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInground,
+        outdoor swimming pool\u003c/b\u003e"],["015.2003.00000398.002","15.2003.398.2","Compliance
+        Certificate","16/04/2019","109-111 Whylandra St, Dubbo 2830 NSW \u003cbr/\u003e109-113
+        Whylandra St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInground, outdoor
+        swimming pool\u003c/b\u003e"],["011.2019.00000163.001","11.2019.163.1","Construction
+        Certificate","15/04/2019","12 Durum Crct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of detached garage\u003c/b\u003e"],["011.2017.00000318.003","11.2017.318.3","Construction
+        Certificate","17/04/2019","66-72 Windsor Pde, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of pylon sign (Ford) and portal sign (VW) on existing footing\u003c/b\u003e"],["014.2018.00000632.001","14.2018.632.1","Occupation
+        Certificate","18/04/2019","11R Debeaufort Dr, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of inground swimming pool\u003c/b\u003e"],["014.2018.00000165.001","14.2018.165.1","Occupation
+        Certificate","18/04/2019","4 Mitchell St, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        to existing dwelling, erection of secondary dwelling, garage and carport\u003c/b\u003e"],["014.2018.00000610.001","14.2018.610.1","Occupation
+        Certificate","17/04/2019","5 Wave Ct, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of dwelling with attached garage, porch and patio\u003c/b\u003e"],["015.2010.00000105.001","15.2010.105.1","Compliance
+        Certificate","16/04/2019","426 Wheelers La, Dubbo 2830 NSW \u003cbr/\u003e\u003cb\u003eModified
+        Application - Alterations and Additions to Existing Dwelling\u003c/b\u003e"],["014.2018.00000427.001","14.2018.427.1","Occupation
+        Certificate","15/04/2019","33 Mortlock Ave, Dubbo 2830 NSW \u003cbr/\u003e42
+        Hindmarsh Esp, Dubbo 2830 NSW \u003cbr/\u003eHindmarsh Esp, Dubbo 2830 NSW
+        \u003cbr/\u003e\u003cb\u003eDwelling \u0027A\u0027 of detached Dual Occupancy\u003c/b\u003e"]]}'
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+recorded_with: VCR 6.0.0

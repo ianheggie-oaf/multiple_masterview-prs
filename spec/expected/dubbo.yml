@@ -1,0 +1,814 @@
+---
+- council_reference: 10.2001.1354.19
+  address: 2-12 Glenabbey Dr, Dubbo 2830 NSW
+  description: Modified application - Housing for older people and people with a disability
+    (SEPP 5)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2001.00001354.019
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 10.2016.94.2
+  address: 7 Volta Ave, Dubbo 2830 NSW
+  description: Modified application - Multi-dwelling housing (9 units) and Community
+    Title subdivision
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2016.00000094.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 10.2017.659.2
+  address: 1 Tenandra St, Wongarbon 2831 NSW
+  description: Modified application - Two (2) lot subdivision
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2017.00000659.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+- council_reference: 10.2017.671.2
+  address: 1 Church St, Dubbo 2830 NSW
+  description: Modified application - Mixed use development comprising commercial
+    premises (restaurant and bar) on ground floor, 57 serviced apartments (floors
+    2 to 6) and 27 shop top housing units (floors 7 to 13), plus parking over four
+    (4) levels and roof terrace. The proposal also includes a four (4) lot stratum
+    and subsequent 84 lot strata title subdivision.
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2017.00000671.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+- council_reference: 10.2018.262.2
+  address: 8 Paterson Crct, Dubbo 2830 NSW
+  description: Modified application - Erection of dwelling with attached garage, verandah,
+    patio and detached garage and front fence
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2018.00000262.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: 10.2019.163.1
+  address: 12 Durum Crct, Dubbo 2830 NSW
+  description: Erection of detached garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000163.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 10.2019.164.1
+  address: 46 Lincoln Pky, Dubbo 2830 NSW
+  description: Erection of patio cover
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000164.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 10.2019.165.1
+  address: 1155 Uungula Rd, Wuuluman 2820 NSW
+  description: Meteorological mast
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000165.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 10.2019.166.1
+  address: 145 Yarragal Rd, Wuuluman 2820 NSW
+  description: Meteorological mast
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000166.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 10.2019.167.1
+  address: 11 Snowy Cr, Dubbo 2830 NSW
+  description: Erection of freestanding shed with attached awning
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000167.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 10.2019.168.1
+  address: 59 Lincoln Pky, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, patio and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000168.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 10.2019.169.1
+  address: 4 Spring Ct, Dubbo 2830 NSW
+  description: Erection of freestanding garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000169.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 10.2019.170.1
+  address: 15 Mangrove Cres, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000170.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 10.2019.171.1
+  address: 100-102 Arthur St, Wellington 2820 NSW
+  description: Business identification signage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000171.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 10.2019.172.1
+  address: 5 Naman St, Dubbo 2830 NSW
+  description: Home business (catering)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000172.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: 10.2019.173.1
+  address: 4 Mangrove Cres, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, carport and porch
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000173.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: 10.2019.174.1
+  address: 10 Arthur Butler Dr, Dubbo 2830 NSW
+  description: Erection of roofed deck
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000174.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 10.2019.175.1
+  address: 4535 Burrendong Wy, Euchareena 2866 NSW
+  description: Additions to dwelling
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000175.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 10.2019.176.1
+  address: 4 Beatrice Pl, Dubbo 2830 NSW
+  description: Erection of Patio Cover
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000176.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 10.2019.177.1
+  address: 16 Aqua Ct, Dubbo 2830 NSW
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000177.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+- council_reference: 10.2019.178.1
+  address: 11 Wave Ct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000178.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+- council_reference: 10.2019.179.1
+  address: 42 St Andrews Dr, Dubbo 2830 NSW
+  description: Erection of carport
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000179.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+- council_reference: 10.2019.180.1
+  address: 196 Brisbane St, Dubbo 2830 NSW
+  description: Business identification signage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000180.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+- council_reference: 10.2019.181.1
+  address: 8L Bungoona Rd, Dubbo 2830 NSW
+  description: Alterations and additions to existing dwelling and freestanding shed
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000181.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+- council_reference: 10.2019.182.1
+  address: 35 Amadeus Ave, Dubbo 2830 NSW
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000182.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+- council_reference: 10.2019.183.1
+  address: 21R Bulwarra Dr, Dubbo 2830 NSW
+  description: Two (2) lot subdivision
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000183.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 10.2019.184.1
+  address: Azure Ave, Dubbo 2830 NSW
+  description: Boundary adjustment
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000184.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 10.2019.185.1
+  address: 55 Lakeside Crct, Dubbo 2830 NSW
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000185.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 10.2019.186.1
+  address: 52 Lincoln Pky, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000186.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 10.2019.187.1
+  address: 9 Mangrove Cres, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000187.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 10.2019.188.1
+  address: 19 Noccundra Pl, Dubbo 2830 NSW
+  description: Erection of freestanding shed
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000188.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 10.2019.189.1
+  address: 3 Naman St, Dubbo 2830 NSW
+  description: Dual occupancy (attached)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000189.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 10.2019.190.1
+  address: 1 Noccundra Pl, Dubbo 2830 NSW
+  description: Erection of freestanding cubby house
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000190.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 10.2019.191.1
+  address: 35 Azure Ave, Dubbo 2830 NSW
+  description: Exhibition home
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000191.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 10.2019.192.1
+  address: 33 Azure Ave, Dubbo 2830 NSW
+  description: Exhibition home
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000192.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 10.2019.193.1
+  address: 17 Purvis La, Dubbo 2830 NSW
+  description: Warehouse (Wool storage)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000193.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 10.2019.194.1
+  address: 84 Murrayfield Dr, Dubbo 2830 NSW
+  description: Erection of freestanding garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000194.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 10.2019.195.1
+  address: 154R Narromine Rd, Dubbo 2830 NSW
+  description: Boundary adjustment
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000195.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 10.2019.196.1
+  address: 8 Ivy Ct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000196.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 10.2019.197.1
+  address: 3 Lesmurdie Pde, Dubbo 2830 NSW
+  description: Dual occupancy (attached)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000197.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 10.2019.31.2
+  address: 88 Macquarie St, Dubbo 2830 NSW
+  description: Modified application - Commercial premises (alterations)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/010.2019.00000031.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+- council_reference: 11.2012.426.3
+  address: 195-197 Macquarie St, Dubbo 2830 NSW
+  description: Staged construction - Alterations and additions to ground floor
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2012.00000426.003
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+- council_reference: 11.2015.73.1
+  address: 177-191 Macquarie St, Dubbo 2830 NSW
+  description: Erection of substation and supporting structure
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2015.00000073.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 11.2016.494.2
+  address: 37 Peel Pl, Dubbo 2830 NSW
+  description: 13 Lot (Lot 20 to 32) Residential Subdivision
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2016.00000494.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 11.2017.22.2
+  address: 16-12 Bourke St, Dubbo 2830 NSW
+  description: Modified application - Vehicle sales premises (alterations and additions)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2017.00000022.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 11.2017.318.3
+  address: 66-72 Windsor Pde, Dubbo 2830 NSW
+  description: Erection of pylon sign (Ford) and portal sign (VW) on existing footing
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2017.00000318.003
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 11.2018.262.2
+  address: 8 Paterson Crct, Dubbo 2830 NSW
+  description: Modified application - Erection of dwelling with attached garage, verandah,
+    patio and detached garage and front fence
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2018.00000262.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: 11.2018.441.2
+  address: Boundary Rd, Dubbo 2830 NSW
+  description: 8 Lot residential subdivision
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2018.00000441.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 11.2018.561.1
+  address: Azure Ave, Dubbo 2830 NSW
+  description: Stage CC33 Southlakes Estate - Civil works
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2018.00000561.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 11.2019.152.1
+  address: 44 Lincoln Pky, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, patio, pergola and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000152.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 11.2019.163.1
+  address: 12 Durum Crct, Dubbo 2830 NSW
+  description: Erection of detached garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000163.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 11.2019.164.1
+  address: 46 Lincoln Pky, Dubbo 2830 NSW
+  description: Erection of patio cover
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000164.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 11.2019.167.1
+  address: 11 Snowy Cr, Dubbo 2830 NSW
+  description: Erection of freestanding shed with attached awning
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000167.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 11.2019.168.1
+  address: 59 Lincoln Pky, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, patio and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000168.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 11.2019.169.1
+  address: 4 Spring Ct, Dubbo 2830 NSW
+  description: Erection of freestanding garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000169.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 11.2019.170.1
+  address: 15 Mangrove Cres, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000170.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 11.2019.173.1
+  address: 4 Mangrove Cres, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, carport and porch
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000173.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: 11.2019.174.1
+  address: 10 Arthur Butler Dr, Dubbo 2830 NSW
+  description: Erection of roofed deck
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000174.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 11.2019.176.1
+  address: 4 Beatrice Pl, Dubbo 2830 NSW
+  description: Erection of Patio Cover
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000176.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 11.2019.177.1
+  address: 16 Aqua Ct, Dubbo 2830 NSW
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000177.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+- council_reference: 11.2019.178.1
+  address: 11 Wave Ct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000178.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+- council_reference: 11.2019.179.1
+  address: 42 St Andrews Dr, Dubbo 2830 NSW
+  description: Erection of carport
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000179.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+- council_reference: 11.2019.182.1
+  address: 35 Amadeus Ave, Dubbo 2830 NSW
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000182.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+- council_reference: 11.2019.185.1
+  address: 55 Lakeside Crct, Dubbo 2830 NSW
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000185.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 11.2019.186.1
+  address: 52 Lincoln Pky, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000186.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 11.2019.187.1
+  address: 9 Mangrove Cres, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000187.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 11.2019.188.1
+  address: 19 Noccundra Pl, Dubbo 2830 NSW
+  description: Erection of freestanding shed
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000188.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 11.2019.190.1
+  address: 1 Noccundra Pl, Dubbo 2830 NSW
+  description: Erection of freestanding cubby house
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000190.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 11.2019.191.1
+  address: 35 Azure Ave, Dubbo 2830 NSW
+  description: Erection of two (2) storey exhibition home with attached garage, porch,
+    deck and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000191.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 11.2019.192.1
+  address: 33 Azure Ave, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch, alfresco and retaining
+    wall
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000192.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 11.2019.194.1
+  address: 84 Murrayfield Dr, Dubbo 2830 NSW
+  description: Erection of freestanding garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000194.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 11.2019.196.1
+  address: 8 Ivy Ct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000196.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 11.2019.25.1
+  address: 169 Boundary Rd, Dubbo 2830 NSW
+  description: Erection of attached dual occupancy with garages, patios and porches
+    - Units 1 and 2 only
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000025.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+- council_reference: 11.2019.34.1
+  address: 13 Moonul St, Eumungerie 2822 NSW
+  description: Erection of dwelling with attached shed
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/011.2019.00000034.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 13.2017.395.1
+  address: 14 Graza Ave, Dubbo 2830 NSW
+  description: Two (2) lot subdivision
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/013.2017.00000395.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 13.2017.462.1
+  address: 182 Fitzroy St, Dubbo 2830 NSW
+  description: Two (2) lot subdivision
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/013.2017.00000462.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 13.2018.202.1
+  address: 102L Burraway Rd, Terramungamine 2830 NSW
+  description: Two (2) lot subdivision
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/013.2018.00000202.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 13.2018.510.1
+  address: 17 Boyd Ave, Dubbo 2830 NSW
+  description: Two (2) lot subdivision
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/013.2018.00000510.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 14.2010.105.1
+  address: 426 Wheelers La, Dubbo 2830 NSW
+  description: Alterations and additions to existing dwelling
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2010.00000105.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 14.2016.472.1
+  address: 27 Champagne Dr, Dubbo 2830 NSW
+  description: Modified application - Seniors living (residential care facility)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2016.00000472.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: 14.2017.318.2
+  address: 66-72 Windsor Pde, Dubbo 2830 NSW
+  description: Alterations to existing showroom, extension to workshop and erection
+    o f rear detached showroom
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2017.00000318.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 14.2017.83.1
+  address: 16L Panai Ave, Dubbo 2830 NSW
+  description: Erection of rural shed
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2017.00000083.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 14.2018.100.1
+  address: 13 Boyd Ave, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000100.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 14.2018.101.1
+  address: 8 Cunningham St, Dubbo 2830 NSW
+  description: Erection of freestanding garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000101.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 14.2018.123.1
+  address: 51-53 Buckenbah St, Geurie 2818 NSW
+  description: Installation of solar panels (16.50kW)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000123.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 14.2018.152.1
+  address: 45 Leonard St, Dubbo 2830 NSW
+  description: Erection of freestanding gargage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000152.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+- council_reference: 14.2018.165.1
+  address: 4 Mitchell St, Dubbo 2830 NSW
+  description: Alterations to existing dwelling, erection of secondary dwelling, garage
+    and carport
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000165.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 14.2018.180.1
+  address: 15 Kent Pl, Dubbo 2830 NSW
+  description: Modified application - Erection of garage with attached carport
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000180.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+- council_reference: 14.2018.209.1
+  address: 47 Lincoln Pky, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000209.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 14.2018.245.1
+  address: 50 Hindmarsh Esp, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000245.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: 14.2018.28.2
+  address: 8 Wave Ct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000028.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 14.2018.302.1
+  address: 11 Champagne Dr, Dubbo 2830 NSW
+  description: Erection of freestanding shed
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000302.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+- council_reference: 14.2018.302.2
+  address: 11 Champagne Dr, Dubbo 2830 NSW
+  description: Erection of two (2) storey dwelling with attached garage, balcony,
+    verandah
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000302.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 14.2018.314.1
+  address: 3 Cowal Ct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, carport and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000314.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 14.2018.357.1
+  address: 82 Lakeside Crct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000357.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 14.2018.399.1
+  address: 12 Snowy Cr, Dubbo 2830 NSW
+  description: Dual occupancy (detached)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000399.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 14.2018.427.1
+  address: 33 Mortlock Ave, Dubbo 2830 NSW
+  description: Dwelling 'A' of detached Dual Occupancy
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000427.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 14.2018.45.2
+  address: 16 Aqua Ct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000045.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 14.2018.518.1
+  address: 22L Medway Rd, Brocklehurst 2830 NSW
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000518.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 14.2018.528.1
+  address: 422 Macquarie St, Dubbo 2830 NSW
+  description: Glass enclose existing patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000528.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 14.2018.535.1
+  address: 49 Meadowbank Dr, Dubbo 2830 NSW
+  description: Erection of freestanding garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000535.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 14.2018.579.1
+  address: 60 Hindmarsh Esp, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000579.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 14.2018.586.1
+  address: 45L Minore Rd, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000586.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+- council_reference: 14.2018.610.1
+  address: 5 Wave Ct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000610.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 14.2018.63.1
+  address: 42 Argyle Ave, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000063.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 14.2018.632.1
+  address: 11R Debeaufort Dr, Dubbo 2830 NSW
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000632.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 14.2018.64.2
+  address: 2 Nolan Esp, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, alfresco and porch
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000064.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 14.2018.76.2
+  address: 10 Paterson Crct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage, porch, verandah and patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000076.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 14.2018.98.1
+  address: 21 Naman St, Dubbo 2830 NSW
+  description: Erection of freestanding garage and 22kL rainwater tank
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2018.00000098.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+- council_reference: 14.2019.121.1
+  address: 3 Brennan Ave, Dubbo 2830 NSW
+  description: Erection of patio cover
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2019.00000121.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 14.2019.2.1
+  address: 92 Sheraton Rd, Dubbo 2830 NSW
+  description: Erection of freestanding garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2019.00000002.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: 14.2019.29.1
+  address: 56 Windsor Pde, Dubbo 2830 NSW
+  description: Internal fitout (Laser clinic - Tenancy 131)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2019.00000029.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 14.2019.32.1
+  address: 18 Gundarra St, Dubbo 2830 NSW
+  description: Erection of attached patio cover and carport
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2019.00000032.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 14.2019.33.1
+  address: 21 Tamworth St, Dubbo 2830 NSW
+  description: Alterations and additions to existing dwelling
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2019.00000033.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 14.2019.49.1
+  address: 23 Pebble Beach Dr, Dubbo 2830 NSW
+  description: Erection of freestanding garage
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2019.00000049.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 14.2019.73.1
+  address: 10 Askernish Dr, Dubbo 2830 NSW
+  description: Erection of attached patio
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2019.00000073.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: 14.2019.8.1
+  address: 15 Holmwood Dr, Dubbo 2830 NSW
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2019.00000008.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 14.2019.87.1
+  address: 18 Wollomombi Pde, Dubbo 2830 NSW
+  description: Erection of patio cover
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/014.2019.00000087.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 15.1990.580.1
+  address: 9 Davidson Dr, Dubbo 2830 NSW
+  description: Inground, outdoor swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/015.1990.00000580.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 15.1994.417.2
+  address: 39 Murrayfield Dr, Dubbo 2830 NSW
+  description: Inground, outdoor swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/015.1994.00000417.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 15.2003.109.1
+  address: 75 Darling St, Dubbo 2830 NSW
+  description: Inground, outdoor swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/015.2003.00000109.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 15.2003.398.2
+  address: 109-111 Whylandra St, Dubbo 2830 NSW
+  description: Inground, outdoor swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/015.2003.00000398.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 15.2003.939.2
+  address: 8 Arbory Cl, Dubbo 2830 NSW
+  description: Inground, outdoor swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/015.2003.00000939.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 15.2006.221.1
+  address: 20 Saint Albans Wy, Dubbo 2830 NSW
+  description: Inground, outdoor swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/015.2006.00000221.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 15.2006.244.2
+  address: 33 St Andrews Dr, Dubbo 2830 NSW
+  description: Inground, outdoor swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/015.2006.00000244.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 15.2010.105.1
+  address: 426 Wheelers La, Dubbo 2830 NSW
+  description: Modified Application - Alterations and Additions to Existing Dwelling
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/015.2010.00000105.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 15.2013.463.1
+  address: 8L Sandy Pines Rd, Dubbo 2830 NSW
+  description: Inground, outdoor swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/015.2013.00000463.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+- council_reference: 16.2019.22.2
+  address: 3 Pindari Gr, Montefiores 2820 NSW
+  description: Modified application - Erection of dwelling with attached alfresco
+    and detached shed
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/016.2019.00000022.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 16.2019.28.1
+  address: 17R Wellington Rd, Dubbo 2830 NSW
+  description: Installation of ground mounted solar installation (85kWh)
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/016.2019.00000028.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 16.2019.30.1
+  address: 4 Cavelle Dr, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/016.2019.00000030.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+- council_reference: 16.2019.31.1
+  address: 4 Crown St, Dubbo 2830 NSW
+  description: Alterations and additions to existing dwelling
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/016.2019.00000031.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 16.2019.32.1
+  address: 31 Bradford Crct, Dubbo 2830 NSW
+  description: Erection of dwelling with attached garage and porch
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/016.2019.00000032.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 8.2019.811.1
+  address: 1 Mallee Rd, Dubbo 2830 NSW
+  description: Road widening
+  info_url: https://planning.dubbo.nsw.gov.au//Application/ApplicationDetails/008.2019.00000811.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
