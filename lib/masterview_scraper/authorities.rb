@@ -9,6 +9,10 @@ module MasterviewScraper
       use_api: true,
       force_detail: true
     },
+    ballina: {
+      url: "http://da.ballina.nsw.gov.au",
+      use_api: true
+    },
     bogan: {
       url: "https://datracker.bogan.nsw.gov.au:81",
       use_api: true,
