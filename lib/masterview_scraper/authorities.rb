@@ -107,6 +107,10 @@ module MasterviewScraper
       use_api: true,
       force_detail: true
     },
+    muswellbrook: {
+      url: "https://datracker.muswellbrook.nsw.gov.au",
+      use_api: true
+    },  
     port_macquarie_hastings: {
       url: "https://datracker.pmhc.nsw.gov.au",
       use_api: true,

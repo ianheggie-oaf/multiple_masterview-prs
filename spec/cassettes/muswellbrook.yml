@@ -1,0 +1,359 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://datracker.muswellbrook.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - datracker.muswellbrook.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/Home/Disclaimer"
+      Server:
+      - Microsoft-IIS/8.5
+      Set-Cookie:
+      - ASP.NET_SessionId=or34xtkfei5jo43xlorzkwnu; path=/; HttpOnly; SameSite=Lax
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Thu, 14 Jul 2022 05:22:16 GMT
+      Content-Length:
+      - '133'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/Home/Disclaimer\">here</a>.</h2>\r\n</body></html>\r\n"
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://datracker.muswellbrook.nsw.gov.au/Home/Disclaimer
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=or34xtkfei5jo43xlorzkwnu
+      Host:
+      - datracker.muswellbrook.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Thu, 14 Jul 2022 05:22:16 GMT
+      Content-Length:
+      - '4866'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://datracker.muswellbrook.nsw.gov.au/Home/DisclaimerProcessing
+    body:
+      encoding: UTF-8
+      string: agreed=true
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=or34xtkfei5jo43xlorzkwnu
+      Host:
+      - datracker.muswellbrook.nsw.gov.au
+      Referer:
+      - https://datracker.muswellbrook.nsw.gov.au/Home/Disclaimer
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '11'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      Set-Cookie:
+      - User=accessAllowed-MasterView=True; path=/
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Thu, 14 Jul 2022 05:22:16 GMT
+      Content-Length:
+      - '118'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/\">here</a>.</h2>\r\n</body></html>\r\n"
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://datracker.muswellbrook.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=or34xtkfei5jo43xlorzkwnu; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.muswellbrook.nsw.gov.au
+      Referer:
+      - https://datracker.muswellbrook.nsw.gov.au/Home/Disclaimer
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Thu, 14 Jul 2022 05:22:16 GMT
+      Content-Length:
+      - '6789'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://datracker.muswellbrook.nsw.gov.au/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=0&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=or34xtkfei5jo43xlorzkwnu; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.muswellbrook.nsw.gov.au
+      Referer:
+      - https://datracker.muswellbrook.nsw.gov.au/
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '298'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Thu, 14 Jul 2022 05:22:18 GMT
+      Content-Length:
+      - '5158'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":25,"recordsFiltered":25,"data":[["013.2018.00000010.001","10/2018","Occupation
+        Certificate","17/04/2019","54 Finnegan Cr, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        and Retaining Wall\u003c/b\u003e"],["005.2019.00000041.001","41/2019","Development
+        Application","09/05/2019","Castlerock Rd, Muswellbrook 2333 NSW \u003cbr/\u003eEllis
+        Ph, County Brisbane 2333 NSW \u003cbr/\u003e\u003cb\u003eSubdivision - Nine
+        (9) Lots into Six (6) Lots\u003c/b\u003e"],["003.2019.00000019.001","19/2019","Construction
+        Certificate","18/04/2019","13 Finnegan Cr, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        House\u003c/b\u003e"],["005.2019.00000037.001","37/2019","Development Application","16/04/2019","New
+        England Hwy, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eConstruction
+        of Pipes and Pump Infrastructure to Return Seepage Water from Lake Liddell
+        Dam Wall to Lake Liddell\u003c/b\u003e"],["005.2019.00000040.001","40/2019","Development
+        Application","01/05/2019","13B Grey Gum Rd, Denman 2328 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        House\u003c/b\u003e"],["013.2018.00000003.001","3/2018","Occupation Certificate","16/04/2019","112
+        Wollombi Rd, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eConstruction
+        of Single Storey Dwelling\u003c/b\u003e"],["005.2019.00000034.001","34/2019","Development
+        Application","15/04/2019","53 Palace St, Denman 2328 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Development - Garage\u003c/b\u003e"],["005.2019.00000036.001","36/2019","Development
+        Application","16/04/2019","Sandy Creek Rd, Mccullys Gap 2333 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of a 120m Tall Wind Monitoring Mast\u003c/b\u003e"],["005.2019.00000035.001","35/2019","Development
+        Application","15/04/2019","16 Sheppard Ave, Muswellbrook 2333 NSW \u003cbr/\u003e35
+        Racecourse Rd, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Structure (Installation of a 45 Square Metre Electronic Big Screen)\u003c/b\u003e"],["005.2019.00000039.001","39/2019","Development
+        Application","01/05/2019","207 Kayuga Rd, Muswellbrook 2333 NSW \u003cbr/\u003e211
+        Kayuga Rd, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eBoundary Adjustment\u003c/b\u003e"],["005.2019.00000038.001","38/2019","Development
+        Application","18/04/2019","43-45 Enterprise Cr, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eSite
+        Preparation Works and Installation (Storage) of Asphalt Plant (no production
+        proposed)\u003c/b\u003e"],["017.2019.00000031.001","31/2019","Complying Development
+        Applic","06/05/2019","28 Cousins St, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eAttached
+        Development - Deck\u003c/b\u003e"],["005.1999.00010173.002","10173/1999/2","Section
+        96 Application","03/05/2019","3 Flanders Ave, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eS4.55
+        (1A) Modification - Carport\u003c/b\u003e"],["013.2008.00000142.002","142/2008/2","Occupation
+        Certificate","09/05/2019","11 Northerly Cl, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eS96
+        Application - Relocate position of Awning\u003c/b\u003e"],["013.2010.00000259.002","259/2010/2","Occupation
+        Certificate","09/05/2019","51 Woodland Ridge Rd, Muscle Creek 2333 NSW \u003cbr/\u003e\u003cb\u003eAWNING
+        TO EXISTING SHED\u003c/b\u003e"],["013.2019.00000010.001","10/2019","Occupation
+        Certificate","09/05/2019","19 Mcclintock Dr, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Development - Carport\u003c/b\u003e"],["013.2003.00000200.001","200/2003","Occupation
+        Certificate","09/05/2019","51 Woodland Ridge Rd, Muscle Creek 2333 NSW \u003cbr/\u003e\u003cb\u003eNEW
+        DWELLING\u003c/b\u003e"],["003.2019.00000026.001","26/2019","Construction
+        Certificate","03/05/2019","15 Cunningham St, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Development - Shed\u003c/b\u003e"],["013.2004.00000188.001","188/2004","Occupation
+        Certificate","16/04/2019","4 Holdsworth Cr, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eSWIMMING
+        POOL, GARAGE \u0026 VERANDAH\u003c/b\u003e"],["003.1999.00010173.001","10173/1999","Construction
+        Certificate","03/05/2019","3 Flanders Ave, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Development - Carport\u003c/b\u003e"],["013.2018.00000091.001","91/2018","Occupation
+        Certificate","09/05/2019","11 Northerly Cl, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Development - Retaining Wall\u003c/b\u003e"],["003.2018.00000069.001","69/2018","Construction
+        Certificate","26/04/2019","2 Jillaroo Wy, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Structure - Shed\u003c/b\u003e"],["003.2019.00000018.001","18/2019","Construction
+        Certificate","23/04/2019","7 Wilson St, Muswellbrook 2333 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Dwelling and Retaining Walls\u003c/b\u003e"],["003.2019.00000017.001","17/2019","Construction
+        Certificate","17/04/2019","Turner St, Denman 2328 NSW \u003cbr/\u003e\u003cb\u003eSide
+        Awning to Existing Community Facility (Denman Men\u0027s Shed)\u003c/b\u003e"],["003.2018.00000043.001","43/2018","Construction
+        Certificate","15/04/2019","20A Grey Gum Rd, Denman 2328 NSW \u003cbr/\u003e\u003cb\u003eS4.55(1)
+        Modification - New Dwelling\u003c/b\u003e"]]}'
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+recorded_with: VCR 6.0.0
