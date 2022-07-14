@@ -13,6 +13,10 @@ module MasterviewScraper
       url: "http://da.ballina.nsw.gov.au",
       use_api: true
     },
+    bega_valley: {
+      url: "https://datracker.begavalley.nsw.gov.au",
+      use_api: true
+    },  
     bogan: {
       url: "https://datracker.bogan.nsw.gov.au:81",
       use_api: true,

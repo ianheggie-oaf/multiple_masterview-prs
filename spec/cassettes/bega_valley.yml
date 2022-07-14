@@ -1,0 +1,729 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://datracker.begavalley.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - datracker.begavalley.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/Home/Disclaimer"
+      Server:
+      - ''
+      Set-Cookie:
+      - ASP.NET_SessionId=xp1qhpfsjvnfmtryf4pln4bl; path=/; HttpOnly; SameSite=Lax
+      X-Aspnetmvc-Version:
+      - '5.2'
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Referrer-Policy:
+      - same-origin
+      Permissions-Policy:
+      - accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(),
+        microphone=(), payment=(), usb=()
+      Date:
+      - Thu, 14 Jul 2022 05:36:11 GMT
+      Content-Length:
+      - '133'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/Home/Disclaimer\">here</a>.</h2>\r\n</body></html>\r\n"
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://datracker.begavalley.nsw.gov.au/Home/Disclaimer
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=xp1qhpfsjvnfmtryf4pln4bl
+      Host:
+      - datracker.begavalley.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - ''
+      X-Aspnetmvc-Version:
+      - '5.2'
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Referrer-Policy:
+      - same-origin
+      Permissions-Policy:
+      - accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(),
+        microphone=(), payment=(), usb=()
+      Date:
+      - Thu, 14 Jul 2022 05:36:11 GMT
+      Content-Length:
+      - '19281'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        PCFET0NUWVBFIGh0bWw+DQo8aHRtbCBsYW5nPSJlbiI+DQo8aGVhZD4NCiAgICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+DQogICAgPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJJRT1lZGdlIj4NCiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPg0KICAgIDxtZXRhIG5hbWU9ImF1dGhvciIgY29udGVudD0iIj4NCiAgICA8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0iQmVnYSBWYWxsZXkgU2hpcmUgQ291bmNpbCwgREEgVHJhY2tlcixEZXZlbG9wbWVudCBBcHBsaWNhdGlvbixEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiBUcmFja2luZywgREEgRW5xdWlyeSwgRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24gRW5xdWlyeSI+DQogICAgPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IlRoZSBvZmZpY2lhbCBCZWdhIFZhbGxleSBTaGlyZSBDb3VuY2lsIERldmVsb3BtZW50IEFwcGxpY2F0aW9uIFRyYWNrZXIgKERBIFRyYWNrZXIpIj4NCg0KICAgIDx0aXRsZT5CZWdhIFZhbGxleSBTaGlyZSBDb3VuY2lsIC0gREEgT25saW5lPC90aXRsZT4NCg0KICAgIDwhLS1mYXZpY29uLS0+DQogICAgPGxpbmsgaHJlZj0iL2Zhdmljb24uaWNvIiByZWw9InNob3J0Y3V0IGljb24iIHR5cGU9ImltYWdlL3gtaWNvbiI+DQoNCiAgICA8IS0tIGpRdWVyeSAtLT4NCiAgICA8c2NyaXB0IHNyYz0iL1NjcmlwdHMvanF1ZXJ5LTEuMTEuMS5qcyI+PC9zY3JpcHQ+DQoNCiAgICA8c2NyaXB0IHNyYz0iL1NjcmlwdHMvanF1ZXJ5LXVpLTEuMTEuMi5qcyI+PC9zY3JpcHQ+DQoNCiAgICA8bGluayBocmVmPSIvQ29udGVudC90aGVtZXMvYmFzZS9jb3JlLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQo8bGluayBocmVmPSIvQ29udGVudC90aGVtZXMvYmFzZS9hY2NvcmRpb24uY3NzIiByZWw9InN0eWxlc2hlZXQiLz4NCjxsaW5rIGhyZWY9Ii9Db250ZW50L3RoZW1lcy9iYXNlL3RoZW1lLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQoNCg0KICAgIDwhLS0gQm9vdHN0cmFwIC0tPg0KICAgIDxzY3JpcHQgc3JjPSIvU2NyaXB0cy9ib290c3RyYXAuanMiPjwvc2NyaXB0Pg0KDQogICAgPGxpbmsgaHJlZj0iL0NvbnRlbnQvYm9vdHN0cmFwLXRoZW1lLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQo8bGluayBocmVmPSIvQ29udGVudC9ib290c3RyYXAuY3NzIiByZWw9InN0eWxlc2hlZXQiLz4NCg0KICAgIDxsaW5rIGhyZWY9Ii9Db250ZW50L2ZvbnQtYXdlc29tZS5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KDQoNCiAgICA8IS0tIERhdGFUYWJsZXMgLS0+DQogICAgPHNjcmlwdCBzcmM9Ii9TY3JpcHRzL0RhdGFUYWJsZXMtMS4xMC40L2pxdWVyeS5kYXRhVGFibGVzLmpzIj48L3NjcmlwdD4NCjxzY3JpcHQgc3JjPSIvU2NyaXB0cy9EYXRhVGFibGVzLTEuMTAuNC9kYXRhVGFibGVzLmJvb3RzdHJhcC5qcyI+PC9zY3JpcHQ+DQo8c2NyaXB0IHNyYz0iL1NjcmlwdHMvRGF0YVRhYmxlcy0xLjEwLjQvZGF0YVRhYmxlcy5yZXNwb25zaXZlLmpzIj48L3NjcmlwdD4NCg0KICAgIDxsaW5rIGhyZWY9Ii9Db250ZW50L0RhdGFUYWJsZXMtMS4xMC40L2Nzcy9kYXRhVGFibGVzLmJvb3RzdHJhcC5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KPGxpbmsgaHJlZj0iL0NvbnRlbnQvRGF0YVRhYmxlcy0xLjEwLjQvY3NzL2RhdGFUYWJsZXMucmVzcG9uc2l2ZS5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KPGxpbmsgaHJlZj0iL0NvbnRlbnQvRGF0YVRhYmxlcy0xLjEwLjQvY3NzL2RhdGFUYWJsZXMucmVzcG9uc2l2ZS5zY3NzIiByZWw9InN0eWxlc2hlZXQiLz4NCg0KDQogICAgPCEtLSBCb290c3RyYXAgU0ItQWRtaW4tMiBQbHVnaW4gYW5kIG90aGVyIGNzcyBhbmQganMgZmlsZXMtLT4NCiAgICA8c2NyaXB0IHNyYz0iL2pzL2Jvb3RzdHJhcC1jb21ib2JveC5qcyI+PC9zY3JpcHQ+DQo8c2NyaXB0IHNyYz0iL2pzL2Jvb3RzdHJhcC1kYXRlcGlja2VyLmpzIj48L3NjcmlwdD4NCjxzY3JpcHQgc3JjPSIvanMvanF1ZXJ5LnRhYmxlc29ydGVyLmpzIj48L3NjcmlwdD4NCjxzY3JpcHQgc3JjPSIvanMvbWV0aXNNZW51LmpzIj48L3NjcmlwdD4NCjxzY3JpcHQgc3JjPSIvanMvc2ItYWRtaW4tMi5qcyI+PC9zY3JpcHQ+DQoNCiAgICA8bGluayBocmVmPSIvY3NzL2Jvb3RzdHJhcC1jb21ib2JveC5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KPGxpbmsgaHJlZj0iL2Nzcy9kYXRlcGlja2VyMy5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KPGxpbmsgaHJlZj0iL2Nzcy9tYXN0ZXJ2aWV3LWN1c3RvbWlzYXRpb25zLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQo8bGluayBocmVmPSIvY3NzL3NiLWFkbWluLTIuY3NzIiByZWw9InN0eWxlc2hlZXQiLz4NCg0KDQogICAgPGxpbmsgaHJlZj0iL0NvdW5jaWxfVGhlbWUvQmVnYS9iZWdhLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQoNCiAgICANCg0KICAgIDwhLS0gSFRNTDUgU2hpbSBhbmQgUmVzcG9uZC5qcyBJRTggc3VwcG9ydCBvZiBIVE1MNSBlbGVtZW50cyBhbmQgbWVkaWEgcXVlcmllcyAtLT4NCiAgICA8IS0tIFdBUk5JTkc6IFJlc3BvbmQuanMgZG9lc24ndCB3b3JrIGlmIHlvdSB2aWV3IHRoZSBwYWdlIHZpYSBmaWxlOi8vIC0tPg0KICAgIDwhLS1baWYgbHQgSUUgOV0+DQogICAgICAgIDxzY3JpcHQgc3JjPSJodHRwczovL29zcy5tYXhjZG4uY29tL2xpYnMvaHRtbDVzaGl2LzMuNy4wL2h0bWw1c2hpdi5qcyI+PC9zY3JpcHQ+DQogICAgICAgIDxzY3JpcHQgc3JjPSJodHRwczovL29zcy5tYXhjZG4uY29tL2xpYnMvcmVzcG9uZC5qcy8xLjQuMi9yZXNwb25kLm1pbi5qcyI+PC9zY3JpcHQ+DQogICAgPCFbZW5kaWZdLS0+DQoNCjxzY3JpcHQ+DQogIChmdW5jdGlvbihpLHMsbyxnLHIsYSxtKXtpWydHb29nbGVBbmFseXRpY3NPYmplY3QnXT1yO2lbcl09aVtyXXx8ZnVuY3Rpb24oKXsNCiAgKGlbcl0ucT1pW3JdLnF8fFtdKS5wdXNoKGFyZ3VtZW50cyl9LGlbcl0ubD0xKm5ldyBEYXRlKCk7YT1zLmNyZWF0ZUVsZW1lbnQobyksDQogIG09cy5nZXRFbGVtZW50c0J5VGFnTmFtZShvKVswXTthLmFzeW5jPTE7YS5zcmM9ZzttLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGEsbSkNCiAgfSkod2luZG93LGRvY3VtZW50LCdzY3JpcHQnLCdodHRwczovL3d3dy5nb29nbGUtYW5hbHl0aWNzLmNvbS9hbmFseXRpY3MuanMnLCdnYScpOw0KDQogIGdhKCdjcmVhdGUnLCAnVUEtMzY4OTAxMTYtMycsICdhdXRvJyk7DQogIGdhKCdzZW5kJywgJ3BhZ2V2aWV3Jyk7DQoNCjwvc2NyaXB0Pg0KDQoNCjwvaGVhZD4NCg0KDQoNCjxib2R5IGRhdGEtc3B5PSJzY3JvbGwiIGRhdGEtdGFyZ2V0PSIjZmxvYXRuYXYiPg0KICAgIDxoZWFkZXIgaWQ9InNkLWhlYWQiPg0KICAgICAgICA8ZGl2IGNsYXNzPSJiZWdhLWNvbnRhaW5lciI+DQogICAgICAgICAgICA8aDEgaWQ9ImxvZ28iPg0KICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiPg0KICAgICAgICAgICAgICAgICAgICA8aW1nIGFsdD0iQmVnYSBWYWxsZXkgU2hpcmUgQ291bmNpbCIgc3JjPSIvQ291bmNpbF9UaGVtZS9CZWdhL2xvZ28ucG5nIj48c3Ryb25nIGNsYXNzPSJ2aCI+QmVnYSBWYWxsZXkgU2hpcmUgQ291bmNpbDwvc3Ryb25nPg0KICAgICAgICAgICAgICAgIDwvYT4NCiAgICAgICAgICAgIDwvaDE+DQogICAgICAgIDwvZGl2Pg0KICAgIDwvaGVhZGVyPg0KDQoNCiAgICA8c2VjdGlvbj4NCiAgICAgICAgPGRpdiBjbGFzcz0icGFnZS10aXRsZSI+DQogICAgICAgICAgICA8aDE+IEFwcGxpY2F0aW9uIFRyYWNrZXI8L2gxPg0KICAgICAgICAgICAgDQogICAgICAgIDwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJiZWdhLWNvbnRhaW5lciI+DQogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ3cmFwcGVyIj4NCiAgICAgICAgICAgICAgICA8IS0tIE5hdmlnYXRpb24gLS0+DQogICAgICAgICAgICAgICAgPG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1kZWZhdWx0IG5hdmJhci1zdGF0aWMtdG9wIiByb2xlPSJuYXZpZ2F0aW9uIiBzdHlsZT0ibWFyZ2luLWJvdHRvbTogMCI+DQogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im5hdmJhci1oZWFkZXIiPg0KICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJuYXZiYXItdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iY29sbGFwc2UiIGRhdGEtdGFyZ2V0PSIubmF2YmFyLWNvbGxhcHNlIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+VG9nZ2xlIG5hdmlnYXRpb248L3NwYW4+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+DQogICAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4NCiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXZiYXItYnJhbmQiIGhyZWY9Ii9Ib21lL0luZGV4Ij48L2E+DQogICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICA8IS0tIC8ubmF2YmFyLWhlYWRlciAtLT4NCiAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2YmFyLXRvcC1saW5rcyBuYXZiYXItcmlnaHQgaGlkZGVuLXhzIGhpZGRlbi1zbSBoaWRkZW4tbWQiPg0KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiPjxzcGFuIGlkPSJwcmludEljb24iIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXByaW50IiBvbmNsaWNrPSJ3aW5kb3cucHJpbnQoKTsiPjwvc3Bhbj48L2E+DQogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPg0KICAgICAgICAgICAgICAgICAgICA8L3VsPg0KDQogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im5hdmJhci1kZWZhdWx0IHNpZGViYXIiIHJvbGU9Im5hdmlnYXRpb24iPg0KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ic2lkZWJhci1uYXYgbmF2YmFyLWNvbGxhcHNlIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Im5hdiIgaWQ9InNpZGUtbWVudSI+DQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC8uc2lkZWJhci1jb2xsYXBzZSAtLT4NCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgIDwhLS0gLy5uYXZiYXItc3RhdGljLXNpZGUgLS0+DQogICAgICAgICAgICAgICAgPC9uYXY+DQogICAgICAgICAgICAgICAgPGRpdiBpZD0icGFnZS13cmFwcGVyIj4NCg0KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPg0KDQogICAgICAgICAgICAgICAgICAgICAgICANCg0KDQoNCjxkaXYgY2xhc3M9InBhZ2UtaGVhZGVyIj4NCiAgICA8aDI+QmVnYSBWYWxsZXkgU2hpcmUgQ291bmNpbDwvaDI+DQo8L2Rpdj4NCg0KDQo8ZGl2IGlkPSJzY3JvbGxhYmxlQ29udGVudCI+DQo8aDM+QXBwbGljYXRpb24gVHJhY2tlcjwvaDM+DQo8YnIvPg0KPGg0PkFwcGxpY2F0aW9ucyBPbi1saW5lPC9oND4NCjxici8+DQo8cCBjbGFzcz0ic2VjdGlvbiI+DQpDb3VuY2lsIGlzIHBsZWFzZWQgdG8gb2ZmZXIgeW91IG9ubGluZSBhY2Nlc3MgdG8gZGV2ZWxvcG1lbnQgYXBwbGljYXRpb25zIHdoaWNoIHdpbGwgYWxsb3cgeW91IHRvIHRyYWNrIHRoZSBwcm9ncmVzcyBvZiB0aGUgYXBwbGljYXRpb24gZnJvbSBsb2RnZW1lbnQgdGhyb3VnaCB0byBkZXRlcm1pbmF0aW9uLiBUaGUg4oCYQXBwbGljYXRpb24gVHJhY2tlcuKAmSBzZXJ2aWNlIHdpbGwgYWxsb3cgeW91IHRvIG1vbml0b3IgdGhlIHByb2dyZXNzIG9mIGEgZGV2ZWxvcG1lbnQgYXBwbGljYXRpb24gYW5kIHZpZXcgZG9jdW1lbnRhdGlvbiBhbmQgcGxhbnMgcmVsYXRpbmcgdG8gdGhvc2UgYXBwbGljYXRpb25zLg0KPGJyLz4NCjwvcD4NCjxwIGNsYXNzPSJzZWN0aW9uIj4NClRoaXMgc2VydmljZSBpcyBhdmFpbGFibGUgZm9yIGFsbCBkZXZlbG9wbWVudCBhcHBsaWNhdGlvbnMgYW5kIGNvbXBseWluZyBkZXZlbG9wbWVudCBjZXJ0aWZpY2F0ZXMgc3VibWl0dGVkIHdpdGggQlZTQyBhZnRlciAxIEphbnVhcnkgMjAxNi4NCg0KPC9wPg0KPGJyLz4NCjxoND5UZXJtcyBhbmQgY29uZGl0aW9uczwvaDQ+DQo8YnIvPg0KPHAgY2xhc3M9InNlY3Rpb24iPg0KVGhlIGxlZ2FsIGFncmVlbWVudHMgc2V0IG91dCBiZWxvdyBnb3Zlcm4geW91ciB1c2Ugb2YgdGhlIOKAmEFwcGxpY2F0aW9uIFRyYWNrZXLigJkgc2VydmljZS4gVG8gYWdyZWUgdG8gdGhlc2UgdGVybXMsIGNsaWNrIOKAnEFncmVl4oCdLiBJZiB5b3UgZG8gbm90IGFncmVlIHRvIHRoZXNlIHRlcm1zLCBkbyBub3QgY2xpY2sg4oCcQWdyZWXigJ0sIGFuZCBkbyBub3QgdXNlIHRoZSBzZXJ2aWNlcy4NCjwvcD4NCjxici8+DQo8aDQ+R2VuZXJhbGx5PC9oND4NCjxici8+DQo8cCBjbGFzcz0ic2VjdGlvbiI+DQpZb3UgYWNrbm93bGVkZ2UgdGhhdCB0aGUgaW5mb3JtYXRpb24gYXZhaWxhYmxlIHRocm91Z2ggdGhpcyBzZXJ2aWNlIGlzIG1hZGUgYXZhaWxhYmxlIGJ5IEJlZ2EgVmFsbGV5IFNoaXJlIENvdW5jaWwgKOKAnEJWU0PigJ0pIHVuZGVyIHRoZSBFbnZpcm9ubWVudGFsIFBsYW5uaW5nIGFuZCBBc3Nlc3NtZW50IEFjdCAxOTc5IChOU1cpIGFuZCB0aGUgR292ZXJubWVudCBJbmZvcm1hdGlvbiAoUHVibGljIEFjY2VzcykgQWN0IDIwMDkgKE5TVykgW0dJUEFdLCBhcyBhcHBsaWNhYmxlLiANCjwvcD4NCjxici8+DQo8aDQ+VXNhZ2UgUnVsZXMgLSBDb3B5cmlnaHQgYW5kIExpY2VuY2U8L2g0Pg0KPGJyLz4NCjxwIGNsYXNzPSJzZWN0aW9uIj4NCllvdSBzaGFsbCBiZSBhdXRob3JpemVkIHRvIHVzZSB0aGUgd2Vic2l0ZSBhbmQgdGhlIHNlcnZpY2Ugb25seSBmb3IgcGVyc29uYWwsIG5vbi1jb21tZXJjaWFsIHVzZS4NCjxici8+PGJyLz4NClRoZSBjb250ZW50cyBvZiB0aGlzIHdlYnNpdGUgKHdoaWNoIGluY2x1ZGVzIGRvd25sb2FkYWJsZSBtYXRlcmlhbCkgYXJlIHN1YmplY3QgdG8gY29weXJpZ2h0IGFuZCBhcmUgcHJvdGVjdGVkIGJ5IGxhd3MgaW4gQXVzdHJhbGlhbiBhbmQgb3RoZXIgY291bnRyaWVzIHRocm91Z2ggaW50ZXJuYXRpb25hbCB0cmVhdGllcy4gIEJlZ2EgVmFsbGV5IFNoaXJlIENvdW5jaWwgZ3JhbnRzIHlvdSBhIG5vbi1leGNsdXNpdmUgbGljZW5jZSB0byBwcm9kdWNlIHRoZSBjb250ZW50cyBvZiB0aGlzIHdlYnNpdGUgaW4geW91ciB3ZWIgYnJvd3NlciAoYW5kIGluIGEgY2FjaGUgZmlsZSBwcm9kdWNlZCBieSB5b3VyIHdlYiBicm93c2VyKSBmb3IgdGhlIHNvbGUgcHVycG9zZSBvZiB2aWV3aW5nIHRoZSBjb250ZW50LiAgQmVnYSBWYWxsZXkgU2hpcmUgQ291bmNpbCByZXNlcnZlcyBhbGwgb3RoZXIgcmlnaHRzLiAgSWYgeW91IGNvcHksIHJlcHJvZHVjZSwgcmVwdWJsaXNoLCB1cGxvYWQgdG8gYSB0aGlyZCBwYXJ0eSwgdHJhbnNtaXQgb3IgZGlzdHJpYnV0ZSBpbiBhbnkgd2F5IHRoZSBjb250ZW50IG9mIHRoaXMgd2Vic2l0ZSBjb250cmFyeSB0byB0aGUgcHJvdmlzaW9ucyBvZiB0aGUgQ29weXJpZ2h0IEFjdCAxOTY4IChDdGgpIHlvdSB3aWxsIGJlIHRha2VuIHRvIGhhdmUgaW5kZW1uaWZpZWQgQmVnYSBWYWxsZXkgU2hpcmUgQ291bmNpbCBhZ2FpbnN0IGFueSBjbGFpbSBvciBhY3Rpb24gaW4gcmVzcGVjdCB0byBicmVhY2ggb2YgY29weXJpZ2h0Lg0KPC9wPg0KPGJyLz4NCjxoND5MaW5rcyB0byBvdGhlciBXZWJzaXRlczwvaDQ+DQo8YnIvPg0KPHAgY2xhc3M9InNlY3Rpb24iPg0KVGhlIHdlYnNpdGUgbWF5IGNvbnRhaW4gbGlua3MgdG8gc2l0ZXMgb24gdGhlIFdXVyBvd25lZCBhbmQgb3BlcmF0ZWQgYnkgdGhpcmQgcGFydGllcyBhbmQgd2hpY2ggYXJlIG5vdCB1bmRlciB0aGUgY29udHJvbCBvZiB0aGUgT3duZXIuDQo8YnIvPjxici8+DQpJbiByZWxhdGlvbiB0byB0aGUgb3RoZXIgc2l0ZXMgb24gdGhlIFdXVywgd2hpY2ggYXJlIGxpbmtlZCB0byB0aGUgV2Vic2l0ZSwgQlZTQzoNCjxvbCB0eXBlPSJhIj4NCiAgICA8bGk+CXByb3ZpZGVzIHRoZSBsaW5rcyB0byBvdGhlciBzaXRlcyBhcyBhIGNvbnZlbmllbmNlIHRvIHlvdSBhbmQgdGhlIGV4aXN0ZW5jZSBvZiBhIGxpbmsgdG8gb3RoZXIgc2l0ZXMgZG9lcyBub3QgaW1wbHkgYW55IGVuZG9yc2VtZW50IGJ5IEJWU0Mgb2YgdGhlIGxpbmtlZCBzaXRlPC9saT4NCiAgICA8bGk+CWlzIG5vdCByZXNwb25zaWJsZSBmb3IgdGhlIG1hdGVyaWFsIGNvbnRhaW5lZCBvbiB0aG9zZSBsaW5rZWQgc2l0ZXMuPC9saT4NCiAgIA0KPC9vbD4NCjwvcD4NCjxici8+DQo8aDQ+RGlzY2xhaW1lcjwvaDQ+DQo8YnIvPg0KPHAgY2xhc3M9InNlY3Rpb24iPg0KQlZTQyBkb2VzIG5vdCB3YXJyYW50IGd1YXJhbnRlZSBvciBtYWtlIGFueSByZXByZXNlbnRhdGlvbiB0aGF0Og0KPG9sIHR5cGU9ImEiPg0KPGxpPgl0aGUgV2Vic2l0ZSwgb3IgdGhlIHNlcnZlciB0aGF0IG1ha2VzIHRoZSBzaXRlIGF2YWlsYWJsZSBvbiB0aGUgV1dXIGFyZSBmcmVlIG9mIHNvZnR3YXJlIHZpcnVzZXM7PC9saT4NCjxsaT4JdGhlIGZ1bmN0aW9ucyBjb250YWluZWQgaW4gYW55IHNvZnR3YXJlIGNvbnRhaW5lZCBvbiB0aGUgV2Vic2l0ZSB3aWxsIG9wZXJhdGUgdW5pbnRlcnJ1cHRlZCBvciBhcmUgZXJyb3ItZnJlZTsgYW5kPC9saT4NCjxsaT4JZXJyb3JzIGFuZCBkZWZlY3RzIGluIHRoZSBXZWJzaXRlIHdpbGwgYmUgY29ycmVjdGVkLjwvbGk+DQo8L29sPg0KPGJyLz4NCg0KQlZTQyBpcyBub3QgbGlhYmxlIHRvIHlvdSBmb3I6DQo8b2wgdHlwZT0iYSI+DQo8bGk+CWVycm9ycyBvciBvbWlzc2lvbnMgaW4gdGhlIFdlYnNpdGUsIGFueSBsaW5rZWQgZG9jdW1lbnRzIGluIHRoZSBXZWJzaXRlLCB0aGUgc2VydmljZXMsIG9yIGxpbmtlZCBzaXRlcyBvbiB0aGUgV1dXOzwvbGk+DQo8bGk+CWRlbGF5cyB0bywgaW50ZXJydXB0aW9ucyBvZiBvciBjZXNzYXRpb24gb2YgdGhlIHNlcnZpY2VzIHByb3ZpZGVkIGluIHRoZSBXZWJzaXRlLCBvciBsaW5rZWQgc2l0ZXM7IGFuZDwvbGk+DQo8bGk+CWRlZmFtYXRvcnksIG9mZmVuc2l2ZSBvciBpbGxlZ2FsIGNvbmR1Y3Qgb2YgYW55IHVzZXIgb2YgdGhlIFdlYnNpdGUsPC9saT4NCjwvb2w+DQp3aGV0aGVyIGNhdXNlZCB0aHJvdWdoIG5lZ2xpZ2VuY2Ugb2YgQlZTQywgaXRzIGVtcGxveWVlcyBvciBpbmRlcGVuZGVudCBjb250cmFjdG9ycywgb3IgdGhyb3VnaCBhbnkgb3RoZXIgY2F1c2UuDQo8YnIvPjxici8+DQpZb3UgYWdyZWUgdG8gYWNjZXB0IHRoZSBmdWxsIGNvc3Qgb2YgYW55IG5lY2Vzc2FyeSByZXBhaXIsIGNvcnJlY3Rpb24gYW5kIG1haW50ZW5hbmNlIG9mIGFueSBvZiB5b3VyIGNvbXB1dGVyIHNvZnR3YXJlIG9yIGhhcmR3YXJlLCB3aGljaCBtYXkgYmUgbmVjZXNzYXJ5IGFzIGEgY29uc2VxdWVuY2Ugb2YgeW91IGFjY2Vzc2luZyB0aGUgV2Vic2l0ZS4NCjwvcD4NCg0KPGJyLz4NCg0KPGJyLz4NCjxoND5MaW1pdCBvZiBsaWFiaWxpdHk8L2g0Pg0KPGJyLz4NCjxwIGNsYXNzPSJzZWN0aW9uIj4NClRvIHRoZSBtYXhpbXVtIGV4dGVudCBwZXJtaXR0ZWQgYnkgbGF3LCB5b3UgcmVsZWFzZSBCVlNDIGZyb20gYW5kIEJWU0MgZXhjbHVkZXMgYWxsIGxpYWJpbGl0eSB0byB5b3UgZm9yIGxvc3Mgb3IgZGFtYWdlIG9mIGFueSBraW5kIChob3dldmVyLCBjYXVzZWQsIGluY2x1ZGluZyBieSBuZWdsaWdlbmNlKSBhcmlzaW5nIGZyb20gb3IgcmVsYXRpbmcgaW4gYW55IHdheSB0byB0aGUgY29udGVudHMgb2YgdGhpcyB3ZWJzaXRlIGFuZC9vciB5b3VyIHVzZSBvZiBpdC4gIFlvdSBhcmUgcmVzcG9uc2libGUgZm9yIGFzc2Vzc2luZyB0aGUgYWNjdXJhY3ksIHJlbGlhYmlsaXR5LCBzdWl0YWJpbGl0eSBhbmQgY29tcGxldGVuZXNzIG9mIHRoZSBtYXRlcmlhbCBvbiBvciBhY2Nlc3NpYmxlIHRocm91Z2ggdGhpcyB3ZWJzaXRlLiAgWW91IGFjY2VwdCBhbGwgcmlza3MgYW5kIHJlc3BvbnNpYmlsaXR5IGZvciBhbGwgbG9zcywgZGFtYWdlLCBjb3N0cyBhbmQgb3RoZXIgY29uc2VxdWVuY2VzIHJlc3VsdGluZyBmcm9tIHVzaW5nIHRoaXMgd2Vic2l0ZSBvciB0aGUgbWF0ZXJpYWwgb24gb3IgYWNjZXNzaWJsZSB0aHJvdWdoIHRoaXMgd2Vic2l0ZS48L3A+DQoNCjxici8+DQo8aDQ+SW5kZW1uaXR5PC9oND4NCjxwIGNsYXNzPSJzZWN0aW9uIj4NCiAgWW91IHdpbGwgYXQgYWxsIHRpbWVzIGluZGVtbmlmeSBhbmQga2VlcCBpbmRlbW5pZmllZCBCVlNDIGFuZCBpdHMgcmVzcGVjdGl2ZSBvZmZpY2VycywgZW1wbG95ZWVzIGFuZCBhZ2VudHMgKFRob3NlIEluZGVtbmlmaWVkKSBmcm9tIGFuZCBhZ2FpbnN0IGFueSBsb3NzIChpbmNsdWRpbmcgcmVhc29uYWJsZSBsZWdhbCBjb3N0cyBhbmQgZXhwZW5zZXMpIG9yIGxpYWJpbGl0eSBpbmN1cnJlZCBieSBhbnkgb2YgVGhvc2UgSW5kZW1uaWZpZWQgYXJpc2luZyBmcm9tIGFueSBjbGFpbSwgZGVtYW5kLCBzdWl0LCBhY3Rpb24gb3IgcHJvY2VlZGluZyBieSBhbnkgcGVyc29uIGFnYWluc3QgYW55IG9mIFRob3NlIEluZGVtbmlmaWVkIHdoZXJlIHN1Y2ggbG9zcyBvciBsaWFiaWxpdHkgYXJvc2Ugb3V0IG9mLCBpbiBjb25uZWN0aW9uIHdpdGggb3IgaW4gcmVzcGVjdCBvZjoNCjxvbCB0eXBlPSJhIj4NCjxsaT5hbnkgYnJlYWNoIG9mIHRoZXNlIFRlcm1zIG9mIEFjY2VzcyBieSB5b3U7IGFuZDwvbGk+DQo8bGk+cHVibGljYXRpb24gb2Ygb3IgZGlzdHJpYnV0aW9uIG9mIHRoZSBtYXRlcmlhbCBhbmQvb3IgaW5mb3JtYXRpb24gc3VwcGxpZWQgYnkgeW91LjwvbGk+DQo8L29sPg0KPC9wPg0KPGJyLz4NCg0KPGg0Pk5hdHVyZSBvZiBJbmZvcm1hdGlvbjwvaDQ+DQo8YnIvPg0KPHAgY2xhc3M9InNlY3Rpb24iPg0KWW91IGFja25vd2xlZGdlIHRoYXQ6DQo8b2wgdHlwZT0iYSI+DQo8bGk+QlZTQyBhbmQvb3IgcGVvcGxlIGF1dGhvcmlzZWQgYnkgaXQgbWF5IGdhdGhlciBhbmQgcHJvY2VzcyB0aGUgaW5mb3JtYXRpb246PC9saT4NCjx1bD4NCjxsaT53aGljaCB5b3UgbWF5IHByb3ZpZGUgd2hlbiBzdWJtaXR0aW5nIGEgZGV2ZWxvcG1lbnQgYXBwbGljYXRpb247IDwvbGk+DQo8bGk+d2hpY2ggeW91IG1heSBwcm92aWRlIHdoZW4gYWNjZXNzaW5nIHRoZSBXZWJzaXRlLCBzdWNoIGFzIHlvdXIgbmFtZSwgYWRkcmVzcywgZS1tYWlsIGFkZHJlc3MgYW5kIG90aGVyIHBlcnNvbmFsIGluZm9ybWF0aW9uIGFib3V0IHlvdTsgYW5kPC9saT4NCjxsaT5yZWdhcmRpbmcgdGhlIHdheSBpbiB3aGljaCB5b3UgdXNlIHRoZSBXZWJzaXRlIGluY2x1ZGluZywgd2l0aG91dCBsaW1pdGF0aW9uLCBpbmZvcm1hdGlvbiBhY3F1aXJlZCB0aHJvdWdoIHRoZSB1c2Ugb2YgImNvb2tpZXMiIHByb2dyYW1tZWQgZHVyaW5nIHRoZSBhY2Nlc3Npbmcgb2YgdGhlIFdlYnNpdGUuPC9saT4NCjwvdWw+DQo8bGk+QlZTQyBtYXkgYXV0aG9yaXNlIG90aGVycyB0byBvZmZlciB5b3UgZ29vZHMgYW5kIHNlcnZpY2VzIHVzaW5nIHRoZSBpbmZvcm1hdGlvbiBhY3F1aXJlZCB0aHJvdWdoIHBhcmEgKGEpLjwvbGk+DQo8bGk+UGVyc29uYWwgaW5mb3JtYXRpb24gaXMgY29sbGVjdGVkIGJ5IEJlZ2EgVmFsbGV5IFNoaXJlIENvdW5jaWwsIHVuZGVyIHRoZSBQcml2YWN5ICYgUGVyc29uYWwgSW5mb3JtYXRpb24gUHJvdGVjdGlvbiBBY3QgMTk5OCAoTlNXKS48L2xpPg0KPGxpPlByaW9yIHRvIGRldGVybWluYXRpb24gb2YgYW4gYXBwbGljYXRpb24sIHRoZSBpbmZvcm1hdGlvbiBvbiB0aGlzIHNpdGUgaXMgbWFkZSBhdmFpbGFibGUgYnkgQlZTQyB1bmRlciB0aGUgRW52aXJvbm1lbnRhbCBQbGFubmluZyBhbmQgQXNzZXNzbWVudCBBY3QgMTk3OS48L2xpPg0KPGxpPkFsbCBpbmZvcm1hdGlvbiByZWxhdGluZyB0byBhIGRldmVsb3BtZW50IGFwcGxpY2F0aW9uIGFuZCBzdWJqZWN0IHRvIGNvcHlyaWdodCBsYXdzIHdpbGwgYmUgcmVtb3ZlZCBmcm9tIHRoZSB3ZWJzaXRlIHBvc3QgIGRldGVybWluYXRpb24sIGFuZCBhbnkgcmVxdWVzdCBmb3IgaW5mb3JtYXRpb24gcmVsYXRpbmcgdG8gYSBkZXZlbG9wbWVudCBhcHBsaWNhdGlvbiBhZnRlciBhIGRldGVybWluYXRpb24gc2hvdWxkIGJlIG1hZGUgd2l0aCBCZWdhIFZhbGxleSBTaGlyZSBDb3VuY2lsIHVuZGVyIEdJUEEuPC9saT4NCjwvb2w+DQo8L3A+DQo8YnIvPg0KDQo8YnIvPg0KDQo8aDQ+VGVybWluYXRpb24gb2YgYWNjZXNzPC9oND4NCjxici8+DQo8cCBjbGFzcz0ic2VjdGlvbiI+DQpCVlNDIG1heSB0ZXJtaW5hdGUgYWNjZXNzIHRvIHRoZSBXZWJzaXRlIGFuZCB0aGUgc2VydmljZSBhdCBhbnkgdGltZSB3aXRob3V0IGdpdmluZyBhbnkgZXhwbGFuYXRpb24gb3IganVzdGlmaWNhdGlvbiBmb3IgdGhlIHRlcm1pbmF0aW9uIG9mIGFjY2VzcywgYW5kIEJWU0MgaGFzIG5vIGxpYWJpbGl0eSBmb3IgYW55IGNvc3RzLCBsb3NzZXMgb3IgZGFtYWdlcyBvZiBhbnkga2luZCBhcmlzaW5nIGFzIGEgY29uc2VxdWVuY2Ugb2YgdGVybWluYXRpbmcgYWNjZXNzIHRvIHRoZSBXZWJzaXRlIG9yIHRoZSBzZXJ2aWNlLg0KPC9wPg0KPGJyLz4NCg0KPGg0PkFsdGVyYXRpb24gb2YgVGVybXMgb2YgQWNjZXNzPC9oND4NCjxici8+DQo8cCBjbGFzcz0ic2VjdGlvbiI+DQpCVlNDIHJlc2VydmVzIHRoZSByaWdodCB0byBjaGFuZ2UgdGhlc2UgVGVybXMgb2YgQWNjZXNzOjxici8+DQo8b2wgdHlwZT0iYSI+DQo8bGk+d2l0aCBvciB3aXRob3V0IGZ1cnRoZXIgbm90aWNlIHRvIHlvdTsgYW5kPC9saT4NCjxsaT53aXRob3V0IGdpdmluZyB5b3UgYW55IGV4cGxhbmF0aW9uIG9yIGp1c3RpZmljYXRpb24gZm9yIHN1Y2ggY2hhbmdlLjwvbGk+DQo8L29sPg0KDQo8L3A+DQo8YnIvPg0KPGg0PlJlbW92YWwgb2YgaW5mb3JtYXRpb248L2g0Pg0KPGJyLz4NCjxwIGNsYXNzPSJzZWN0aW9uIj4NCkluIHJlbGF0aW9uIHRvIGFueSBtYXRlcmlhbCBhbmQvb3IgaW5mb3JtYXRpb24gaW5jbHVkZWQgb24gdGhlIFdlYnNpdGUsIEJWU0MgbWF5IHJlbW92ZSBhbnkgbWF0ZXJpYWwgYW5kL29yIGluZm9ybWF0aW9uLCBpbmNsdWRpbmcgYnV0IG5vdCBsaW1pdGVkIHRvIGxpbmtzIHRvIG90aGVyIHNpdGVzIG9uIHRoZSBXV1csIGF0IGFueSB0aW1lIHdpdGhvdXQgZ2l2aW5nIGFueSBleHBsYW5hdGlvbiBvciBqdXN0aWZpY2F0aW9uIGZvciByZW1vdmluZyB0aGUgbWF0ZXJpYWwgYW5kL29yIGluZm9ybWF0aW9uLg0KPC9wPg0KPGJyLz4NCjxoND5MYXdzPC9oND4NCjxici8+DQo8cCBjbGFzcz0ic2VjdGlvbiI+DQpBbGwgbWF0dGVycyByZWxhdGluZyB0byB0aGlzIHdlYnNpdGUgYXJlIGdvdmVybmVkIGJ5IHRoZSBsYXdzIG9mIHRoZSBTdGF0ZSBvZiBOZXcgU291dGggV2FsZXMgYW5kLCBpZiBhcHByb3ByaWF0ZSwgQ29tbW9ud2VhbHRoIGxlZ2lzbGF0aW9uLjxici8+DQpZb3UgYWdyZWUgdG8gdGhlIGp1cmlzZGljdGlvbiBvZiB0aGUgY291cnRzIG9mIHRoZSBTdGF0ZSBvZiBOZXcgU291dGggV2FsZXMgdG8gZGV0ZXJtaW5lIGFueSBkaXNwdXRlIGFyaXNpbmcgb3V0IG9mIHRoZXNlIFRlcm1zIGFuZCBDb25kaXRpb25zLjxici8+DQo8YnIvPg0KDQpJZiBhbnkgcGFydCBvZiB0aGVzZSBUZXJtcyBhbmQgQ29uZGl0aW9ucyBpcyBmb3VuZCB0byBiZSB2b2lkLCB1bmxhd2Z1bCwgb3IgdW5lbmZvcmNlYWJsZSB0aGVuIHRoYXQgcGFydCB3aWxsIGJlIGRlZW1lZCB0byBiZSBzZXZlcmFibGUgZnJvbSB0aGUgYmFsYW5jZSBvZiB0aGVzZSBUZXJtcyBhbmQgQ29uZGl0aW9ucyBhbmQgdGhlIHNldmVyZWQgcGFydCB3aWxsIG5vdCBhZmZlY3QgdGhlIHZhbGlkaXR5IGFuZCBlbmZvcmNlYWJpbGl0eSBvZiBhbnkgcmVtYWluaW5nIHByb3Zpc2lvbnMuDQo8L3A+DQo8L2Rpdj4NCg0KPGJyLz4NCjxwIGNsYXNzPSJzZWN0aW9uIj4NCjxiPkkgYWdyZWUgdG8gdGhlIGFib3ZlIFRlcm1zIGFuZCBDb25kaXRpb25zLg0KPC9iPg0KPC9wPg0KPGJyLz4NCg0KDQo8Zm9ybSBhY3Rpb249Ii9Ib21lL0Rpc2NsYWltZXJQcm9jZXNzaW5nIiBtZXRob2Q9InBvc3QiPjxpbnB1dCBpZD0iYWdyZWVkIiBuYW1lPSJhZ3JlZWQiIHR5cGU9ImhpZGRlbiIgdmFsdWU9IkZhbHNlIiAvPiAgICA8ZGl2IGlkPSJidG5zIj4NCiAgICAgICAgPGJ1dHRvbiBpZD0iYWdyZWUiIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+QWdyZWU8L2J1dHRvbj4NCiAgICAgICAgPGJ1dHRvbiBpZD0iZGlzYWdyZWUiIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4td2FybmluZyI+RGlzYWdyZWU8L2J1dHRvbj4NCiAgICA8L2Rpdj4NCjwvZm9ybT4NCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCg0KICAgIHZhciBpbml0aWFsSGVpZ2h0T2ZTY3JvbGxCb3g7DQogICAgdmFyIGxhc3RTY3JvbGxUb3A7DQogICAgdmFyIGhlYWRlckhlaWdodDsNCg0KICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsNCiAgICAgICAgdmFyIGFjdHVhbENvbnRlbnRIZWlnaHQgPSAkKCcjcGFnZS13cmFwcGVyJykuaGVpZ2h0KCk7DQogICAgICAgIGxhc3RTY3JvbGxUb3AgPSAwOw0KICAgICAgICBpbml0aWFsSGVpZ2h0T2ZTY3JvbGxCb3ggPSAkKCcjc2Nyb2xsYWJsZUNvbnRlbnQnKS5oZWlnaHQoKTsNCiAgICAgICAgaGVhZGVySGVpZ2h0ID0gJCh3aW5kb3cpLmhlaWdodCgpIC0gJCgnI3Njcm9sbGFibGVDb250ZW50Jykub2Zmc2V0KCkudG9wOw0KDQogICAgICAgIHZhciBuZXdIZWlnaHQgPSBoZWFkZXJIZWlnaHQgKyAkKHdpbmRvdykuc2Nyb2xsVG9wKCkgLSAkKCcjYnRucycpLmhlaWdodCgpIC0gMTAwOw0KICAgICAgICAkKCcjc2Nyb2xsYWJsZUNvbnRlbnQnKS5oZWlnaHQobmV3SGVpZ2h0KTsNCg0KICAgICAgICAkKHdpbmRvdykuc2Nyb2xsKGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgIHZhciBuZXdIZWlnaHQgPSBoZWFkZXJIZWlnaHQgKyAkKHdpbmRvdykuc2Nyb2xsVG9wKCkgLSAkKCcjYnRucycpLmhlaWdodCgpIC0gMTAwOw0KDQogICAgICAgICAgICBhZGp1c3REaXNjbGFpbWVyQ29udGVudChuZXdIZWlnaHQpOw0KICAgICAgICB9KTsNCg0KDQogICAgICAgIGZ1bmN0aW9uIGlzU2Nyb2xsRG93bigpIHsNCiAgICAgICAgICAgIHZhciBzdCA9ICQod2luZG93KS5zY3JvbGxUb3AoKTsNCiAgICAgICAgICAgIHZhciByZXN1bHQgPSBzdCA+PSBsYXN0U2Nyb2xsVG9wOwkJICAvLyBkb3duc2Nyb2xsDQoNCiAgICAgICAgICAgIGxhc3RTY3JvbGxUb3AgPSBzdDsNCiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7DQogICAgICAgIH0NCg0KDQogICAgICAgIGZ1bmN0aW9uIGFkanVzdERpc2NsYWltZXJDb250ZW50KG5ld0hlaWdodCkgew0KICAgICAgICAgICAgdmFyIGJJc0Rvd25TY3JvbGwgPSBpc1Njcm9sbERvd24oKTsNCg0KICAgICAgICAgICAgdmFyIHNjcm9sbGFibGVDb250ZW50SGVpZ2h0ID0gJCgnI3Njcm9sbGFibGVDb250ZW50JykuaGVpZ2h0KCk7DQoNCiAgICAgICAgICAgIGlmIChiSXNEb3duU2Nyb2xsICYmIGFjdHVhbENvbnRlbnRIZWlnaHQgPiBzY3JvbGxhYmxlQ29udGVudEhlaWdodCkgew0KICAgICAgICAgICAgICAgICQoJyNzY3JvbGxhYmxlQ29udGVudCcpLmhlaWdodChuZXdIZWlnaHQpOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgZWxzZSBpZiAoIWJJc0Rvd25TY3JvbGwgJiYgYWN0dWFsQ29udGVudEhlaWdodCA+IG5ld0hlaWdodCkgew0KICAgICAgICAgICAgICAgICQoJyNzY3JvbGxhYmxlQ29udGVudCcpLmhlaWdodChuZXdIZWlnaHQpOw0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQoNCiAgICAgICAgdXBkYXRlTGVmdE1hcmdpbigpOw0KICAgICAgICBhdHRhY2hDbGlja0hhbmRsZXJzKCk7DQoNCiAgICB9KTsNCg0KDQogICAgZnVuY3Rpb24gdXBkYXRlTGVmdE1hcmdpbigpIHsNCiAgICAgICAgaWYgKCQoJyNzaWRlLW1lbnUnKS5odG1sKCkpIHsNCiAgICAgICAgICAgICQoJyNwYWdlLXdyYXBwZXInKS5jc3MoeyAnbWFyZ2luLWxlZnQnOiAnMCcgfSk7DQogICAgICAgIH0NCiAgICB9DQoNCg0KICAgIGZ1bmN0aW9uIGF0dGFjaENsaWNrSGFuZGxlcnMoKSB7DQogICAgICAgICQoJyNhZ3JlZScpLmNsaWNrKGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgICQoJyNhZ3JlZWQnKS52YWwoInRydWUiKTsNCiAgICAgICAgICAgICQoJ2Zvcm0nKS5zdWJtaXQoKTsNCiAgICAgICAgfSk7DQoNCiAgICAgICAgJCgnI2Rpc2FncmVlJykuY2xpY2soZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgJCgnI2FncmVlZCcpLnZhbCgiZmFsc2UiKTsNCiAgICAgICAgICAgICQoJ2Zvcm0nKS5zdWJtaXQoKTsNCiAgICAgICAgfSk7DQogICAgfQ0KPC9zY3JpcHQ+DQogICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICA8IS0tIC8uY29udGFpbmVyLWZsdWlkIC0tPg0KDQogICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgPCEtLSAvI3BhZ2Utd3JhcHBlciAtLT4NCiAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICA8L2Rpdj4NCiAgICA8L3NlY3Rpb24+DQogICAgPCEtLSBGb290ZXIgLS0+DQogICAgPGZvb3RlciBpZD0ic2QtZm9vdGVyIj4NCiAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4NCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZtaWQgcm93Ij4NCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNCBubSI+DQogICAgICAgICAgICAgICAgICAgIDxoMj5SZWxhdGVkIFNpdGVzPC9oMj4NCiAgICAgICAgICAgICAgICAgICAgPHVsPg0KDQogICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5hdXN0cmFsaWEuY29tIiB0YXJnZXQ9Il9ibGFuayI+QXVzdHJhbGlhJ3MgQ29hc3RhbCBXaWxkZXJuZXNzPC9hPjwvbGk+DQoNCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vd3d3LmxpdHRsZXRvbmdvdi5vcmcvaW5kZXguYXNweD9wYWdlPTE1IiB0YXJnZXQ9Il9ibGFuayI+Q291bmNpbCdzIFNpc3RlciBDaXR5IC0gTGl0dGxldG9uIENvbG9yYWRvPC9hPjwvbGk+DQoNCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vd3d3LnNhcHBoaXJlY29hc3QuY29tLmF1LyIgdGFyZ2V0PSJfYmxhbmsiPlNhcHBoaXJlIENvYXN0IFRvdXJpc208L2E+PC9saT4NCg0KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc291dGhlYXN0YXJ0cy5vcmcuYXUvIiB0YXJnZXQ9Il9ibGFuayI+U291dGggRWFzdCBBcnRzPC9hPjwvbGk+DQoNCiAgICAgICAgICAgICAgICAgICAgPC91bD4NCiAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNiBjb2wtbWQtNCBjb25uZWN0Ij4NCiAgICAgICAgICAgICAgICAgICAgPGgyPkNvbm5lY3Qgd2l0aCBCZWdhIFZhbGxleSBTaGlyZSBDb3VuY2lsIDwvaDI+DQogICAgICAgICAgICAgICAgICAgIDx1bD4NCg0KICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJpY28tdHd0Ij48YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL0JlZ2FWYWxsZXlTaGlyZSIgdGFyZ2V0PSJfYmxhbmsiPjxpIGNsYXNzPSJmYSBmYS10d2l0dGVyIj48L2k+PC9hPjwvbGk+DQoNCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iaWNvLWZiIj48YSBocmVmPSJodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9iZWdhdmFsbGV5LnNoaXJlY291bmNpbCIgdGFyZ2V0PSJfYmxhbmsiPjxpIGNsYXNzPSJmYSBmYS1mYWNlYm9vayI+PC9pPjwvYT48L2xpPg0KDQogICAgICAgICAgICAgICAgICAgIDwvdWw+DQogICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTYgY29sLW1kLTQgY29udGFjdC11cyI+DQogICAgICAgICAgICAgICAgICAgIDxoMj5Db250YWN0IFVzPC9oMj4NCiAgICAgICAgICAgICAgICAgICAgPHA+DQogICAgICAgICAgICAgICAgICAgICAgICBQTyBCb3ggNDkyLCBCZWdhIE5TVyAyNTUwPGJyPg0KICAgICAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz5QLjwvc3Ryb25nPiAoMDIpIDY0OTkgMjIyMjxicj4NCiAgICAgICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+Ri48L3N0cm9uZz4gKDAyKSA2NDk5IDIyMDA8YnI+DQogICAgICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPkUuPC9zdHJvbmc+IDxhIGhyZWY9Im1haWx0bzpjb3VuY2lsQGJlZ2F2YWxsZXkubnN3Lmdvdi5hdSI+Y291bmNpbEBiZWdhdmFsbGV5Lm5zdy5nb3YuYXU8L2E+DQogICAgICAgICAgICAgICAgICAgIDwvcD4NCiAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmJ0bSByb3ciPg0KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0xMiBjb2wtbWQtOCBhY2siPg0KICAgICAgICAgICAgICAgICAgICA8cD5XZSB3aXNoIHRvIGFja25vd2xlZGdlIHRoZSBUcmFkaXRpb25hbCBDdXN0b2RpYW5zIG9mIHRoZSBsYW5kIGFuZCB3YXRlcnMgb2YgdGhlIFNoaXJlLCBhbmQgdGhlIHBlb3BsZSBvZiB0aGUgWXVpbiBOYXRpb24uPC9wPg0KICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0xMiBjb2wtbWQtNCBwb2xpY3kiPg0KICAgICAgICAgICAgICAgICAgICA8dWw+DQoNCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vd3d3LmJlZ2F2YWxsZXkubnN3Lmdvdi5hdS8vcGFnZS5hc3A/cD1ET0MtS1lCLTQyLTI2LTA3IiB0YXJnZXQ9Il9wYXJlbnQiPlByaXZhY3kgU3RhdGVtZW50PC9hPjwvbGk+DQoNCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vd3d3LmJlZ2F2YWxsZXkubnN3Lmdvdi5hdS8vYWN0bi9ob3VzZV9ydWxlcy5hc3AiIHRhcmdldD0iX2JsYW5rIj5Ib3VzZSBSdWxlczwvYT48L2xpPg0KDQogICAgICAgICAgICAgICAgICAgIDwvdWw+DQoNCiAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICA8L2Rpdj4NCiAgICA8L2Zvb3Rlcj4NCiAgICA8IS0tIEZvb3RlciAtLT4NCg0KPC9ib2R5Pg0KDQo8L2h0bWw+
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://datracker.begavalley.nsw.gov.au/Home/DisclaimerProcessing
+    body:
+      encoding: UTF-8
+      string: agreed=true
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=xp1qhpfsjvnfmtryf4pln4bl
+      Host:
+      - datracker.begavalley.nsw.gov.au
+      Referer:
+      - https://datracker.begavalley.nsw.gov.au/Home/Disclaimer
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '11'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/"
+      Server:
+      - ''
+      X-Aspnetmvc-Version:
+      - '5.2'
+      Set-Cookie:
+      - User=accessAllowed-MasterView=True; path=/
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Referrer-Policy:
+      - same-origin
+      Permissions-Policy:
+      - accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(),
+        microphone=(), payment=(), usb=()
+      Date:
+      - Thu, 14 Jul 2022 05:36:11 GMT
+      Content-Length:
+      - '118'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/\">here</a>.</h2>\r\n</body></html>\r\n"
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://datracker.begavalley.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=xp1qhpfsjvnfmtryf4pln4bl; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.begavalley.nsw.gov.au
+      Referer:
+      - https://datracker.begavalley.nsw.gov.au/Home/Disclaimer
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - ''
+      X-Aspnetmvc-Version:
+      - '5.2'
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Referrer-Policy:
+      - same-origin
+      Permissions-Policy:
+      - accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(),
+        microphone=(), payment=(), usb=()
+      Date:
+      - Thu, 14 Jul 2022 05:36:11 GMT
+      Content-Length:
+      - '25490'
+    body:
+      encoding: UTF-8
+      string: "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"utf-8\">\r\n
+        \   <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta
+        name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n    <meta
+        name=\"author\" content=\"\">\r\n    <meta name=\"keywords\" content=\"Bega
+        Valley Shire Council, DA Tracker,Development Application,Development Application
+        Tracking, DA Enquiry, Development Application Enquiry\">\r\n    <meta name=\"description\"
+        content=\"The official Bega Valley Shire Council Development Application Tracker
+        (DA Tracker)\">\r\n\r\n    <title>Bega Valley Shire Council - DA Online</title>\r\n\r\n
+        \   <!--favicon-->\r\n    <link href=\"/favicon.ico\" rel=\"shortcut icon\"
+        type=\"image/x-icon\">\r\n\r\n    <!-- jQuery -->\r\n    <script src=\"/Scripts/jquery-1.11.1.js\"></script>\r\n\r\n
+        \   <script src=\"/Scripts/jquery-ui-1.11.2.js\"></script>\r\n\r\n    <link
+        href=\"/Content/themes/base/core.css\" rel=\"stylesheet\"/>\r\n<link href=\"/Content/themes/base/accordion.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/themes/base/theme.css\" rel=\"stylesheet\"/>\r\n\r\n\r\n
+        \   <!-- Bootstrap -->\r\n    <script src=\"/Scripts/bootstrap.js\"></script>\r\n\r\n
+        \   <link href=\"/Content/bootstrap-theme.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/Content/bootstrap.css\" rel=\"stylesheet\"/>\r\n\r\n    <link href=\"/Content/font-awesome.css\"
+        rel=\"stylesheet\"/>\r\n\r\n\r\n    <!-- DataTables -->\r\n    <script src=\"/Scripts/DataTables-1.10.4/jquery.dataTables.js\"></script>\r\n<script
+        src=\"/Scripts/DataTables-1.10.4/dataTables.bootstrap.js\"></script>\r\n<script
+        src=\"/Scripts/DataTables-1.10.4/dataTables.responsive.js\"></script>\r\n\r\n
+        \   <link href=\"/Content/DataTables-1.10.4/css/dataTables.bootstrap.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/DataTables-1.10.4/css/dataTables.responsive.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/DataTables-1.10.4/css/dataTables.responsive.scss\"
+        rel=\"stylesheet\"/>\r\n\r\n\r\n    <!-- Bootstrap SB-Admin-2 Plugin and other
+        css and js files-->\r\n    <script src=\"/js/bootstrap-combobox.js\"></script>\r\n<script
+        src=\"/js/bootstrap-datepicker.js\"></script>\r\n<script src=\"/js/jquery.tablesorter.js\"></script>\r\n<script
+        src=\"/js/metisMenu.js\"></script>\r\n<script src=\"/js/sb-admin-2.js\"></script>\r\n\r\n
+        \   <link href=\"/css/bootstrap-combobox.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/css/datepicker3.css\" rel=\"stylesheet\"/>\r\n<link href=\"/css/masterview-customisations.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/css/sb-admin-2.css\" rel=\"stylesheet\"/>\r\n\r\n\r\n
+        \   <link href=\"/Council_Theme/Bega/bega.css\" rel=\"stylesheet\"/>\r\n\r\n
+        \   \r\n\r\n    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements
+        and media queries -->\r\n    <!-- WARNING: Respond.js doesn't work if you
+        view the page via file:// -->\r\n    <!--[if lt IE 9]>\r\n        <script
+        src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\r\n
+        \       <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\r\n
+        \   <![endif]-->\r\n\r\n<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n
+        \ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n
+        \ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n
+        \ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n
+        \ ga('create', 'UA-36890116-3', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n\r\n\r\n</head>\r\n\r\n\r\n\r\n<body
+        data-spy=\"scroll\" data-target=\"#floatnav\">\r\n    <header id=\"sd-head\">\r\n
+        \       <div class=\"bega-container\">\r\n            <h1 id=\"logo\">\r\n
+        \               <a href=\"#\">\r\n                    <img alt=\"Bega Valley
+        Shire Council\" src=\"/Council_Theme/Bega/logo.png\"><strong class=\"vh\">Bega
+        Valley Shire Council</strong>\r\n                </a>\r\n            </h1>\r\n
+        \       </div>\r\n    </header>\r\n\r\n\r\n    <section>\r\n        <div class=\"page-title\">\r\n
+        \           <h1> Application Tracker</h1>\r\n            \r\n        </div>\r\n
+        \       <div class=\"bega-container\">\r\n            <div class=\"wrapper\">\r\n
+        \               <!-- Navigation -->\r\n                <nav class=\"navbar
+        navbar-default navbar-static-top\" role=\"navigation\" style=\"margin-bottom:
+        0\">\r\n                    <div class=\"navbar-header\">\r\n                        <button
+        type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\r\n
+        \                           <span class=\"sr-only\">Toggle navigation</span>\r\n
+        \                           <span class=\"icon-bar\"></span>\r\n                            <span
+        class=\"icon-bar\"></span>\r\n                            <span class=\"icon-bar\"></span>\r\n
+        \                       </button>\r\n                        <a class=\"navbar-brand\"
+        href=\"/Home/Index\"></a>\r\n                    </div>\r\n                    <!--
+        /.navbar-header -->\r\n                    <ul class=\"nav navbar-top-links
+        navbar-right hidden-xs hidden-sm hidden-md\">\r\n                        <li>\r\n
+        \                           <a href=\"#\"><span id=\"printIcon\" class=\"glyphicon
+        glyphicon-print\" onclick=\"window.print();\"></span></a>\r\n                        </li>\r\n
+        \                   </ul>\r\n\r\n                    <div class=\"navbar-default
+        sidebar\" role=\"navigation\">\r\n                        <div class=\"sidebar-nav
+        navbar-collapse\">\r\n                            <ul class=\"nav\" id=\"side-menu\">\r\n
+        \                               <li class=\"active\">\r\n                                    <a
+        href=\"#\"><i class=\"fa fa-list-ul fa-fw\"></i>Application Tracker<span class=\"fa
+        arrow\"></span></a>\r\n                                    <ul class=\"nav
+        nav-second-level collapse\">\r\n                                                <li>\r\n
+        \                                                   <a href=/Home/About target=_self>What
+        is Application Tracker</a>\r\n                                                </li>\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Home/Disclaimer target=_self>Disclaimer</a>\r\n                                                </li>\r\n
+        \                                   </ul>\r\n                                    <!--
+        /.nav-second-level -->\r\n                                </li>\r\n                                <li
+        class=\"active\">\r\n                                    <a href=\"#\"><i
+        class=\"fa fa-list-ul fa-fw\"></i>Applications<span class=\"fa arrow\"></span></a>\r\n
+        \                                   <ul class=\"nav nav-second-level collapse\">\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Home/Index target=>Application Tracker Home</a>\r\n                                                </li>\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Home/Search id=search target=_self>Search</a>\r\n                                                </li>\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Application/AdvancedSearchResult?RemoveUndeterminedApplications=False&ShowOutstandingApplications=True&ShowExhibitedApplications=False&IncludeDocuments=False
+        id=outstanding-apps target=_self>Undetermined Applications</a>\r\n                                                </li>\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Application/AdvancedSearchResult?RemoveUndeterminedApplications=False&ShowOutstandingApplications=False&ShowExhibitedApplications=True&IncludeDocuments=False
+        id=exhibited-apps target=_self>Applications On Exhibition</a>\r\n                                                </li>\r\n
+        \                                   </ul>\r\n                                    <!--
+        /.nav-second-level -->\r\n                                </li>\r\n                                <li
+        class=\"active\">\r\n                                    <a href=\"#\"><i
+        class=\"fa fa-list-ul fa-fw\"></i>Applications Submitted<span class=\"fa arrow\"></span></a>\r\n
+        \                                   <ul class=\"nav nav-second-level collapse\">\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Application/AdvancedSearchResult?DateFrom=11%2f07%2f2022&DateTo=14%2f07%2f2022&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Week</a>\r\n                                                </li>\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Application/AdvancedSearchResult?DateFrom=3%2f07%2f2022&DateTo=9%2f07%2f2022&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Week</a>\r\n                                                </li>\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f07%2f2022&DateTo=14%2f07%2f2022&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Month</a>\r\n                                                </li>\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f06%2f2022&DateTo=30%2f06%2f2022&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Month</a>\r\n                                                </li>\r\n
+        \                                   </ul>\r\n                                    <!--
+        /.nav-second-level -->\r\n                                </li>\r\n                                <li
+        class=\"active\">\r\n                                    <a href=\"#\"><i
+        class=\"fa fa-list-ul fa-fw\"></i>Applications Determined<span class=\"fa
+        arrow\"></span></a>\r\n                                    <ul class=\"nav
+        nav-second-level collapse\">\r\n                                                <li>\r\n
+        \                                                   <a href=/Application/AdvancedSearchResult?DateFrom=11%2f07%2f2022&DateTo=14%2f07%2f2022&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Week</a>\r\n                                                </li>\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Application/AdvancedSearchResult?DateFrom=3%2f07%2f2022&DateTo=9%2f07%2f2022&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Week</a>\r\n                                                </li>\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f07%2f2022&DateTo=14%2f07%2f2022&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Month</a>\r\n                                                </li>\r\n
+        \                                               <li>\r\n                                                    <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f06%2f2022&DateTo=30%2f06%2f2022&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Month</a>\r\n                                                </li>\r\n
+        \                                   </ul>\r\n                                    <!--
+        /.nav-second-level -->\r\n                                </li>\r\n\r\n                            </ul>\r\n
+        \                       </div>\r\n                        <!-- /.sidebar-collapse
+        -->\r\n                    </div>\r\n                    <!-- /.navbar-static-side
+        -->\r\n                </nav>\r\n                <div id=\"page-wrapper\">\r\n\r\n
+        \                   <div class=\"container-fluid\">\r\n\r\n                        \r\n\r\n\r\n\r\n\r\n\r\n<div
+        class=\"page-header\">\r\n    <h2>Home</h2>\r\n</div>\r\n\r\n\r\n\r\n<div
+        id=\"gmapsLabel\">\r\n    <h4>Applications submitted between 27 Jun, 2022
+        and 10 Jul, 2022</h4>\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n<div id=\"map_container\"
+        class=\"homepage\">\r\n    <div id=\"map_canvas\" class=\"iframe-rwd\"></div>\r\n</div>\r\n\r\n\r\n<div
+        id=\"map_canvas_print_container\">\r\n    <div id=\"map_canvas_print\"></div>\r\n</div>\r\n\r\n\r\n<script
+        type=\"text/javascript\">\r\n\r\n    var map, mapPrint;\r\n    var geocoder;\r\n
+        \   var bounds;\r\n    var next = 0;\r\n    var propertyAddressesGM;\r\n    var
+        boundsEnabled = false;\r\n    var arrMarkerAndInfoWindowHolder = [];\r\n\r\n
+        \   //CLIENT SPECIFIC VALUES\r\n    //prevents markers showing from outside
+        this region when boundsEnabled=true\r\n    var latMaxLimit = -27;\r\n    var
+        lngMaxLimit = 153;\r\n\r\n    // using the web.config to get zoomlevel,base
+        address and scrollenabled values\r\n    var defaultZoomLevelGM = 10;\r\n    var
+        scrollenabled = false;\r\n    var scrollconfig = \"\";\r\n    var baseaddress
+        = \"\";\r\n    var basecountrycode = \"\";\r\n    var infowindow;\r\n\r\n
+        \   function initializeGoogleMaps() {\r\n\r\n        google.maps.event.addDomListener(window,
+        'resize', function() {\r\n            var center = map.getCenter();\r\n            google.maps.event.trigger(map,
+        'resize');\r\n            map.setCenter(center);\r\n            mapPrint.setCenter(center);\r\n
+        \       });\r\n\r\n        geocoder = new google.maps.Geocoder();\r\n        bounds
+        = new google.maps.LatLngBounds();\r\n\r\n        scrollconfig = \"yes\";\r\n
+        \       if(scrollconfig == \"yes\") {\r\n            scrollenabled = true;\r\n
+        \       }\r\n\r\n        var mapOptions = {\r\n            zoom: defaultZoomLevelGM,\r\n
+        \           mapTypeId: google.maps.MapTypeId.ROADMAP,\r\n            scrollwheel:
+        true\r\n        };\r\n\r\n        map = new google.maps.Map(document.getElementById(\"map_canvas\"),
+        mapOptions);\r\n\r\n        //Only load the maps for tablets and bigger screens\r\n
+        \       if(screen.width > 768)\r\n        {\r\n            mapPrint = new
+        google.maps.Map(document.getElementById(\"map_canvas_print\"), mapOptions);\r\n
+        \           setEventListenersToBindPrintMapToDisplayMap();\r\n        }\r\n
+        \       else {\r\n            $('#map_canvas_print_container').remove();\r\n
+        \       }\r\n\r\n        setMapCentre();\r\n\r\n        populateMarkerAndInfoWindowHolderArray();\r\n\r\n
+        \       createAndPlotMarkers() ;\r\n    }\r\n\r\n    function setMapCentre()
+        {\r\n        // Get the centre Point address and Set Centre Point\r\n        baseaddress
+        = \"Bega\";\r\n        basecountrycode = \"AU\";\r\n\r\n        geocoder.geocode({'address'
+        : baseaddress, 'componentRestrictions' : {'country':basecountrycode}},\r\n
+        \           function(results, status) {\r\n                if(status == google.maps.GeocoderStatus.OK)
+        {\r\n                    var result = results[0].geometry.location;\r\n                    map.setCenter(result);\r\n
+        \               }\r\n            });\r\n    }\r\n\r\n    /* Sets event handlers
+        so that the changes on the display map reflect on the hidden print map */\r\n
+        \   function setEventListenersToBindPrintMapToDisplayMap() {\r\n        google.maps.event.addListener(map,
+        'zoom_changed', function() {\r\n            var zoomLevel = map.getZoom();\r\n
+        \           var center = map.getCenter();\r\n\r\n            //Set zoom and
+        center of the hidden printable map\r\n            mapPrint.setZoom(zoomLevel);\r\n
+        \           mapPrint.setCenter(center);\r\n        });\r\n\r\n        google.maps.event.addListener(map,
+        'center_changed', function() {\r\n            var center = map.getCenter();\r\n\r\n
+        \           //Set center of the hidden printable map\r\n            mapPrint.setCenter(center);\r\n
+        \       });\r\n    }\r\n\r\n    /* Parses XML geocodes and populates the data
+        into MarkerAndInfoWindowHolder object instances to later plot on the map */\r\n
+        \   function populateMarkerAndInfoWindowHolderArray() {\r\n        var properties
+        = null;\r\n        latlngbounds = new google.maps.LatLngBounds();\r\n\r\n
+        \       var item = [[\"-36.6876248,149.8491604\",\"11 Salway Cl, Bega 2550
+        NSW \",\"Proposed Attached Dual Occupancy\",\"010.2022.00000076.001\",\"10-2022-76-1\"],[\"-36.7295871,149.9850803\",\"14
+        Andy Poole Dr, Tathra 2550 NSW \",\"Alterations and additions to an existing
+        utility building\",\"010.2022.00000112.001\",\"10-2022-112-1\"],[\"-36.8908238,149.9033063\",\"10
+        View St, Merimbula 2548 NSW \",\"torrens title subdivision\",\"010.2022.00000120.001\",\"10-2022-120-1\"],[\"-36.7316569,149.9343823\",\"27
+        Kurrajong Cr, Kalaru 2550 NSW \",\"Construction of shed.\",\"010.2022.00000136.001\",\"10-2022-136-1\"],[\"-36.87063759999999,149.9292562\",\"10A
+        Surf Cir, Tura Beach 2548 NSW \",\"Proposed Deck with Spa and Patio Awning\",\"010.2022.00000126.001\",\"10-2022-126-1\"],[\"-36.4587703,149.8077551\",\"115
+        Gilberts Rd, Verona 2550 NSW \",\"Rural Industry - Butter and Yoghurt Processing
+        Facility\",\"010.2022.00000016.001\",\"10-2022-16-1\"],[\"-36.6767946,149.8414161\",\"Upper
+        St, Bega 2550 NSW \",\"Demolition of ancillary buildings at Bega Showground\",\"010.2022.00000190.001\",\"10-2022-190-1\"],[\"-36.7348831,149.7016923\",\"119
+        West Kameruka Rd, Kameruka 2550 NSW \",\"Conversion of shed into dual Occupancy\",\"010.2022.00000121.001\",\"10-2022-121-1\"],[\"-36.7157486,149.964374\",\"26
+        Thompson Dr, Tathra 2550 NSW \",\"New Single Storey Dwelling\",\"010.2022.00000134.001\",\"10-2022-134-1\"],[\"-36.87463899999999,149.9149952\",\"158
+        Mirador Dr, Mirador 2548 NSW \",\"CDC by PCA New Dwelling Single Storey\",\"018.2022.00002072.001\",\"18-2022-2072-1\"],[\"-36.6937721,149.8451968\",\"122
+        Boundary Rd, Bega 2550 NSW \",\"Transportable Dwelling \\u0026 shed to form
+        Dual Occupancy\",\"010.2022.00000065.001\",\"10-2022-65-1\"],[\"-36.6874169,149.8530907\",\"19
+        Glen Mia Dr, Bega 2550 NSW \",\"Secondary Dwelling\",\"010.2022.00000116.001\",\"10-2022-116-1\"],[\"-36.8614512,149.9323571\",\"3
+        Shearwater Ct, Tura Beach 2548 NSW \",\"Dual occupancy (Stage 1) \\u0026 2
+        lot Subdivision (Stage 2)\",\"010.2022.00000124.001\",\"10-2022-124-1\"],[\"-36.8678516,149.9221251\",\"69
+        Tura Beach Dr, Tura Beach 2548 NSW \",\"Alterations and additions to an existing
+        dwelling.\",\"010.2022.00000129.001\",\"10-2022-129-1\"],[\"-36.860688,149.9336795\",\"166
+        Pacific Wy, Tura Beach 2548 NSW \",\"Alterations \\u0026 Additions to existing
+        Dwelling\",\"010.2022.00000101.001\",\"10-2022-101-1\"],[\"-36.7071524,149.85916\",\"56
+        Stringy Park Cl, Bega 2550 NSW \",\"Erection of a shed / carport\",\"010.2022.00000144.001\",\"10-2022-144-1\"]];\r\n\r\n
+        \       $(item).each(function()\r\n        {\r\n            var arrProperty
+        = $(this);\r\n            createMarkerAndInfoWindowHolderObjects(arrProperty[0],
+        arrProperty[1], arrProperty[2], arrProperty[3], arrProperty[4]);\r\n        });\r\n
+        \   }\r\n\r\n    /* Checks if a marker has already been created for newLocation
+        */\r\n    function isNewLocation(newLocation)\r\n    {\r\n        var bNewLocation
+        = true;\r\n\r\n        $(arrMarkerAndInfoWindowHolder).each(function () {\r\n\r\n
+        \           if (newLocation.equals(this.location)) {\r\n                bNewLocation
+        = false;\r\n                return false;   //This breaks the each loop\r\n
+        \           }\r\n        });\r\n\r\n        return bNewLocation;\r\n    }\r\n\r\n
+        \   /* Creates MarkerAndInfoWindowHolder objects and adds them to the array
+        and modifies them */\r\n    function createMarkerAndInfoWindowHolderObjects(coord,
+        address, content, key, appNo) {\r\n        var coordArray = new Array();\r\n
+        \       coordArray[0] = parseFloat(coord.split(\",\")[0]); //.map not supported
+        in IE 8\r\n        coordArray[1] = parseFloat(coord.split(\",\")[1]);\r\n\r\n
+        \       if (!boundsEnabled || (parseInt(coordArray[0]) >= latMaxLimit && parseInt(coordArray[1])
+        <= lngMaxLimit)) {\r\n            var newLocation = new google.maps.LatLng(coordArray[0],
+        coordArray[1]);\r\n            var link = \"<a href='/Application/ApplicationDetails/\"
+        + key + \"/'>\" + appNo + \" - \" + address + \"</a><br/>\" + content\r\n
+        \           var bNewLocation = isNewLocation(newLocation);\r\n\r\n            if(bNewLocation)
+        {\r\n                arrMarkerAndInfoWindowHolder.push(new MarkerAndInfoWindowHolder(content,
+        newLocation, link));\r\n            }\r\n            else {\r\n                $(arrMarkerAndInfoWindowHolder).each(function
+        (index, obj) {\r\n\r\n                    if (newLocation.equals(obj.location))
+        {\r\n                        obj.infoWindowContent = obj.infoWindowContent
+        + \"<br/>\" + link;\r\n\r\n                        return false;   //exit
+        each loop\r\n                    }\r\n                });\r\n            }\r\n\r\n
+        \           latlngbounds.extend(newLocation);\r\n        }\r\n    }\r\n\r\n
+        \   /* Creates and sets the markers on the map */\r\n    function createAndPlotMarkers()
+        {\r\n\r\n        $(arrMarkerAndInfoWindowHolder).each(function() {\r\n            var
+        markerTitle = this.markerTitle;\r\n            var location = this.location;\r\n
+        \           var infoWindowContent = this.infoWindowContent;\r\n\r\n            //Sets
+        the marker on the display map\r\n            var marker = new google.maps.Marker({\r\n
+        \               map: map,\r\n                position: location,\r\n                title:
+        markerTitle\r\n            });\r\n\r\n            //Sets the marker on the
+        printable map\r\n            new google.maps.Marker({\r\n                map:
+        mapPrint,\r\n                position: location,\r\n                title:
+        markerTitle\r\n            });\r\n\r\n            //Attach eventlistener to
+        the marker\r\n            google.maps.event.addListener(marker, 'click', function
+        () {\r\n                if (infowindow)\r\n                    infowindow.close();\r\n\r\n
+        \               infowindow = new google.maps.InfoWindow({\r\n                    content:
+        infoWindowContent,\r\n                    maxWidth: 400\r\n                });\r\n\r\n
+        \               infowindow.open(map, marker);\r\n            });\r\n        });\r\n\r\n
+        \   }\r\n\r\n    /* An object that holds information about the locations which
+        have been created \r\n    using data from parsed geocode XML \r\n    markerTitle:
+        title of the marker/pin on the map\r\n    location: google maps location object
+        to pass to marker constructor\r\n    infoWindowContent: content that appears
+        when the marker/pin is clicked\r\n    */\r\n    function MarkerAndInfoWindowHolder(markerTitle,
+        location, infoWindowContent) {\r\n        this.markerTitle = markerTitle;\r\n
+        \       this.location = location;\r\n        this.infoWindowContent = infoWindowContent;\r\n
+        \   }\r\n\r\n    function loadGoogleMapsScript() {\r\n        var script =
+        document.createElement(\"script\");\r\n        script.type = \"text/javascript\";\r\n
+        \       script.src = \"//maps.googleapis.com/maps/api/js?key=AIzaSyDNG_ovTpNCUx8aCqANery05iDl7W0Bp8o&callback=initializeGoogleMaps\";\r\n
+        \       document.body.appendChild(script);\r\n    }\r\n\r\n    window.onload
+        = loadGoogleMapsScript;\r\n\r\n</script>\r\n\r\n\r\n                    </div>\r\n
+        \                   <!-- /.container-fluid -->\r\n\r\n                </div>\r\n
+        \               <!-- /#page-wrapper -->\r\n            </div>\r\n        </div>\r\n
+        \   </section>\r\n    <!-- Footer -->\r\n    <footer id=\"sd-footer\">\r\n
+        \       <div class=\"container\">\r\n            <div class=\"fmid row\">\r\n
+        \               <div class=\"col-md-4 nm\">\r\n                    <h2>Related
+        Sites</h2>\r\n                    <ul>\r\n\r\n                        <li><a
+        href=\"http://www.australia.com\" target=\"_blank\">Australia's Coastal Wilderness</a></li>\r\n\r\n
+        \                       <li><a href=\"http://www.littletongov.org/index.aspx?page=15\"
+        target=\"_blank\">Council's Sister City - Littleton Colorado</a></li>\r\n\r\n
+        \                       <li><a href=\"http://www.sapphirecoast.com.au/\" target=\"_blank\">Sapphire
+        Coast Tourism</a></li>\r\n\r\n                        <li><a href=\"http://www.southeastarts.org.au/\"
+        target=\"_blank\">South East Arts</a></li>\r\n\r\n                    </ul>\r\n
+        \               </div>\r\n                <div class=\"col-sm-6 col-md-4 connect\">\r\n
+        \                   <h2>Connect with Bega Valley Shire Council </h2>\r\n                    <ul>\r\n\r\n
+        \                       <li class=\"ico-twt\"><a href=\"https://twitter.com/BegaValleyShire\"
+        target=\"_blank\"><i class=\"fa fa-twitter\"></i></a></li>\r\n\r\n                        <li
+        class=\"ico-fb\"><a href=\"http://www.facebook.com/begavalley.shirecouncil\"
+        target=\"_blank\"><i class=\"fa fa-facebook\"></i></a></li>\r\n\r\n                    </ul>\r\n
+        \               </div>\r\n                <div class=\"col-sm-6 col-md-4 contact-us\">\r\n
+        \                   <h2>Contact Us</h2>\r\n                    <p>\r\n                        PO
+        Box 492, Bega NSW 2550<br>\r\n                        <strong>P.</strong>
+        (02) 6499 2222<br>\r\n                        <strong>F.</strong> (02) 6499
+        2200<br>\r\n                        <strong>E.</strong> <a href=\"mailto:council@begavalley.nsw.gov.au\">council@begavalley.nsw.gov.au</a>\r\n
+        \                   </p>\r\n                </div>\r\n            </div>\r\n
+        \           <div class=\"fbtm row\">\r\n                <div class=\"col-sm-12
+        col-md-8 ack\">\r\n                    <p>We wish to acknowledge the Traditional
+        Custodians of the land and waters of the Shire, and the people of the Yuin
+        Nation.</p>\r\n                </div>\r\n                <div class=\"col-sm-12
+        col-md-4 policy\">\r\n                    <ul>\r\n\r\n                        <li><a
+        href=\"http://www.begavalley.nsw.gov.au//page.asp?p=DOC-KYB-42-26-07\" target=\"_parent\">Privacy
+        Statement</a></li>\r\n\r\n                        <li><a href=\"http://www.begavalley.nsw.gov.au//actn/house_rules.asp\"
+        target=\"_blank\">House Rules</a></li>\r\n\r\n                    </ul>\r\n\r\n
+        \               </div>\r\n            </div>\r\n        </div>\r\n    </footer>\r\n
+        \   <!-- Footer -->\r\n\r\n</body>\r\n\r\n</html>"
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://datracker.begavalley.nsw.gov.au/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=0&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.7 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=xp1qhpfsjvnfmtryf4pln4bl; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.begavalley.nsw.gov.au
+      Referer:
+      - https://datracker.begavalley.nsw.gov.au/
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '298'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - ''
+      X-Aspnetmvc-Version:
+      - '5.2'
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Referrer-Policy:
+      - same-origin
+      Permissions-Policy:
+      - accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(),
+        microphone=(), payment=(), usb=()
+      Date:
+      - Thu, 14 Jul 2022 05:36:13 GMT
+      Content-Length:
+      - '11874'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":56,"recordsFiltered":56,"data":[["010.2019.00000159.001","10-2019-159-1","Development
+        Application","03/05/2019","185 Pericoe Rd, Towamba 2550 NSW \u003cbr/\u003e\u003cb\u003eDual
+        Occupancy, decommission existing dwelling \u0026 change of use\u003c/b\u003e"],["010.2019.00000141.001","10-2019-141-1","Development
+        Application","15/04/2019","3 Corkhill Pl, Bega 2550 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 additions to Old Bega Hospital as Community Facility\u003c/b\u003e"],["010.2019.00000173.001","10-2019-173-1","Development
+        Application","10/05/2019","Princes Hwy, Broadwater 2549 NSW \u003cbr/\u003e4381
+        Princes Hwy, Broadwater 2549 NSW \u003cbr/\u003e\u003cb\u003eEcotourism Facility
+        and tourist and visitor accommodation\u003c/b\u003e"],["010.2019.00000150.001","10-2019-150-1","Development
+        Application","24/04/2019","40 Lynjohn Dr, Bega 2550 NSW \u003cbr/\u003e\u003cb\u003e2
+        Lot Subdivision of attached dual occupancy\u003c/b\u003e"],["010.2012.00000402.002","10-2012-402-2","S96","07/05/2019","5
+        Bells Pl, Doctor George Mountain 2550 NSW \u003cbr/\u003e\u003cb\u003eModification
+        Erection of a dwelling \u0026 detached garage/studio \u0026 carport\u003c/b\u003e"],["010.2019.00000167.001","10-2019-167-1","Development
+        Application","08/05/2019","1972 Mount Darragh Rd, Wyndham 2550 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of a transportable home \u0026 erection of detached garage\u003c/b\u003e"],["010.2018.00000447.002","10-2018-447-2","S96","09/05/2019","146
+        Mirador Dr, Mirador 2548 NSW \u003cbr/\u003e\u003cb\u003eModerfication Erection
+        of a two storey dwelling with attached garage\u003c/b\u003e"],["010.2019.00000144.001","10-2019-144-1","Development
+        Application","16/04/2019","31 Victoria Tce, Eden 2551 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 additions to existing two storey dwelling\u003c/b\u003e"],["010.2019.00000148.001","10-2019-148-1","Development
+        Application","17/04/2019","133 Hore Laceys Rd, Brogo 2550 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of a transportable dwelling\u003c/b\u003e"],["010.2019.00000168.001","10-2019-168-1","Development
+        Application","08/05/2019","8 Golf Rd, Bermagui 2546 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of detached shed \u0026 roof over existing deck\u003c/b\u003e"],["010.2019.00000163.001","10-2019-163-1","Development
+        Application","06/05/2019","2/54 Pacific Wy, Tura Beach 2548 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 additions to dwelling, deck addition \u0026 awning\u003c/b\u003e"],["010.2019.00000162.001","10-2019-162-1","Development
+        Application","06/05/2019","1/54 Pacific Wy, Tura Beach 2548 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 additions to dwelling, erect deck \u0026 awning\u003c/b\u003e"],["010.2019.00000169.001","10-2019-169-1","Development
+        Application","09/05/2019","47 Mount Pleasant Rd, Coopers Gully 2550 NSW \u003cbr/\u003e\u003cb\u003eCarport
+        \u0026 retaining wall\u003c/b\u003e"],["010.2019.00000142.001","10-2019-142-1","Development
+        Application","15/04/2019","29-31 Mogareeka Ave, Mogareeka 2550 NSW \u003cbr/\u003e\u003cb\u003eAlts
+        \u0026 adds to existing dwelling - Erection of Deck and Awning\u003c/b\u003e"],["010.2017.00000451.002","10-2017-451-2","S96","10/05/2019","8
+        Hart Cr, Bega 2550 NSW \u003cbr/\u003e8A Hart Cr, Bega 2550 NSW \u003cbr/\u003e\u003cb\u003eMOD
+        subdivision of land \u0026 erection of attached two dual occupancies\u003c/b\u003e"],["010.2019.00000143.001","10-2019-143-1","Development
+        Application","16/04/2019","21 Sharpe St, Candelo 2550 NSW \u003cbr/\u003e\u003cb\u003eChange
+        of use to secondary dwelling\u003c/b\u003e"],["010.2019.00000155.001","10-2019-155-1","Development
+        Application","01/05/2019","51-53 Auckland St, Bega 2550 NSW \u003cbr/\u003e\u003cb\u003eSpecialised
+        retail premises (Plant Hire)\u003c/b\u003e"],["010.2018.00000246.002","10-2018-246-2","S96","18/04/2019","175
+        Mirador Dr, Mirador 2548 NSW \u003cbr/\u003e\u003cb\u003eModification erection
+        of a two storey dwelling with attached garage\u003c/b\u003e"],["010.2019.00000161.001","10-2019-161-1","Development
+        Application","03/05/2019","7 Kanangra St, Pambula Beach 2549 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of a Deck\u003c/b\u003e"],["010.2019.00000171.001","10-2019-171-1","Development
+        Application","10/05/2019","3 Oakleaf Pl, Millingandi 2549 NSW \u003cbr/\u003e\u003cb\u003eTwo
+        storey dwelling, detached shed \u0026 pool\u003c/b\u003e"],["018.2019.00002015.001","18-2019-2015-1","Complying
+        Development","16/04/2019","33 The Dress Cir, Tura Beach 2548 NSW \u003cbr/\u003e\u003cb\u003eCDC
+        by PCA - Dwelling \u0026 associated retaining walls\u003c/b\u003e"],["010.2019.00000139.001","10-2019-139-1","Development
+        Application","15/04/2019","35 Cobargo Bermagui Rd, Cobargo 2550 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and additions to existing dwelling\u003c/b\u003e"],["010.2001.00002033.002","10-2001-2033-2","S96","15/04/2019","375
+        Tathra Rd, Kalaru 2550 NSW \u003cbr/\u003e397 Tathra Rd, Kalaru 2550 NSW \u003cbr/\u003e\u003cb\u003eModification
+        3 Lot Rural Subdivision\u003c/b\u003e"],["010.2019.00000140.001","10-2019-140-1","Development
+        Application","15/04/2019","91 Devils Hole Rd, Wyndham 2550 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 additions to existing dwelling\u003c/b\u003e"],["010.2018.00000494.002","10-2018-494-2","S96","17/04/2019","4
+        Virginia Dr, Bega 2550 NSW \u003cbr/\u003e\u003cb\u003eModification clinical
+        training facility education \u0026 student accomm\u003c/b\u003e"],["010.2019.00000172.001","10-2019-172-1","Development
+        Application","10/05/2019","9 Ocean View Tce, Tathra 2550 NSW \u003cbr/\u003e\u003cb\u003eAlts
+        \u0026 Adds to existing dwelling and rebuild of fire damaged deck\u003c/b\u003e"],["010.2018.00000086.002","10-2018-86-2","S96","03/05/2019","15
+        Cliff Pl, Tathra 2550 NSW \u003cbr/\u003e\u003cb\u003eModification Alterations
+        alterations \u0026additions to two storey dwelling\u003c/b\u003e"],["018.2019.00002036.001","18-2019-2036-1","Complying
+        Development","09/05/2019","47 Bay St, Tathra 2550 NSW \u003cbr/\u003e\u003cb\u003eCDC
+        by PCA - Dwelling alterations and additions\u003c/b\u003e"],["010.2019.00000151.001","10-2019-151-1","Development
+        Application","30/04/2019","92 Lakewood Dr, Merimbula 2548 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of a two storey dwelling with attached garage\u003c/b\u003e"],["010.2019.00000153.001","10-2019-153-1","Development
+        Application","30/04/2019","17 Bournda Cct, Tura Beach 2548 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of a two storey dwelling with attached garage\u003c/b\u003e"],["018.2019.00002028.001","18-2019-2028-1","Complying
+        Development","06/05/2019","12 Whistler Cl, Mirador 2548 NSW \u003cbr/\u003e\u003cb\u003eCDC
+        by PCA - Erection of a single storey dwelling with attached garage\u003c/b\u003e"],["010.2019.00000156.001","10-2019-156-1","Development
+        Application","01/05/2019","58 Valencia Pl, Bald Hills 2549 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of a new dwelling with attached garage\u003c/b\u003e"],["018.2019.00002021.001","18-2019-2021-1","Complying
+        Development","06/05/2019","126 Mirador Dr, Mirador 2548 NSW \u003cbr/\u003e\u003cb\u003eCDC
+        by PCA - Dwelling\u003c/b\u003e"],["010.2019.00000165.001","10-2019-165-1","Development
+        Application","08/05/2019","Upper Brogo Rd, Brogo 2550 NSW \u003cbr/\u003e1493
+        Upper Brogo Rd, Brogo 2550 NSW \u003cbr/\u003e\u003cb\u003eWITHDRAWN Boundary
+        adjustment\u003c/b\u003e"],["010.2019.00000170.001","10-2019-170-1","Development
+        Application","09/05/2019","7 Carolynne St, Merimbula 2548 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 additions to dwelling \u0026 deck addition\u003c/b\u003e"],["010.2019.00000160.001","10-2019-160-1","Development
+        Application","03/05/2019","279 Verona Rd, Verona 2550 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of a single storey dwelling\u003c/b\u003e"],["010.2019.00000152.001","10-2019-152-1","Development
+        Application","30/04/2019","68-76 Main St, Merimbula 2548 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        to existing commercial building\u003c/b\u003e"],["010.2019.00000154.001","10-2019-154-1","Development
+        Application","01/05/2019","7 Tristania Ct, Tura Beach 2548 NSW \u003cbr/\u003e\u003cb\u003eCovered
+        Deck addition\u003c/b\u003e"],["010.2019.00000166.001","10-2019-166-1","Development
+        Application","08/05/2019","69 Monaro St, Merimbula 2548 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 additions to existing dwelling\u003c/b\u003e"],["010.2019.00000145.001","10-2019-145-1","Development
+        Application","16/04/2019","21A Hill St, Merimbula 2548 NSW \u003cbr/\u003e\u003cb\u003eExtension
+        of deck to existing dwelling\u003c/b\u003e"],["018.2019.00002039.001","18-2019-2039-1","Complying
+        Development","06/05/2019","67 Narrawa Pl, Bega 2550 NSW \u003cbr/\u003e\u003cb\u003eCDC
+        by PCA - Erection of detached Shed\u003c/b\u003e"],["018.2019.00002031.001","18-2019-2031-1","Complying
+        Development","29/04/2019","2 Booroo St, Pambula Beach 2549 NSW \u003cbr/\u003e\u003cb\u003eCDC
+        by PCA alterations \u0026 additions to existing dwelling\u003c/b\u003e"],["010.2019.00000146.001","10-2019-146-1","Development
+        Application","16/04/2019","48 Springvale Cl, Buckajo 2550 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of single storey dwelling\u003c/b\u003e"],["010.2019.00000158.001","10-2019-158-1","Development
+        Application","02/05/2019","1551 Nungatta Rd, Nungatta 2551 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of a Farm Shed\u003c/b\u003e"],["010.2007.00000737.002","10-2007-737-2","S96","03/05/2019","37
+        Monaro St, Merimbula 2548 NSW \u003cbr/\u003e\u003cb\u003eModification Residential
+        subdivision stage 1 \u0026 stage 2\u003c/b\u003e"],["010.2018.00000229.002","10-2018-229-2","S96","08/05/2019","53
+        Lake Cohen Dr, Kalaru 2550 NSW \u003cbr/\u003e\u003cb\u003eModification Staged
+        - erection of a dwelling and a detached shed\u003c/b\u003e"],["018.2019.00002033.001","18-2019-2033-1","Complying
+        Development","16/04/2019","75 Dummetts Rd, Quaama 2550 NSW \u003cbr/\u003e\u003cb\u003eCDC
+        by PCA - Pool and barrier fence\u003c/b\u003e"],["010.2016.00000084.004","10-2016-84-4","S96","30/04/2019","9A
+        Henwood St, Merimbula 2548 NSW \u003cbr/\u003e\u003cb\u003eModification alterations
+        \u0026 additions to existing dwelling\u003c/b\u003e"],["010.2019.00000174.001","10-2019-174-1","Development
+        Application","14/05/2019","29 Market St, Merimbula 2548 NSW \u003cbr/\u003e\u003cb\u003eEstablishment
+        of first use - Visitor Information Centre\u003c/b\u003e"],["010.2019.00000175.001","10-2019-175-1","Development
+        Application","14/05/2019","59 Nadgee Rd, Wonboyn 2551 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 additons to existing dwelling \u0026 remove existing garage\u003c/b\u003e"],["010.2019.00000157.001","10-2019-157-1","Development
+        Application","01/05/2019","10-14 Merimbola St, Pambula 2549 NSW \u003cbr/\u003e\u003cb\u003eConvert
+        dual occ to residence, regularise unauthorised works\u003c/b\u003e"],["010.2019.00000149.001","10-2019-149-1","Development
+        Application","18/04/2019","79 Carp St, Bega 2550 NSW \u003cbr/\u003e\u003cb\u003eChange
+        of Use - beauty therapy and shop fit out\u003c/b\u003e"],["010.2019.00000147.001","10-2019-147-1","Development
+        Application","17/04/2019","170 Vimy Ridge Rd, Chinnock 2550 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of a studio\u003c/b\u003e"],["010.2018.00000436.002","10-2018-436-2","S96","13/05/2019","44
+        Oaklands Rd, Pambula 2549 NSW \u003cbr/\u003e\u003cb\u003eModification erect
+        dwelling, detached garage \u0026 studio\u003c/b\u003e"],["010.2019.00000164.001","10-2019-164-1","Development
+        Application","07/05/2019","119 Lochview Farm Rd, Lochiel 2549 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of above ground swimming pool\u003c/b\u003e"],["010.2018.00000066.002","10-2018-66-2","S96","26/04/2019","2053
+        Princes Hwy, Wolumla 2550 NSW \u003cbr/\u003e2055 Princes Hwy, Wolumla 2550
+        NSW \u003cbr/\u003e\u003cb\u003eModification Erection of a dwelling\u003c/b\u003e"]]}'
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+recorded_with: VCR 6.0.0
