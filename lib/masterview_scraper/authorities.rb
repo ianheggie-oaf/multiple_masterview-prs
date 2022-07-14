@@ -145,6 +145,10 @@ module MasterviewScraper
       },
       force_detail: true
     },
+    upper_hunter: {
+      url: "http://onlineservices.upperhunter.nsw.gov.au",
+      use_api: true
+    },  
     wingecarribee: {
       url: "https://datracker.wsc.nsw.gov.au/Modules/applicationmaster",
       params: {
