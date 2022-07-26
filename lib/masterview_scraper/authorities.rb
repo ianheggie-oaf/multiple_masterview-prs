@@ -62,12 +62,6 @@ module MasterviewScraper
       force_detail: true,
       state: "NSW"
     },
-    # Forbes looks like it's going to need a new custom scraper. See https://github.com/planningalerts-scrapers/issues/issues/424
-    # forbes: {
-    #   url: "http://planning.forbes.nsw.gov.au",
-    #   use_api: true,
-    #   force_detail: true
-    # },
     fraser_coast: {
       url: "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
       params: {
