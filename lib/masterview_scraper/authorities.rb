@@ -16,7 +16,7 @@ module MasterviewScraper
     bega_valley: {
       url: "https://datracker.begavalley.nsw.gov.au",
       use_api: true
-    },  
+    },
     bogan: {
       url: "https://datracker.bogan.nsw.gov.au:81",
       use_api: true,
@@ -114,7 +114,7 @@ module MasterviewScraper
     muswellbrook: {
       url: "https://datracker.muswellbrook.nsw.gov.au",
       use_api: true
-    },  
+    },
     port_macquarie_hastings: {
       url: "https://datracker.pmhc.nsw.gov.au",
       use_api: true,
@@ -141,6 +141,10 @@ module MasterviewScraper
       use_api: true,
       force_detail: true
     },
+    strathfield: {
+      url: "https://datracker.strathfield.nsw.gov.au",
+      use_api: true
+    },
     toowoomba: {
       url: "https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster",
       params: {
@@ -152,7 +156,7 @@ module MasterviewScraper
     upper_hunter: {
       url: "http://onlineservices.upperhunter.nsw.gov.au",
       use_api: true
-    },  
+    },
     wingecarribee: {
       url: "https://datracker.wsc.nsw.gov.au/Modules/applicationmaster",
       params: {
