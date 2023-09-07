@@ -89,12 +89,6 @@ module MasterviewScraper
       use_api: true,
       force_detail: true
     },
-    hawkesbury: {
-      url: "https://datrack.hawkesbury.nsw.gov.au/MasterViewUI/Modules/applicationmaster",
-      params: { "4a" => "DA", "6" => "F" },
-      state: "NSW",
-      force_detail: true
-    },
     lismore: {
       url: "https://tracker.lismore.nsw.gov.au",
       use_api: true,
