@@ -134,14 +134,6 @@ module MasterviewScraper
       url: "https://datracker.strathfield.nsw.gov.au",
       use_api: true
     },
-    toowoomba: {
-      url: "https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster",
-      params: {
-        "4a" => "\'488\',\'487\',\'486\',\'495\',\'521\',\'540\',\'496\',\'562\'",
-        "6" => "F"
-      },
-      force_detail: true
-    },
     upper_hunter: {
       url: "http://onlineservices.upperhunter.nsw.gov.au",
       use_api: true
