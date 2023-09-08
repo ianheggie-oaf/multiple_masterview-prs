@@ -182,7 +182,8 @@ module MasterviewScraper
         "NO DA - Certificate Only",
         "Change in Workflow",
         "Application Lapsed",
-        "Active"
+        "Active",
+        "Interim OC Private Certifier"
       ].freeze
 
       # Get the data from the decision block as is but don't interpret it just yet
