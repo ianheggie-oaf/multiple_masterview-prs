@@ -10,7 +10,7 @@ module MasterviewScraper
       force_detail: true
     },
     ballina: {
-      url: "http://da.ballina.nsw.gov.au",
+      url: "https://da.ballina.nsw.gov.au",
       use_api: true
     },
     bega_valley: {
