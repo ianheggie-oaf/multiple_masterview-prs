@@ -7,7 +7,7 @@ module MasterviewScraper
   module GetApplicationsApi
     # Returns applications received in the last 30 days
     def self.scrape(url:, agent:, long_council_reference:,
-                    types:, page_size: 100)
+                    types:, lowercase_api_call:, page_size: 100)
       page_no = 0
       # Start with the assumption that there is at least one records to be returned
       total_records = 1
@@ -18,7 +18,8 @@ module MasterviewScraper
         total_records = scrape_page(
           offset: page_no * page_size, limit: page_size, url: url,
           start_date: start_date, end_date: end_date,
-          agent: agent, long_council_reference: long_council_reference, types: types
+          agent: agent, long_council_reference: long_council_reference, types: types,
+          lowercase_api_call: lowercase_api_call
         ) do |record|
           yield record
         end
@@ -27,7 +28,8 @@ module MasterviewScraper
     end
 
     def self.scrape_page(
-      offset:, limit:, url:, start_date:, end_date:, agent:, long_council_reference:, types:
+      offset:, limit:, url:, start_date:, end_date:, agent:, lowercase_api_call:,
+      long_council_reference:, types:
     )
       json = {
         "DateFrom" => start_date.strftime("%d/%m/%Y"),
@@ -40,8 +42,10 @@ module MasterviewScraper
       }
       json["ApplicationType"] = types.join(",") if types
 
+      path = +"/Application/GetApplications"
+      path.downcase! if lowercase_api_call
       page = agent.post(
-        url + "/Application/GetApplications",
+        url + path,
         "start" => offset,
         "length" => limit,
         "json" => json.to_json

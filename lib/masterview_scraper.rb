@@ -39,6 +39,7 @@ module MasterviewScraper
     force_detail: false,
     timeout: nil,
     types: nil,
+    lowercase_api_call: false,
     # page_size only applies when use_api is true at the moment
     page_size: 100
   )
@@ -49,6 +50,7 @@ module MasterviewScraper
         types,
         force_detail,
         timeout,
+        lowercase_api_call,
         page_size
       ) do |record|
         yield record
@@ -67,7 +69,7 @@ module MasterviewScraper
 
   def self.scrape_api_period(
     url, long_council_reference, types,
-    force_detail, timeout, page_size = 100
+    force_detail, timeout, lowercase_api_call, page_size = 100
   )
     agent = Mechanize.new
     # We're doing this for every authority because the problem of incomplete certificates
@@ -84,7 +86,9 @@ module MasterviewScraper
       agent.read_timeout = timeout
     end
 
-    page = agent.get(url + "/")
+    # Byron council has a misconfigured website that is for some
+    # reason giving a 403 when we send an accept-charset header
+    page = agent.get(url + "/", [], nil, { "accept-charset" => nil })
 
     if Pages::TermsAndConditions.on_page?(page)
       MasterviewScraper::Pages::TermsAndConditions.click_agree(page)
@@ -93,11 +97,12 @@ module MasterviewScraper
     GetApplicationsApi.scrape(
       url: url,
       agent: agent, long_council_reference: long_council_reference, types: types,
+      lowercase_api_call: lowercase_api_call,
       page_size: page_size
     ) do |record|
       if force_detail
         page = begin
-                 agent.get(record["info_url"])
+                 agent.get(record["info_url"], [], nil, { "accept-charset" => nil })
                rescue Mechanize::ResponseCodeError
                  nil
                end

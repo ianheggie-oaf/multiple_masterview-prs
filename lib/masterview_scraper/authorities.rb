@@ -32,8 +32,9 @@ module MasterviewScraper
       force_detail: true
     },
     byron: {
-      url: "https://datracker.byron.nsw.gov.au/MasterViewUI-External",
+      url: "https://datracker.byron.nsw.gov.au/masterviewui-external",
       use_api: true,
+      lowercase_api_call: true,
       page_size: 10,
       force_detail: true
     },

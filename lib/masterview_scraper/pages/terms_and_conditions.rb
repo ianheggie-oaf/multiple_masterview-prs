@@ -15,7 +15,7 @@ module MasterviewScraper
         button = button(form)
         raise "Can't find agree button" if button.nil?
 
-        form.submit(button)
+        form.submit(button, { "accept-charset" => nil })
       end
 
       # Check if we're actually on this page
