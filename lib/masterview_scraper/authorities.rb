@@ -63,18 +63,6 @@ module MasterviewScraper
       force_detail: true,
       state: "NSW"
     },
-    fraser_coast: {
-      url: "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
-      params: {
-        # TODO: Do the encoding automatically
-        "4a" => "BPS%27,%27MC%27,%27OP%27,%27SB%27,%27MCU%27,%27ROL%27,%27OPWKS%27,"\
-              "%27QMCU%27,%27QRAL%27,%27QOPW%27,%27QDBW%27,%27QPOS%27,%27QSPS%27,"\
-              "%27QEXE%27,%27QCAR%27,%27ACA",
-        "6" => "F"
-      },
-      state: "QLD",
-      force_detail: true
-    },
     griffith: {
       url: "https://datracking.griffith.nsw.gov.au",
       use_api: true,
