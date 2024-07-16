@@ -105,7 +105,7 @@ module MasterviewScraper
       force_detail: true
     },
     shoalhaven: {
-      url: "http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster",
+      url: "https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster",
       params: {
         "4a" => "25,13,72,60,58,56",
         "6" => "F"

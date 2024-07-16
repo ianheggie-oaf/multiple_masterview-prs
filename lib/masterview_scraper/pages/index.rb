@@ -69,6 +69,8 @@ module MasterviewScraper
 
       # Returns ruby date object
       def self.parse_date(string)
+        return nil if string == ""
+
         # In most cases the date is in d/m/y but in one it's different. Thanks!
         Date.strptime(string, "%d/%m/%Y")
       rescue ArgumentError

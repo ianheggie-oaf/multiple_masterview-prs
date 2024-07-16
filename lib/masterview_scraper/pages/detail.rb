@@ -60,9 +60,9 @@ module MasterviewScraper
                   detail =~ /Activity:(.*)/
               description = Regexp.last_match(1).squeeze(" ").strip
               descriptions << description if description != ""
-            elsif detail =~ /^Submitted: (.*)/ ||
+            elsif detail =~ /^Submitted:(.*)/ ||
                   detail =~ /^Date Lodged: (.*)/
-              date_received = Regexp.last_match(1)
+              date_received = Regexp.last_match(1).strip
             elsif detail =~ /Determination Description:/ ||
                   detail =~ /Assessment Level:/ ||
                   detail =~ /Permit:/ ||
@@ -84,6 +84,8 @@ module MasterviewScraper
           end
           description = descriptions.first
         end
+
+        date_received = nil if date_received == ""
 
         {
           council_reference: council_reference,
