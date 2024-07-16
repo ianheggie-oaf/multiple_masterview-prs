@@ -145,7 +145,11 @@ module MasterviewScraper
         "Privately Certified CC Approval",
         "Privately Certified Occ Cert Issued",
         "Final Certificate Issued CCC",
-        "APPROVED- PRIVATE CERTIFIER"
+        "APPROVED- PRIVATE CERTIFIER",
+        "Council Approved Occupation Certificate",
+        "Approved for subdivision",
+        "Council Approved CC",
+        "Approved Building Certificate"
       ].freeze
 
       WITHDRAWN = [
@@ -160,6 +164,7 @@ module MasterviewScraper
         # after it's been approved by the council. This is used to avoid multiple
         # DAs for the same property conflicting with each other.
         "Surrender Consent",
+        "Consent Surrendered",
         "Cancelled/Surrendered",
         "Cancelled",
         "Cancelled/Withdrawn",
@@ -171,6 +176,7 @@ module MasterviewScraper
         "Rejected - Council Staff",
         "Refused",
         "Refused by Delegated Officer",
+        "Refused By Staff",
         # Haha. Withdrawn by staff - what a fantastic euphimism for rejected
         "Withdrawn by Staff",
         "Cancelled by Staff",
@@ -183,7 +189,8 @@ module MasterviewScraper
         "Change in Workflow",
         "Application Lapsed",
         "Active",
-        "Interim OC Private Certifier"
+        "Interim OC Private Certifier",
+        "Completed (COM)"
       ].freeze
 
       # Get the data from the decision block as is but don't interpret it just yet
