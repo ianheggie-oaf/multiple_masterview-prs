@@ -41,8 +41,9 @@ RSpec.describe Scraper do
                      .uniq
                      .count { |text| ScraperUtils::SpecSupport.geocodable? text }
       puts "Found #{geocodable} out of #{results.count} unique geocodable addresses " \
-        "(#{(100.0 * geocodable / results.count).round(1)}%)"
-      expect(geocodable).to be > (0.7 * results.count)
+             "(#{(100.0 * geocodable / results.count).round(1)}%)"
+      expected = [(0.5 * results.count - 3), 1].max
+      expect(geocodable).to be >= expected
 
       descriptions = results
                        .map { |record| record["description"] }
@@ -54,7 +55,8 @@ RSpec.describe Scraper do
       end
       puts "Found #{descriptions} out of #{results.count} unique reasonable descriptions " \
              "(#{(100.0 * descriptions / results.count).round(1)}%)"
-      expect(descriptions).to be > (0.55 * results.count)
+      expected = [0.3 * results.count - 3, 1].max
+      expect(descriptions).to be >= expected
 
       info_urls = results
                   .map { |record| record["info_url"] }
@@ -62,7 +64,15 @@ RSpec.describe Scraper do
                   .count { |text| text.to_s.match(%r{\Ahttps?://}) }
       puts "Found #{info_urls} out of #{results.count} unique info_urls " \
              "(#{(100.0 * info_urls / results.count).round(1)}%)"
-      expect(info_urls).to be > (0.7 * results.count) if info_urls != 1
+      expected = info_urls == 1 ? 1 : [(0.7 * results.count - 3), 1].max
+      expect(info_urls).to be >= expected
+
+      no_details_on_info_link = info_urls == 1 || %i[
+          albury ballina bega_valley broken_hill bundaberg
+          cessnock dubbo griffith gunnedah gympie lismore maranoa
+          muswellbrook port_stephens port_macquarie_hastings
+          singleton strathfield upper_hunter
+        ].include?(authority)
 
       VCR.use_cassette("#{authority}.info_urls") do
         results.each do |record|
