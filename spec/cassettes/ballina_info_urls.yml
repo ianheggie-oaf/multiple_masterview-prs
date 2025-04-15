@@ -1,0 +1,65 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://da.ballina.nsw.gov.au/Application/ApplicationDetails/013.2001.00000536.001
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - da.ballina.nsw.gov.au
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/Home/Disclaimer"
+      Server:
+      - Microsoft-IIS/10.0
+      Set-Cookie:
+      - ASP.NET_SessionId=wswcifuzyqcslom1ur0zz4x1; path=/; HttpOnly; SameSite=Lax;
+        secure
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Powered-By:
+      - ASP.NET
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Referrer-Policy:
+      - no-referrer-when-downgrade
+      Permissions-Policy:
+      - microphone=()
+      X-Xss-Protection:
+      - 1; mode=block
+      Content-Security-Policy:
+      - frame-ancestors 'self' https://ballina.nsw.gov.au
+      Strict-Transport-Security:
+      - max-age=31536000; preload; includeSubDomains
+      Date:
+      - Tue, 15 Apr 2025 14:17:47 GMT
+      Content-Length:
+      - '133'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/Home/Disclaimer\">here</a>.</h2>\r\n</body></html>\r\n"
+  recorded_at: Tue, 15 Apr 2025 14:18:06 GMT
+recorded_with: VCR 6.0.0
