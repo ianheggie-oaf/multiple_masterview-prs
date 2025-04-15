@@ -4,77 +4,90 @@
   description: Showroom (Motor Vehicle Sales Showroom), Outdoor Sales (Motor Vehicle
     Sales Yard) and Low Impact Industry (Motor Vehicle Workshop)
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/007.2019.00001677.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-28'
+  authority_label: gympie
 - council_reference: 7.2019.1835.1
   address: 1-11 Pinewood Av, Gympie 4570 QLD
   description: Indoor Sport and Recreation (Roller Skating Facility)
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/007.2019.00001835.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-30'
+  authority_label: gympie
 - council_reference: 7.2019.1840.1
   address: 29 Glen Eden Dve, Gympie 4570 QLD
   description: Dual Occupancy
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/007.2019.00001840.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-03'
+  authority_label: gympie
 - council_reference: 7.2019.1854.1
   address: Dombrow Rd, Mudlo 4600 QLD
   description: Dwelling House
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/007.2019.00001854.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-03'
+  authority_label: gympie
 - council_reference: 7.2019.1895.1
   address: 14-18 Channon St, Gympie 4570 QLD
   description: Indoor Sport and Recreation (Pilates Studio)
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/007.2019.00001895.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-03'
+  authority_label: gympie
 - council_reference: 7.2019.1896.1
   address: 48 Reef St, Gympie 4570 QLD
   description: Office
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/007.2019.00001896.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-08'
+  authority_label: gympie
 - council_reference: 8.2019.1671.1
   address: 33 Cullinane Rd, Mothar Mountain 4570 QLD
   description: Subdivision to Create Two (2) New Lots from Two (2) Existing Lots
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/008.2019.00001671.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-16'
+  authority_label: gympie
 - council_reference: 8.2019.1837.1
   address: 6 Kath Rd, Araluen 4570 QLD
   description: Boundary Realignment
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/008.2019.00001837.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-02'
+  authority_label: gympie
 - council_reference: 8.2019.1839.1
   address: 168 Fritz Rd, Chatsworth 4570 QLD
   description: Subdivision to Create One (1) Additional Lot
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/008.2019.00001839.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-01'
+  authority_label: gympie
 - council_reference: 8.2019.1852.1
   address: 96 Kurrajong Dve, The Palms 4570 QLD
   description: Subdivision to Create One (1) Additional Lot and Access Easement
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/008.2019.00001852.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-01'
+  authority_label: gympie
 - council_reference: 8.2019.1853.1
   address: 1-3 Davey Rd, Southside 4570 QLD
   description: Subdivision to Create One (1) Additional Lot
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/008.2019.00001853.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-01'
+  authority_label: gympie
 - council_reference: 8.2019.1874.1
   address: 10 Baroona Ct, Tamaree 4570 QLD
   description: Subdivision to Create Three (3) Additional Lots
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/008.2019.00001874.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-08'
+  authority_label: gympie
 - council_reference: 8.2019.1959.1
   address: Furness Rd, Southside 4570 QLD
   description: Subdivision to Create 49 Additional Lots
   info_url: https://daonline.gympie.qld.gov.au/Application/ApplicationDetails/008.2019.00001959.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-14'
+  authority_label: gympie
