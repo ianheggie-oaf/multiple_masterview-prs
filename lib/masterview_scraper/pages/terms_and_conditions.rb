@@ -7,13 +7,13 @@ module MasterviewScraper
       def self.click_agree(page)
         # Click the Agree button on the form
         form = form(page)
-        raise "Couldn't find form" if form.nil?
+        raise "Couldn't find form on #{page.uri}" if form.nil?
 
         agreed_field = form.field_with(name: "agreed")
         agreed_field.value = true if agreed_field
 
         button = button(form)
-        raise "Can't find agree button" if button.nil?
+        raise "Can't find agree button on #{page.uri}" if button.nil?
 
         form.submit(button, { "accept-charset" => nil })
       end

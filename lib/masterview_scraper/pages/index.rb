@@ -25,27 +25,27 @@ module MasterviewScraper
         when "Application Type"
           :application_type
         else
-          raise "Unknown name #{name} with value #{value}"
+          raise "Unknown name #{name} with value #{value} on #{uri}"
         end
       end
 
       def self.scrape(page)
         d = page.at("div.ControlContent")
-        if d&.inner_html&.match(/An unexpected error has occured./)
-          raise "The server has a problem. It says an unexpected error has occured"
+        if d&.inner_html&.match(/An unexpected error has occurred./)
+          raise "The server has a problem. It says an unexpected error has occurred on #{page.uri}"
         end
 
         table = page.at("table.rgMasterTable") ||
                 page.at("table table") ||
                 page.at("#ctl03_lblData table")
-        raise "Couldn't find table" if table.nil?
+        raise "Couldn't find table on #{page.uri}" if table.nil?
 
-        Table.extract_table(table).each do |row|
+        Table.extract_table(table, page.uri).each do |row|
           normalised = row[:content].map { |k, v| [normalise_name(k, v), v] }.to_h
 
           href = Nokogiri::HTML.fragment(normalised[:link]).at("a")["href"]
           if normalised[:details]
-            details = scrape_details_field(normalised[:details])
+            details = scrape_details_field(normalised[:details], page.uri)
             normalised[:description] = details[:description]
             normalised[:address] = details[:address] if details[:address]
           # For the odd one that doesn't have a details field we have some
@@ -77,8 +77,8 @@ module MasterviewScraper
         Date.parse(string)
       end
 
-      def self.scrape_details_field(field)
-        # Split out the seperate sections of the details field
+      def self.scrape_details_field(field, uri)
+        # Split out the separate sections of the details field
         details = field.split("<br>").map do |detail|
           strip_html(detail).squeeze(" ").strip
         end
@@ -95,7 +95,7 @@ module MasterviewScraper
           end
         end
         if details.empty? || details.length > 3
-          raise "Unexpected number of things in details: #{details}"
+          raise "Unexpected number of things in details: #{details} on #{uri}"
         end
 
         if details.length == 1
@@ -110,9 +110,11 @@ module MasterviewScraper
         end
       end
 
-      def self.find_field(row, names)
+      def self.find_field(row, names, uri)
         value = row[:content].find { |k, _v| names.include?(k) }[1]
-        raise "Can't find field with possible names #{names} in #{row[:content].keys}" if value.nil?
+        if value.nil?
+          raise "Can't find field with possible names #{names} in #{row[:content].keys} on #{uri}"
+        end
 
         value
       end
