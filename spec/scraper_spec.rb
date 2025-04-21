@@ -102,13 +102,15 @@ RSpec.describe Scraper do
           break if info_urls == 1
 
           # Force consistent encoding before comparison
-          page_body = page.body.force_encoding('UTF-8').gsub(/\s\s+/, ' ')
+          page_body = page.body.force_encoding("UTF-8").gsub(/\s\s+/, " ")
           # Expect max 1/4 failure expectations
           %w[council_reference address description]
             .each do |attribute|
             count += 1
-            expected = CGI.escapeHTML(record[attribute]).gsub(/\s\s+/, ' ')
-            next if page_body.include?(expected)
+            expected = CGI.escapeHTML(record[attribute]).gsub(/\s\s+/, " ")
+            # Handle Lismore swapping post-code and state
+            expected2 = expected.gsub(/(\S+)\s+(\S+)\z/, '\2 \1')
+            next if page_body.include?(expected) || page_body.include?(expected2)
 
             failed += 1
             puts "  Missing: #{expected}"
