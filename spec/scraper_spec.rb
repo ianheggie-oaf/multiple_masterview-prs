@@ -100,7 +100,7 @@ RSpec.describe Scraper do
           expect(page.code).to eq("200")
           # If info_url is the same for all records, then it won't have details
           # Some redirection on terms don't work either ...
-          break if info_urls == 1 || %i[camden upper_hunter].include?(authority)
+          break if info_urls == 1 || %i[upper_hunter].include?(authority)
 
           # Force consistent encoding before comparison
           page_body = page.body.force_encoding("UTF-8").gsub(/\s\s+/, " ")
