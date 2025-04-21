@@ -3,335 +3,391 @@
   address: 375 Tathra Rd, Kalaru 2550 NSW
   description: Modification 3 Lot Rural Subdivision
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2001.00002033.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-15'
+  authority_label: bega_valley
 - council_reference: 10-2007-737-2
   address: 37 Monaro St, Merimbula 2548 NSW
   description: Modification Residential subdivision stage 1 & stage 2
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2007.00000737.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-03'
+  authority_label: bega_valley
 - council_reference: 10-2012-402-2
   address: 5 Bells Pl, Doctor George Mountain 2550 NSW
   description: Modification Erection of a dwelling & detached garage/studio & carport
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2012.00000402.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-07'
+  authority_label: bega_valley
 - council_reference: 10-2016-84-4
   address: 9A Henwood St, Merimbula 2548 NSW
   description: Modification alterations & additions to existing dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2016.00000084.004
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-30'
+  authority_label: bega_valley
 - council_reference: 10-2017-451-2
   address: 8 Hart Cr, Bega 2550 NSW
   description: MOD subdivision of land & erection of attached two dual occupancies
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2017.00000451.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-10'
+  authority_label: bega_valley
 - council_reference: 10-2018-229-2
   address: 53 Lake Cohen Dr, Kalaru 2550 NSW
   description: Modification Staged - erection of a dwelling and a detached shed
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000229.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-08'
+  authority_label: bega_valley
 - council_reference: 10-2018-246-2
   address: 175 Mirador Dr, Mirador 2548 NSW
   description: Modification erection of a two storey dwelling with attached garage
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000246.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-18'
+  authority_label: bega_valley
 - council_reference: 10-2018-436-2
   address: 44 Oaklands Rd, Pambula 2549 NSW
   description: Modification erect dwelling, detached garage & studio
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000436.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-13'
+  authority_label: bega_valley
 - council_reference: 10-2018-447-2
   address: 146 Mirador Dr, Mirador 2548 NSW
   description: Moderfication Erection of a two storey dwelling with attached garage
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000447.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-09'
+  authority_label: bega_valley
 - council_reference: 10-2018-494-2
   address: 4 Virginia Dr, Bega 2550 NSW
   description: Modification clinical training facility education & student accomm
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000494.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-17'
+  authority_label: bega_valley
 - council_reference: 10-2018-66-2
   address: 2053 Princes Hwy, Wolumla 2550 NSW
   description: Modification Erection of a dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000066.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-26'
+  authority_label: bega_valley
 - council_reference: 10-2018-86-2
   address: 15 Cliff Pl, Tathra 2550 NSW
   description: Modification Alterations alterations &additions to two storey dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000086.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-03'
+  authority_label: bega_valley
 - council_reference: 10-2019-139-1
   address: 35 Cobargo Bermagui Rd, Cobargo 2550 NSW
   description: Alterations and additions to existing dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000139.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-15'
+  authority_label: bega_valley
 - council_reference: 10-2019-140-1
   address: 91 Devils Hole Rd, Wyndham 2550 NSW
   description: Alterations & additions to existing dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000140.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-15'
+  authority_label: bega_valley
 - council_reference: 10-2019-141-1
   address: 3 Corkhill Pl, Bega 2550 NSW
   description: Alterations & additions to Old Bega Hospital as Community Facility
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000141.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-15'
+  authority_label: bega_valley
 - council_reference: 10-2019-142-1
   address: 29-31 Mogareeka Ave, Mogareeka 2550 NSW
   description: Alts & adds to existing dwelling - Erection of Deck and Awning
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000142.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-15'
+  authority_label: bega_valley
 - council_reference: 10-2019-143-1
   address: 21 Sharpe St, Candelo 2550 NSW
   description: Change of use to secondary dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000143.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-16'
+  authority_label: bega_valley
 - council_reference: 10-2019-144-1
   address: 31 Victoria Tce, Eden 2551 NSW
   description: Alterations & additions to existing two storey dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000144.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-16'
+  authority_label: bega_valley
 - council_reference: 10-2019-145-1
   address: 21A Hill St, Merimbula 2548 NSW
   description: Extension of deck to existing dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000145.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-16'
+  authority_label: bega_valley
 - council_reference: 10-2019-146-1
   address: 48 Springvale Cl, Buckajo 2550 NSW
   description: Erection of single storey dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000146.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-16'
+  authority_label: bega_valley
 - council_reference: 10-2019-147-1
   address: 170 Vimy Ridge Rd, Chinnock 2550 NSW
   description: Erection of a studio
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000147.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-17'
+  authority_label: bega_valley
 - council_reference: 10-2019-148-1
   address: 133 Hore Laceys Rd, Brogo 2550 NSW
   description: Installation of a transportable dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000148.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-17'
+  authority_label: bega_valley
 - council_reference: 10-2019-149-1
   address: 79 Carp St, Bega 2550 NSW
   description: Change of Use - beauty therapy and shop fit out
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000149.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-18'
+  authority_label: bega_valley
 - council_reference: 10-2019-150-1
   address: 40 Lynjohn Dr, Bega 2550 NSW
   description: 2 Lot Subdivision of attached dual occupancy
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000150.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-24'
+  authority_label: bega_valley
 - council_reference: 10-2019-151-1
   address: 92 Lakewood Dr, Merimbula 2548 NSW
   description: Erection of a two storey dwelling with attached garage
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000151.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-30'
+  authority_label: bega_valley
 - council_reference: 10-2019-152-1
   address: 68-76 Main St, Merimbula 2548 NSW
   description: Alterations to existing commercial building
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000152.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-30'
+  authority_label: bega_valley
 - council_reference: 10-2019-153-1
   address: 17 Bournda Cct, Tura Beach 2548 NSW
   description: Erection of a two storey dwelling with attached garage
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000153.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-30'
+  authority_label: bega_valley
 - council_reference: 10-2019-154-1
   address: 7 Tristania Ct, Tura Beach 2548 NSW
   description: Covered Deck addition
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000154.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-01'
+  authority_label: bega_valley
 - council_reference: 10-2019-155-1
   address: 51-53 Auckland St, Bega 2550 NSW
   description: Specialised retail premises (Plant Hire)
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000155.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-01'
+  authority_label: bega_valley
 - council_reference: 10-2019-156-1
   address: 58 Valencia Pl, Bald Hills 2549 NSW
   description: Erection of a new dwelling with attached garage
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000156.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-01'
+  authority_label: bega_valley
 - council_reference: 10-2019-157-1
   address: 10-14 Merimbola St, Pambula 2549 NSW
   description: Convert dual occ to residence, regularise unauthorised works
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000157.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-01'
+  authority_label: bega_valley
 - council_reference: 10-2019-158-1
   address: 1551 Nungatta Rd, Nungatta 2551 NSW
   description: Erection of a Farm Shed
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000158.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-02'
+  authority_label: bega_valley
 - council_reference: 10-2019-159-1
   address: 185 Pericoe Rd, Towamba 2550 NSW
   description: Dual Occupancy, decommission existing dwelling & change of use
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000159.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-03'
+  authority_label: bega_valley
 - council_reference: 10-2019-160-1
   address: 279 Verona Rd, Verona 2550 NSW
   description: Erection of a single storey dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000160.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-03'
+  authority_label: bega_valley
 - council_reference: 10-2019-161-1
   address: 7 Kanangra St, Pambula Beach 2549 NSW
   description: Erection of a Deck
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000161.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-03'
+  authority_label: bega_valley
 - council_reference: 10-2019-162-1
   address: 1/54 Pacific Wy, Tura Beach 2548 NSW
   description: Alterations & additions to dwelling, erect deck & awning
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000162.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-06'
+  authority_label: bega_valley
 - council_reference: 10-2019-163-1
   address: 2/54 Pacific Wy, Tura Beach 2548 NSW
   description: Alterations & additions to dwelling, deck addition & awning
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000163.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-06'
+  authority_label: bega_valley
 - council_reference: 10-2019-164-1
   address: 119 Lochview Farm Rd, Lochiel 2549 NSW
   description: Installation of above ground swimming pool
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000164.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-07'
+  authority_label: bega_valley
 - council_reference: 10-2019-165-1
   address: Upper Brogo Rd, Brogo 2550 NSW
   description: WITHDRAWN Boundary adjustment
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000165.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-08'
+  authority_label: bega_valley
 - council_reference: 10-2019-166-1
   address: 69 Monaro St, Merimbula 2548 NSW
   description: Alterations & additions to existing dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000166.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-08'
+  authority_label: bega_valley
 - council_reference: 10-2019-167-1
   address: 1972 Mount Darragh Rd, Wyndham 2550 NSW
   description: Installation of a transportable home & erection of detached garage
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000167.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-08'
+  authority_label: bega_valley
 - council_reference: 10-2019-168-1
   address: 8 Golf Rd, Bermagui 2546 NSW
   description: Erection of detached shed & roof over existing deck
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000168.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-08'
+  authority_label: bega_valley
 - council_reference: 10-2019-169-1
   address: 47 Mount Pleasant Rd, Coopers Gully 2550 NSW
   description: Carport & retaining wall
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000169.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-09'
+  authority_label: bega_valley
 - council_reference: 10-2019-170-1
   address: 7 Carolynne St, Merimbula 2548 NSW
   description: Alterations & additions to dwelling & deck addition
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000170.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-09'
+  authority_label: bega_valley
 - council_reference: 10-2019-171-1
   address: 3 Oakleaf Pl, Millingandi 2549 NSW
   description: Two storey dwelling, detached shed & pool
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000171.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-10'
+  authority_label: bega_valley
 - council_reference: 10-2019-172-1
   address: 9 Ocean View Tce, Tathra 2550 NSW
   description: Alts & Adds to existing dwelling and rebuild of fire damaged deck
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000172.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-10'
+  authority_label: bega_valley
 - council_reference: 10-2019-173-1
   address: Princes Hwy, Broadwater 2549 NSW
   description: Ecotourism Facility and tourist and visitor accommodation
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000173.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-10'
+  authority_label: bega_valley
 - council_reference: 10-2019-174-1
   address: 29 Market St, Merimbula 2548 NSW
   description: Establishment of first use - Visitor Information Centre
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000174.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-14'
+  authority_label: bega_valley
 - council_reference: 10-2019-175-1
   address: 59 Nadgee Rd, Wonboyn 2551 NSW
   description: Alterations & additons to existing dwelling & remove existing garage
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000175.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-14'
+  authority_label: bega_valley
 - council_reference: 18-2019-2015-1
   address: 33 The Dress Cir, Tura Beach 2548 NSW
   description: CDC by PCA - Dwelling & associated retaining walls
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/018.2019.00002015.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-16'
+  authority_label: bega_valley
 - council_reference: 18-2019-2021-1
   address: 126 Mirador Dr, Mirador 2548 NSW
   description: CDC by PCA - Dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/018.2019.00002021.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-06'
+  authority_label: bega_valley
 - council_reference: 18-2019-2028-1
   address: 12 Whistler Cl, Mirador 2548 NSW
   description: CDC by PCA - Erection of a single storey dwelling with attached garage
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/018.2019.00002028.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-06'
+  authority_label: bega_valley
 - council_reference: 18-2019-2031-1
   address: 2 Booroo St, Pambula Beach 2549 NSW
   description: CDC by PCA alterations & additions to existing dwelling
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/018.2019.00002031.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-29'
+  authority_label: bega_valley
 - council_reference: 18-2019-2033-1
   address: 75 Dummetts Rd, Quaama 2550 NSW
   description: CDC by PCA - Pool and barrier fence
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/018.2019.00002033.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-16'
+  authority_label: bega_valley
 - council_reference: 18-2019-2036-1
   address: 47 Bay St, Tathra 2550 NSW
   description: CDC by PCA - Dwelling alterations and additions
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/018.2019.00002036.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-09'
+  authority_label: bega_valley
 - council_reference: 18-2019-2039-1
   address: 67 Narrawa Pl, Bega 2550 NSW
   description: CDC by PCA - Erection of detached Shed
   info_url: https://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/018.2019.00002039.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-06'
+  authority_label: bega_valley
