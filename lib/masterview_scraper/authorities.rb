@@ -33,9 +33,7 @@ module MasterviewScraper
     },
     burwood: {
       url: "https://datracker.burwood.nsw.gov.au",
-      use_api: true,
-      #force_detail: true,
-      australian_proxy: true
+      use_api: true
     },
     byron: {
       url: "https://datracker.byron.nsw.gov.au/masterviewui-external",
