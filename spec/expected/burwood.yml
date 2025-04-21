@@ -3,7 +3,7 @@
   address: 87 Croydon Ave, Croydon Park 2133 NSW
   description: Amended Plans
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/010.2024.00000059.002
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-31'
   authority_label: burwood
 - council_reference: 10.2025.3.1
@@ -11,7 +11,7 @@
   description: Demolition of existing structures and construction of an 8 storey co
     living development with basement car parking.
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/010.2025.00000003.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-16'
   authority_label: burwood
 - council_reference: 10.2025.4.1
@@ -19,28 +19,28 @@
   description: Alterations and additions to an existing dwelling including a rear
     add
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/010.2025.00000004.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-20'
   authority_label: burwood
 - council_reference: 10.2025.5.1
   address: 2A Tahlee St, Burwood 2134 NSW
   description: Construction of a secondary dwelling.
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/010.2025.00000005.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-23'
   authority_label: burwood
 - council_reference: 10.2025.6.1
   address: 42 Robinson St, Croydon 2132 NSW
   description: Construction of a carport Construction of a carport
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/010.2025.00000006.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-28'
   authority_label: burwood
 - council_reference: 10.2025.7.1
   address: 9 Boyle St, Croydon Park 2133 NSW
   description: Demolition of existing garage, construction of a new garage
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/010.2025.00000007.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-05'
   authority_label: burwood
 - council_reference: 11.2025.10.1
@@ -48,21 +48,21 @@
   description: Alterations and additions to commercial Change of existing commercial
     use to Bridal shop, Internal and Shopfront alterations under CODE SEPP
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/011.2025.00000010.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-06'
   authority_label: burwood
 - council_reference: 11.2025.2.1
   address: 2-14 Elsie St, Burwood 2134 NSW
   description: Fire upgrade works to hydrant system to existing building
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/011.2025.00000002.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-15'
   authority_label: burwood
 - council_reference: 11.2025.3.1
   address: 242-248 Burwood Rd, Burwood 2134 NSW
   description: Internal shop fitout for use as food premises for "Mr Hotpoter"
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/011.2025.00000003.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-23'
   authority_label: burwood
 - council_reference: 11.2025.4.1
@@ -70,7 +70,7 @@
   description: Refurbishment/Fitout Alterations and additions to commercial Internal
     alterations to existing commercial premises (café – food and drink premises)
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/011.2025.00000004.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-29'
   authority_label: burwood
 - council_reference: 11.2025.5.1
@@ -78,14 +78,14 @@
   description: Fit out of kiosk FK3A for new take away food premises, Arctic White
     - 100 Burwood Rd Burwood
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/011.2025.00000005.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-04'
   authority_label: burwood
 - council_reference: 11.2025.6.1
   address: 37 Everton Rd, Strathfield 2135 NSW
   description: Proposed Fitout As Convenience Store From The Existing Use of Restaurant
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/011.2025.00000006.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-03'
   authority_label: burwood
 - council_reference: 11.2025.8.1
@@ -93,14 +93,14 @@
   description: Construction of a secondary dwelling (granny flat) and associated stormwater
     and landscape works
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/011.2025.00000008.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-03'
   authority_label: burwood
 - council_reference: 11.2025.9.1
   address: 1/1 Railway Pde, Burwood 2134 NSW
   description: Internal Alterations of Tenancy 1 to a Currency Exchange
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/011.2025.00000009.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-04'
   authority_label: burwood
 - council_reference: 12.2010.226.2
@@ -109,7 +109,7 @@
     of approved Reception Hall and residence. Modifications relate to updating conditions
     of consent.
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/012.2010.00000226.002
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-07'
   authority_label: burwood
 - council_reference: 12.2024.18.2
@@ -117,7 +117,7 @@
   description: Demolition of existing garage and carport, and construction of an in-ground
     swimming pool and detached shed
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/012.2024.00000018.002
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-28'
   authority_label: burwood
 - council_reference: 12.2024.21.1
@@ -129,7 +129,7 @@
     4 plant roof repairs, façade mechanical grilles, cavity flashings, glass atrium
     maintenance works.
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/012.2024.00000021.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-29'
   authority_label: burwood
 - council_reference: 12.2024.55.1
@@ -137,7 +137,7 @@
   description: The proposal seeks consent for the fitout and use of the tenancy at
     Suite 2.01 for the purpose of a recreation facility (indoor)
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/012.2024.00000055.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-28'
   authority_label: burwood
 - council_reference: 13.2021.66.2
@@ -145,7 +145,7 @@
   description: Demolition of existing dwelling and structures, construction of storey
     house with basement and studio.
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2021.00000066.002
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-31'
   authority_label: burwood
 - council_reference: 13.2021.96.3
@@ -154,7 +154,7 @@
     of a new single storey dweling at the rear to form a dual occupancy development
     on the site
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2021.00000096.003
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-14'
   authority_label: burwood
 - council_reference: 13.2022.15.2
@@ -164,7 +164,7 @@
     of a two storey dwelling with a bsement, new in - ground swimming pool and new
     brick front fences
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2022.00000015.002
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-07'
   authority_label: burwood
 - council_reference: 13.2023.12.1
@@ -172,7 +172,7 @@
   description: Alterations to a CDC approval. Alterations and additions for a proposed
     single dwelling and associated landscaping.
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2023.00000012.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-04'
   authority_label: burwood
 - council_reference: 13.2023.180.1
@@ -180,14 +180,14 @@
   description: Demolition of existing structures & Constructionof a two-storey attached
     dual occupancy
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2023.00000180.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-10'
   authority_label: burwood
 - council_reference: 13.2023.26.1
   address: 80 Coronation Pde, Enfield 2136 NSW
   description: Proposed part single, part 2 storey dwelling
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2023.00000026.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-04'
   authority_label: burwood
 - council_reference: 13.2023.84.1
@@ -195,14 +195,14 @@
   description: Demolition of part of existing dwelling. Alternations and two-storey
     additions to existing dwelling.
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2023.00000084.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-15'
   authority_label: burwood
 - council_reference: 13.2024.141.1
   address: 27 Belmore St, Burwood 2134 NSW
   description: Conversion/Change of Use Shop - Fitout restaurant
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2024.00000141.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-31'
   authority_label: burwood
 - council_reference: 13.2024.153.1
@@ -210,14 +210,14 @@
   description: Alterations to Suite 502-503 and use as an office Commercial Development
     Office Premise
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2024.00000153.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-06'
   authority_label: burwood
 - council_reference: 13.2024.181.1
   address: 35 Wynnstay Ave, Enfield 2136 NSW
   description: Swimming Pool - Inground
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2024.00000181.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-07'
   authority_label: burwood
 - council_reference: 13.2024.189.1
@@ -226,7 +226,7 @@
     Internal fitout of an existing retail premises for "7 Eleven " (Excluding base
     build works & services)
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2024.00000189.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-21'
   authority_label: burwood
 - council_reference: 13.2024.202.1
@@ -234,7 +234,7 @@
   description: Change of use and first floor internal alternation for Chinese Massage
     & Acupuncture premises
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2024.00000202.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-01-31'
   authority_label: burwood
 - council_reference: 13.2024.9.1
@@ -242,6 +242,6 @@
   description: Construction of new single car carport structure. Construction of a
     carport.
   info_url: https://datracker.burwood.nsw.gov.au/Application/ApplicationDetails/013.2024.00000009.001
-  date_scraped: '2025-02-10'
+  date_scraped: '2025-04-15'
   date_received: '2025-02-06'
   authority_label: burwood
