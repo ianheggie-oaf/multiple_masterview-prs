@@ -11,7 +11,7 @@ gem "sqlite3", "~> 1.6.3"
 # Unable to list in gemspec - Include it in your projects Gemfile when using this gem
 gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git",
                    branch: "morph_defaults"
-gem "scraper_utils", "~> 0.7.2"
+gem "scraper_utils", "~> 0.8.0"
 
 # For development and running tests
 gem "mini_magick"
