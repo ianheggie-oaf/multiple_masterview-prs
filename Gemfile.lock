@@ -99,7 +99,7 @@ GEM
     rubyntlm (0.6.5)
       base64
     rubyzip (2.4.1)
-    scraper_utils (0.8.1)
+    scraper_utils (0.8.2)
       mechanize
       nokogiri
       sqlite3
@@ -151,7 +151,7 @@ DEPENDENCIES
   rake (~> 13.0)
   rspec (~> 3.12)
   rubocop (~> 1.73)
-  scraper_utils (~> 0.8.0)
+  scraper_utils (~> 0.8.2)
   scraperwiki!
   simplecov (~> 0.22.0)
   simplecov-console
