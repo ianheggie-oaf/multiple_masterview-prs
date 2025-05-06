@@ -25,6 +25,8 @@ module MasterviewScraper
       end
 
       def self.form(page)
+        return nil unless page.respond_to?(:forms)
+
         if page.forms.count == 1
           page.forms[0]
         else
