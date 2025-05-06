@@ -16,7 +16,7 @@ module MasterviewScraper
   def self.scrape(authority)
     raise "Unexpected authority: #{authority}" unless AUTHORITIES.key?(authority)
 
-    scrape_period(AUTHORITIES[authority]) do |record|
+    scrape_period(**AUTHORITIES[authority]) do |record|
       yield record
     end
   end
