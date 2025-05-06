@@ -51,6 +51,22 @@ module MasterviewScraper
         "json" => json.to_json
       )
 
+      # Just because it's a JSON API doesn't mean it can't be interrupted with HTML Click Me! :(
+      if Pages::TermsAndConditions.on_page?(page)
+        begin
+          Pages::TermsAndConditions.click_agree(page)
+        rescue Mechanize::ResponseCodeError => e
+          puts "Ignoring error: #{e} on terms and condition click - its hopefully set the required cookies"
+        end
+        # Clicking doesn't return you to the original page so we need to ask again
+        page = agent.post(
+          url + path,
+          "start" => offset,
+          "length" => limit,
+          "json" => json.to_json
+        )
+      end
+
       result = JSON.parse(page.body)
 
       # "data" is only populated sensibly if there are records. So check this first
@@ -75,6 +91,9 @@ module MasterviewScraper
 
       # Return the total number of records (not just what's in this page)
       result["recordsTotal"]
+    rescue JSON::ParserError => e
+      puts "ERROR: #{e} parsing:\n#{page.body}\n" if defined?(page) && ScraperUtils::DebugUtils.verbose?
+      raise
     end
   end
 end
