@@ -2,18 +2,25 @@
 
 source "https://rubygems.org"
 
-ruby "2.5.1"
+ruby "~> 3.2.2"
 
-gem "mechanize"
+gem "mechanize", "~> 2.8.5"
+gem "nokogiri", "~> 1.15.0"
+gem "sqlite3", "~> 1.6.3"
+
+# Unable to list in gemspec - Include it in your projects Gemfile when using this gem
 gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git",
                    branch: "morph_defaults"
 
 # For development and running tests
 gem "mini_magick"
-gem "rake", "~> 10.0"
-gem "rspec", "~> 3.0"
-gem "rubocop"
+gem "rake", "~> 13.0"
+gem "rspec", "~> 3.12"
+gem "rubocop", "~> 1.73"
+gem "simplecov", "~> 0.22.0"
+gem "simplecov-console"
 gem "timecop"
 gem "vcr"
 gem "watir"
-gem "webmock"
+gem "webmock", "~> 3.19.0"
+
