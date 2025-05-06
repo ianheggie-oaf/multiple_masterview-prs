@@ -99,7 +99,7 @@ GEM
     rubyntlm (0.6.5)
       base64
     rubyzip (2.4.1)
-    scraper_utils (0.8.0)
+    scraper_utils (0.8.1)
       mechanize
       nokogiri
       sqlite3
