@@ -1,589 +1,392 @@
 ---
-- council_reference: 10.2014.349.2
-  address: 66 Newbridge St, South Lismore 2480 NSW
-  description: Sec4.55(1A) modification to approved consent
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2014.00000349.002
+- council_reference: 10.2024.112.1
+  address: 28 Spurfield Rd, Mcleans Ridges NSW 2480
+  description: DA24/112 - 28 Spurfield Road McLeans Ridges - Dwelling Dual Occ
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2024.00000112.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-07'
+  date_received: '2025-04-07'
   authority_label: lismore
-- council_reference: 10.2018.124.1
-  address: 24 Alternative Way, Nimbin 2480 NSW
-  description: DA18/124 - 24 Alternative Way - Detached dual occ(CC No.2019/173.1)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2018.00000124.001
+- council_reference: 10.2024.189.1
+  address: 111 Phyllis St, South Lismore NSW 2480
+  description: CC - 111 & 113 Phyllis and 120 Casino Street - STAGE 1 DA24/189
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2024.00000189.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-08'
+  date_received: '2025-04-03'
   authority_label: lismore
-- council_reference: 10.2018.157.1
-  address: 27 Pineapple Rd, Goonellabah 2480 NSW
-  description: DA18/157 - 27 Pineapple Rd - Flexible learning centre(cc nO.12619/01)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2018.00000157.001
+- council_reference: 10.2024.204.2
+  address: 589 Ballina Rd, Goonellabah NSW 2480
+  description: CC - 589B Ballina Road - Stage 2 Resited dwelling and alterations
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2024.00000204.002
   date_scraped: '2025-04-15'
-  date_received: '2019-04-17'
+  date_received: '2025-04-08'
   authority_label: lismore
-- council_reference: 10.2019.101.1
-  address: 4 Schurr Dr, Goonellabah 2480 NSW
-  description: DA19/101 - 4 Schurr Drive - Dwelling retaining walls(CC No. 190115/01)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000101.001
+- council_reference: 10.2024.207.1
+  address: 55 Federation Dr, Eltham NSW 2480
+  description: CC - 55 Federation Drive Eltham - Dwelling alterations and additions
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2024.00000207.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-17'
+  date_received: '2025-03-28'
   authority_label: lismore
-- council_reference: 10.2019.119.1
-  address: 31 Ewing St, Lismore 2480 NSW
-  description: DA19/119 - 31 Ewing Street - Alterations and additions
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000119.001
+- council_reference: 10.2024.294.1
+  address: 4 Stewarts Way, Nimbin NSW 2480
+  description: CC - 4 Stewarts Way, Nimbin - Relocated dwelling to create detached
+    du
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2024.00000294.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-15'
+  date_received: '2025-04-09'
   authority_label: lismore
-- council_reference: 10.2019.122.1
-  address: 31 City View Dr, East Lismore 2480 NSW
-  description: DA19/122 - 31 City View Drive - Carport with BLV
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000122.001
+- council_reference: 10.2025.2.1
+  address: 37 Wyrallah Rd, Girards Hill NSW 2480
+  description: CC - 37 Wyrallah Road Girards Hill - Raise dwelling
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2025.00000002.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-16'
+  date_received: '2025-03-25'
   authority_label: lismore
-- council_reference: 10.2019.123.1
-  address: 20 Renwick St, Lismore Heights 2480 NSW
-  description: DA19/123 - 20 Renwick St - Dwelling alterations, additions and pool
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000123.001
+- council_reference: 10.2025.22.1
+  address: 37 Greenhills Dr, Goonellabah NSW 2480
+  description: CC - 37 Greenhills Drive Goonellabah - Dwelling addition
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2025.00000022.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-16'
+  date_received: '2025-04-03'
   authority_label: lismore
-- council_reference: 10.2019.126.1
-  address: 18 Wade St, East Lismore 2480 NSW
-  description: DA19/126 - 18 Wade Street - Additions and alterations
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000126.001
+- council_reference: 10.2025.32.1
+  address: 109 Invercauld Rd, Goonellabah NSW 2480
+  description: Carport with a building line variation to 1.356m to Invercauld Road
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2025.00000032.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-17'
+  date_received: '2025-03-19'
   authority_label: lismore
-- council_reference: 10.2019.127.1
-  address: 18 Satinwood Dr, Mcleans Ridges 2480 NSW
-  description: DA19/127 - 18 Satinwood Drive - Dwelling additons and alterations
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000127.001
+- council_reference: 10.2025.39.1
+  address: 374 Caniaba Rd, Caniaba NSW 2480
+  description: CC - 374 Caniaba Road, Caniaba - Awning
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2025.00000039.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-18'
+  date_received: '2025-04-11'
   authority_label: lismore
-- council_reference: 10.2019.128.1
-  address: 52 Bridge St, Wyrallah 2480 NSW
-  description: DA19/128 - 52 Bridge Street - Dwelling
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000128.001
+- council_reference: 13.2022.88.1
+  address: 7 Atlas St, East Lismore NSW 2480
+  description: SC - 7 Atlas Street, East Lismore - Dwelling to create dual occ
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/013.2022.00000088.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-18'
+  date_received: '2025-03-24'
   authority_label: lismore
-- council_reference: 10.2019.129.1
-  address: 127 Terania St, North Lismore 2480 NSW
-  description: DA19/129 - 127 Terania St - Front fence (1.8m spear top panel fence)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000129.001
+- council_reference: 13.2023.179.2
+  address: 730 Dunoon Rd, Tullera NSW 2480
+  description: SC - 730 & 732 Dunoon Road, Tullera - Subdivision
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/013.2023.00000179.002
   date_scraped: '2025-04-15'
-  date_received: '2019-04-23'
+  date_received: '2025-03-24'
   authority_label: lismore
-- council_reference: 10.2019.13.1
-  address: 17 Byrne Rd, Rosebank 2480 NSW
-  description: DA19/13 - 17 Byrne Road - Dwelling and shed(CC No. 190104/01)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000013.001
+- council_reference: 13.2024.240.1
+  address: 23 Alternative Way, Nimbin NSW 2480
+  description: DA24/240 - 23 Alternative Way, Nimbin - Subdivision Certificate
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/013.2024.00000240.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-26'
+  date_received: '2025-03-17'
   authority_label: lismore
-- council_reference: 10.2019.131.1
-  address: 41 Deloraine Rd, Lismore Heights 2480 NSW
-  description: DA19/131 - 41 Deloraine Road - Extension to retaining wall and blv
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000131.001
+- council_reference: 13.2024.298.1
+  address: 20 Phillip St, Goonellabah NSW 2480
+  description: SC - 3 Hayes Street & 20 Phillip Street, Goonellabah - Subdivisi
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/013.2024.00000298.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-24'
+  date_received: '2025-03-28'
   authority_label: lismore
-- council_reference: 10.2019.132.1
-  address: 392 Richmond Hill Rd, Richmond Hill 2480 NSW
-  description: DA19/132 - 392 Richmond Hill Road - Shed
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000132.001
+- council_reference: 13.2024.99.1
+  address: 11 Airforce Rd, East Lismore NSW 2480
+  description: SC - 11, 13, 15 & 19 Airforce Road East Lismore - Subdivision
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/013.2024.00000099.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-24'
+  date_received: '2025-04-07'
   authority_label: lismore
-- council_reference: 10.2019.135.1
-  address: 5 Vintage Dr, Chilcotts Grass 2480 NSW
-  description: DA19/135 - 5 Vintage Drive - Extension to existing garage
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000135.001
+- council_reference: 5.2020.385.2
+  address: 2 Roseview Rd, Mcleans Ridges NSW 2480
+  description: DA20/385-2 - 2 Roseview Road, McLeans Ridges - S4.55(1A)
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2020.00000385.002
   date_scraped: '2025-04-15'
-  date_received: '2019-04-26'
+  date_received: '2025-03-24'
   authority_label: lismore
-- council_reference: 10.2019.136.1
-  address: 37 Lomandra Ave, Caniaba 2480 NSW
-  description: 37 Lomandra Avenue Caniaba - Dwelling(CC No.190192/01)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000136.001
+- council_reference: 5.2022.331.3
+  address: 87 Pineapple Rd, Goonellabah NSW 2480
+  description: DA22/331-3 - 87 Pineapple Road, Goonellabah - S4.55(1A)
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2022.00000331.003
   date_scraped: '2025-04-15'
-  date_received: '2019-05-08'
+  date_received: '2025-03-24'
   authority_label: lismore
-- council_reference: 10.2019.139.1
-  address: 33 City View Dr, East Lismore 2480 NSW
-  description: DA19/139 - 33 City Drive - Covered timber deck
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000139.001
+- council_reference: 5.2023.291.2
+  address: 324 Gordon Rd, Koonorigan NSW 2480
+  description: DA23/291-2 - 324 Koonorigan Road, Koonorigan - S4.55(1A)
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2023.00000291.002
   date_scraped: '2025-04-15'
-  date_received: '2019-04-29'
+  date_received: '2025-04-03'
   authority_label: lismore
-- council_reference: 10.2019.141.1
-  address: 1/7 Pineview Dr, Goonellabah 2480 NSW
-  description: DA19/141 - 1/7 Pineview Drive - Carport with a BLV to 4m
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000141.001
+- council_reference: 5.2024.117.2
+  address: 591 Ballina Rd, Goonellabah NSW 2480
+  description: DA24/117-2 - 591 Ballina Road, Goonellabah - S4.55(1)
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2024.00000117.002
   date_scraped: '2025-04-15'
-  date_received: '2019-05-01'
+  date_received: '2025-03-27'
   authority_label: lismore
-- council_reference: 10.2019.143.1
-  address: 28 Elton St, Girards Hill 2480 NSW
-  description: DA19/143 - 28 Elton Street - Carport
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000143.001
+- council_reference: 5.2024.288.2
+  address: 300 Dunoon Rd, North Lismore NSW 2480
+  description: DA24/288-2 - 300 Dunoon Road, North Lismore - S4.55(1A)
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2024.00000288.002
   date_scraped: '2025-04-15'
-  date_received: '2019-05-01'
+  date_received: '2025-03-19'
   authority_label: lismore
-- council_reference: 10.2019.144.1
-  address: 50 Dunromin Dr, Modanville 2480 NSW
-  description: DA19/144 - 50 Dunromin Drive - Shed
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000144.001
+- council_reference: 5.2024.326.2
+  address: 16 Cochran Pl, Lismore NSW 2480
+  description: DA24/326-2 - 16 Cochran Place Lismore - S4.55(1)
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2024.00000326.002
   date_scraped: '2025-04-15'
-  date_received: '2019-05-03'
+  date_received: '2025-04-09'
   authority_label: lismore
-- council_reference: 10.2019.145.1
-  address: 25 Lomandra Ave, Caniaba 2480 NSW
-  description: Shed
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000145.001
+- council_reference: 5.2025.30.1
+  address: 91 Magellan St, Lismore NSW 2480
+  description: DA25/30 - 91 Magellan Street, Lismore - Change of use of part of a
+    ret
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000030.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-06'
+  date_received: '2025-03-19'
   authority_label: lismore
-- council_reference: 10.2019.147.1
-  address: 284 Cameron Rd, Mcleans Ridges 2480 NSW
-  description: DA19/147 - 284 Cameron Road - Inground Swimming Pool
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000147.001
+- council_reference: 5.2025.38.1
+  address: 133 Keen St, Lismore NSW 2480
+  description: DA25/38 - 133 135 Keen Street Lismore - Cafe
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000038.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-07'
+  date_received: '2025-04-03'
   authority_label: lismore
-- council_reference: 10.2019.148.1
-  address: 137 Leeson Rd, Whian Whian 2480 NSW
-  description: DA19/148 - 137 Leeson Road - Farm shed
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000148.001
+- council_reference: 5.2025.39.1
+  address: 374 Caniaba Rd, Caniaba NSW 2480
+  description: DA25/39 - 374 Caniaba Road Caniaba - Awning
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000039.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-07'
+  date_received: '2025-03-17'
   authority_label: lismore
-- council_reference: 10.2019.150.1
-  address: 894 Nimbin Rd, Goolmangar 2480 NSW
-  description: DA19/150 - Carport and Dwelling additions
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000150.001
+- council_reference: 5.2025.40.1
+  address: 1014 Kyogle Rd, Fernside NSW 2480
+  description: DA25/40 - 1014 Kyogle Rd Fernside - Farm Production Brewery, Cafe and
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000040.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-08'
+  date_received: '2025-03-24'
   authority_label: lismore
-- council_reference: 10.2019.153.1
-  address: 23 Emily St, Wyrallah 2480 NSW
-  description: DA19/153- 23 Emily St, Wyrallah - Garage
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000153.001
+- council_reference: 5.2025.42.1
+  address: 91 Woodlark St, Lismore NSW 2480
+  description: DA25/42 - 73 Keen Street, Lismore - Change of use of part of a buildin
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000042.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-10'
+  date_received: '2025-03-26'
   authority_label: lismore
-- council_reference: 10.2019.154.1
-  address: 1281 Jiggi Rd, Jiggi 2480 NSW
-  description: DA19/154 - 1281 Jiggi Road - Inground swimming pool
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000154.001
+- council_reference: 5.2025.43.1
+  address: 337A Nimbin Rd, Booerie Creek NSW 2480
+  description: DA25/43 - 337A & 337B Nimbin Road, Booerie Creek - Subdivision
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000043.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-10'
+  date_received: '2025-03-17'
   authority_label: lismore
-- council_reference: 10.2019.156.1
-  address: 5 Napier St, Goonellabah 2480 NSW
-  description: DA19/156 - 5 Napier Street - Carport (detached)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000156.001
+- council_reference: 5.2025.44.1
+  address: 262 Keerrong Rd, Blakebrook NSW 2480
+  description: DA25/44 - 262 Keerrong Road, Keerrong - Re-sited dwelling det dual
+    occ
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000044.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-10'
+  date_received: '2025-03-17'
   authority_label: lismore
-- council_reference: 10.2019.157.1
-  address: 134 Crofton Rd, Nimbin 2480 NSW
-  description: DA19/157 - 134 Crofton Road, Nimbin - Detached dual occ and expanded
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000157.001
+- council_reference: 5.2025.48.1
+  address: 29 William Blair Ave, Goonellabah NSW 2480
+  description: DA25/48 - 29 William Blair Avenue, Goonellabah - Dwelling addition
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000048.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-13'
+  date_received: '2025-03-19'
   authority_label: lismore
-- council_reference: 10.2019.161.1
-  address: 16 Julieanne Pl, Bexhill 2480 NSW
-  description: DA19/151- Dwelling and Garage with Attached Carport
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000161.001
+- council_reference: 5.2025.50.1
+  address: 51 O'Flynn St, Lismore Heights NSW 2480
+  description: DA25/50 - 51 O'Flynn Street, Lismore Heights - Carport
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000050.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-14'
+  date_received: '2025-03-24'
   authority_label: lismore
-- council_reference: 10.2019.85.1
-  address: 47 Palmers Rd, Mcleans Ridges 2480 NSW
-  description: DA19/85 - 47 Palmers Road - Alterations and additions & BLV
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/010.2019.00000085.001
+- council_reference: 5.2025.51.1
+  address: 38 Sawyers Ave, Goonellabah NSW 2480
+  description: DA25/51 - 38 Sawyers Avenue, Goonellabah - Retaining wall
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000051.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-13'
+  date_received: '2025-03-20'
   authority_label: lismore
-- council_reference: 13.2005.894.1
-  address: 52 Gundurimba Rd, Monaltrie 2480 NSW
-  description: DA05/894 - 52 and 72 Gundurimba Road - Subdivision Certificate
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/013.2005.00000894.001
+- council_reference: 5.2025.52.1
+  address: 18 Deloraine Rd, Lismore Heights NSW 2480
+  description: DA25/52 - 18 Deloraine Road, Lismore Heights - Pool, workshop with
+    alf
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000052.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-07'
+  date_received: '2025-03-27'
   authority_label: lismore
-- council_reference: 13.2014.327.1
-  address: 79 Esmonde St, Girards Hill 2480 NSW
-  description: DA14/327 - 79 Esmonde Street - Subdivision (to create 2 lots) SEE MEMO
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/013.2014.00000327.001
+- council_reference: 5.2025.53.1
+  address: 14 Roseview Rd, Mcleans Ridges NSW 2480
+  description: DA25/53 - 14 Roseview Road, McLeans Ridges - Change of use dual occ
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000053.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-08'
+  date_received: '2025-03-24'
   authority_label: lismore
-- council_reference: 13.2018.396.1
-  address: 39 Phillip St, Goonellabah 2480 NSW
-  description: DA18/396 - 39 Phillip Street - Subdivision
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/013.2018.00000396.001
+- council_reference: 5.2025.54.1
+  address: 15 Hillside Dr, Nimbin NSW 2480
+  description: DA25/54 - 15 Hillside Drive, Nimbin - Re-sited dwelling with alts &
+    ad
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000054.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-07'
+  date_received: '2025-03-20'
   authority_label: lismore
-- council_reference: 13.2019.160.1
-  address: 155 Cross Rd, Numulgi 2480 NSW
-  description: Subdivision Cert NO DA
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/013.2019.00000160.001
+- council_reference: 5.2025.56.1
+  address: 304 Dunoon Rd, North Lismore NSW 2480
+  description: DA25/56 - 304 Dunoon Road, North Lismore - Dwelling addition
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000056.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-14'
+  date_received: '2025-03-25'
   authority_label: lismore
-- council_reference: 5.1988.330.3
-  address: 110 Chelmsford Rd, Rock Valley 2480 NSW
-  description: Section 4.55(1A) modification to amend the wording on the consent
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.1988.00000330.003
+- council_reference: 5.2025.57.1
+  address: 379A Richmond Hill Rd, Richmond Hill NSW 2480
+  description: DA25/57 - 379A & 407 Richmond Hill Road, Richmond Hill - Subdivision
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000057.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-09'
+  date_received: '2025-04-03'
   authority_label: lismore
-- council_reference: 5.2006.672.2
-  address: 135 Three Chain Rd, South Lismore 2480 NSW
-  description: Section 4.55(2) to modify approved extractive industry
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2006.00000672.002
+- council_reference: 5.2025.58.1
+  address: 26 Spurfield Rd, Mcleans Ridges NSW 2480
+  description: DA25/58 - 26 Spurfield Road, McLeans Ridges - Detached dual occ
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000058.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-29'
+  date_received: '2025-03-26'
   authority_label: lismore
-- council_reference: 5.2018.147.2
-  address: 24 John O'neill Cct, Goonellabah 2480 NSW
-  description: S4.55(1A) modification to condition 11 regarding location of fence
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2018.00000147.002
+- council_reference: 5.2025.59.1
+  address: 3 Pinecrest Dr, Goonellabah NSW 2480
+  description: DA25/59 - 3 Pinecrest Drive, Goonellabah - Extension to shed & new
+    she
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000059.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-03'
+  date_received: '2025-04-01'
   authority_label: lismore
-- council_reference: 5.2018.301.2
-  address: 1 Little Dawson St, Lismore 2480 NSW
-  description: S4.55(1A) application to modify consent
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2018.00000301.002
+- council_reference: 5.2025.60.1
+  address: 86 Casino St, South Lismore NSW 2480
+  description: DA25/60 - 86 Casino Street -Covered first floor deck
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000060.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-08'
+  date_received: '2025-04-09'
   authority_label: lismore
-- council_reference: 5.2018.338.2
-  address: 46 Tulsi Lane, Nimbin 2480 NSW
-  description: S4.55 Modification to internal layout, windows, deck and tanks
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2018.00000338.002
+- council_reference: 5.2025.61.1
+  address: 174 Pelican Creek Rd, South Gundurimba NSW 2480
+  description: DA25/61 - 174 Pelican Creek Road, South Gundurimba - Shed
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000061.001
   date_scraped: '2025-04-15'
-  date_received: '2019-05-07'
+  date_received: '2025-04-03'
   authority_label: lismore
-- council_reference: 5.2019.119.1
-  address: 31 Ewing St, Lismore 2480 NSW
-  description: DA19/119 - 31 Ewing Street - Alterations and additions
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000119.001
+- council_reference: 5.2025.62.1
+  address: 131 Laurel Ave, Lismore NSW 2480
+  description: DA25/62 - 131 Laurel Avenue, Lismore - Raise existing dwelling
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000062.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-15'
+  date_received: '2025-04-10'
   authority_label: lismore
-- council_reference: 5.2019.120.1
-  address: 74 James St, Dunoon 2480 NSW
-  description: DA19/120 - 74 James Street - Dwelling alterations, additions and pool
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000120.001
+- council_reference: 5.2025.63.1
+  address: 16 Sapphire Ct, Lismore Heights NSW 2480
+  description: DA25/63 - 16 Sapphire Court, Lismore Heights - Carport with blv
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000063.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-15'
+  date_received: '2025-04-11'
   authority_label: lismore
-- council_reference: 5.2019.121.1
-  address: 52 O'flynn St, Lismore Heights 2480 NSW
-  description: DA19/121 - 52 O'Flynn Street - Secondary Dwelling
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000121.001
+- council_reference: 5.2025.64.1
+  address: 1545 Bangalow Rd, Clunes NSW 2480
+  description: DA25/64 - 1545 Bangalow Road, Clunes - Use of relocated dwelling
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000064.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-15'
+  date_received: '2025-04-09'
   authority_label: lismore
-- council_reference: 5.2019.122.1
-  address: 31 City View Dr, East Lismore 2480 NSW
-  description: DA19/122 - 31 City View Drive - Carport with BLV
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000122.001
+- council_reference: 5.2025.65.1
+  address: 43 Funnell Dr, Modanville NSW 2480
+  description: DA25/65 - 43 Funnell Drive, Modanville - Relocated dwelling dual occ
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000065.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-16'
+  date_received: '2025-04-10'
   authority_label: lismore
-- council_reference: 5.2019.123.1
-  address: 20 Renwick St, Lismore Heights 2480 NSW
-  description: DA19/123 - 20 Renwick St - Dwelling alterations, additions and pool
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000123.001
+- council_reference: 5.2025.67.1
+  address: 910 Kyogle Rd, Fernside NSW 2480
+  description: DA25/67 - 910 & 940 Kyogle Road, Fernside - Subdivision (boundary alte
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000067.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-16'
+  date_received: '2025-04-15'
   authority_label: lismore
-- council_reference: 5.2019.124.1
-  address: 1 Lychee Dr, Rosebank 2480 NSW
-  description: DA19/124 - 1 Lychee Drive - Dwelling
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000124.001
+- council_reference: 5.2025.68.1
+  address: 325 Bangalow Rd, Howards Grass NSW 2480
+  description: DA25/68 - 325 Bangalow Road, Howards Grass - Subdivision
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000068.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-16'
+  date_received: '2025-04-15'
   authority_label: lismore
-- council_reference: 5.2019.125.1
-  address: 20 Henson Rd, Wyrallah 2480 NSW
-  description: DA19/125 - 20 Henson Road - Community Title Subdivision
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000125.001
+- council_reference: 5.2025.70.1
+  address: 144 Fredericks Rd, Caniaba NSW 2480
+  description: DA25/70 - 144 Fredericks Rd Caniaba - Dwelling adds, pool and gazebo
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000070.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-17'
+  date_received: '2025-04-14'
   authority_label: lismore
-- council_reference: 5.2019.126.1
-  address: 18 Wade St, East Lismore 2480 NSW
-  description: DA19/126 - 18 Wade Street - Additions and alterations
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000126.001
+- council_reference: 5.2025.71.1
+  address: 7 Georgi Pl, Nimbin NSW 2480
+  description: DA25/71 - 7 Georgi Place Nimbin - Dwelling, shed and carport
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2025.00000071.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-17'
+  date_received: '2025-04-15'
   authority_label: lismore
-- council_reference: 5.2019.127.1
-  address: 18 Satinwood Dr, Mcleans Ridges 2480 NSW
-  description: DA19/127 - 18 Satinwood Drive - Dwelling additons and alterations
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000127.001
+- council_reference: 8.2025.14.1
+  address: 7 Holland St, Goonellabah NSW 2480
+  description: CDA25/14 - 7 Holland Street Goonellabah - Alterations
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/008.2025.00000014.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-18'
+  date_received: '2025-03-18'
   authority_label: lismore
-- council_reference: 5.2019.128.1
-  address: 52 Bridge St, Wyrallah 2480 NSW
-  description: DA19/128 - 52 Bridge Street - Dwelling
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000128.001
+- council_reference: 8.2025.16.1
+  address: 2 Cochran St, Lismore NSW 2480
+  description: level bathroom
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/008.2025.00000016.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-18'
+  date_received: '2025-03-31'
   authority_label: lismore
-- council_reference: 5.2019.129.1
-  address: 127 Terania St, North Lismore 2480 NSW
-  description: DA19/129 - 127 Terania St - Front fence (1.8m spear top panel fence)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000129.001
+- council_reference: 8.2025.17.1
+  address: 1 Bounty St, Lismore NSW 2480
+  description: rectify extensive flood damage
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/008.2025.00000017.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-23'
+  date_received: '2025-04-02'
   authority_label: lismore
-- council_reference: 5.2019.130.1
-  address: 24 Earls Ct, Goonellabah 2480 NSW
-  description: DA19/130 - 24 Earls Court - Dwelling and retaining walls
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000130.001
+- council_reference: 8.2025.20.1
+  address: 56 Mahogany Pde, Goonellabah NSW 2480
+  description: Complying Development
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/008.2025.00000020.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-23'
+  date_received: '2025-03-24'
   authority_label: lismore
-- council_reference: 5.2019.131.1
-  address: 41 Deloraine Rd, Lismore Heights 2480 NSW
-  description: DA19/131 - 41 Deloraine Road - Extension to retaining wall and blv
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000131.001
+- council_reference: 8.2025.21.1
+  address: 14 Hidden Valley Cct, Chilcotts Grass NSW 2480
+  description: Complying Development
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/008.2025.00000021.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-23'
+  date_received: '2025-03-31'
   authority_label: lismore
-- council_reference: 5.2019.132.1
-  address: 392 Richmond Hill Rd, Richmond Hill 2480 NSW
-  description: DA19/132 - 392 Richmond Hill Road - Shed
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000132.001
+- council_reference: 8.2025.22.1
+  address: 14 Hidden Valley Cct, Chilcotts Grass NSW 2480
+  description: Complying Development
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/008.2025.00000022.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-24'
+  date_received: '2025-03-26'
   authority_label: lismore
-- council_reference: 5.2019.133.1
-  address: 18 Grace Rd, Bexhill 2480 NSW
-  description: DA19/133 - 18 Grace Road - Secondary dwelling and retaining walls
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000133.001
+- council_reference: 8.2025.24.1
+  address: 49 Hidden Valley Cct, Chilcotts Grass NSW 2480
+  description: Complying Development
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/008.2025.00000024.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-24'
+  date_received: '2025-04-08'
   authority_label: lismore
-- council_reference: 5.2019.134.1
-  address: 11 Wyrallah Rd, Girards Hill 2480 NSW
-  description: DA19/134 - 11 Wyrallah Road - Removal of a tree in a Heritage area
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000134.001
+- council_reference: 8.2025.25.1
+  address: 27 Hilltop Cl, Goonellabah NSW 2480
+  description: Complying Development
+  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/008.2025.00000025.001
   date_scraped: '2025-04-15'
-  date_received: '2019-04-24'
-  authority_label: lismore
-- council_reference: 5.2019.135.1
-  address: 5 Vintage Dr, Chilcotts Grass 2480 NSW
-  description: DA19/135 - 5 Vintage Drive - Dwelling addition (garage extension)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000135.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-04-26'
-  authority_label: lismore
-- council_reference: 5.2019.136.1
-  address: 37 Lomandra Ave, Caniaba 2480 NSW
-  description: 37 Lomandra Avenue Caniaba - Dwelling
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000136.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-04-26'
-  authority_label: lismore
-- council_reference: 5.2019.137.1
-  address: 97 Pineapple Rd, Goonellabah 2480 NSW
-  description: DA19/137 - 97 Pineapple Rd - Subdivision to create one additional lot
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000137.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-04-26'
-  authority_label: lismore
-- council_reference: 5.2019.138.1
-  address: 3 Ewandale Cl, Clunes 2480 NSW
-  description: DA19/138 - 3 Ewandale Close - Inground swimming pool
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000138.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-04-26'
-  authority_label: lismore
-- council_reference: 5.2019.139.1
-  address: 33 City View Dr, East Lismore 2480 NSW
-  description: DA19/139 - 33 City Drive - Covered timber deck
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000139.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-04-29'
-  authority_label: lismore
-- council_reference: 5.2019.140.1
-  address: 57 Waratah Way, Goonellabah 2480 NSW
-  description: DA19/140 - 57 Waratah Way - Dwelling (two storey)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000140.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-01'
-  authority_label: lismore
-- council_reference: 5.2019.141.1
-  address: 1/7 Pineview Dr, Goonellabah 2480 NSW
-  description: DA19/141 - 1/7 Pineview Drive - Carport with a BLV to 4m
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000141.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-01'
-  authority_label: lismore
-- council_reference: 5.2019.142.1
-  address: 14/126 Molesworth St, Lismore 2480 NSW
-  description: DA19/142 - 14/126 Molesworth Street - Change of use to a beauty salon
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000142.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-01'
-  authority_label: lismore
-- council_reference: 5.2019.143.1
-  address: 28 Elton St, Girards Hill 2480 NSW
-  description: DA19/143 - 28 Elton Street - Carport and fence with BLV
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000143.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-01'
-  authority_label: lismore
-- council_reference: 5.2019.144.1
-  address: 50 Dunromin Dr, Modanville 2480 NSW
-  description: DA19/144 - 50 Dunromin Drive - Shed
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000144.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-03'
-  authority_label: lismore
-- council_reference: 5.2019.145.1
-  address: 25 Lomandra Ave, Caniaba 2480 NSW
-  description: Shed
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000145.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-06'
-  authority_label: lismore
-- council_reference: 5.2019.146.1
-  address: 285 Rous Rd, Chilcotts Grass 2480 NSW
-  description: DA19/146 - 285 Rous Rd - Detached Dual Occupancy and removal of 4 tree
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000146.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-06'
-  authority_label: lismore
-- council_reference: 5.2019.147.1
-  address: 284 Cameron Rd, Mcleans Ridges 2480 NSW
-  description: DA19/147 - 284 Cameron Road - Inground Swimming Pool
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000147.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-07'
-  authority_label: lismore
-- council_reference: 5.2019.148.1
-  address: 137 Leeson Rd, Whian Whian 2480 NSW
-  description: DA19/148 - 137 Leeson Road - Farm shed
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000148.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-07'
-  authority_label: lismore
-- council_reference: 5.2019.149.1
-  address: 76 Cullen St, Nimbin 2480 NSW
-  description: DA19/149 - 76 Cullen Street - Change of use
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000149.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-08'
-  authority_label: lismore
-- council_reference: 5.2019.150.1
-  address: 894 Nimbin Rd, Goolmangar 2480 NSW
-  description: DA19/150 - Carport and Dwelling additions
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000150.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-08'
-  authority_label: lismore
-- council_reference: 5.2019.151.1
-  address: 106 Union St, South Lismore 2480 NSW
-  description: DA19/151 -Storage Premises
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000151.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-10'
-  authority_label: lismore
-- council_reference: 5.2019.152.1
-  address: 101 James St, Dunoon 2480 NSW
-  description: DA19/152 - 101 & 103 James Street - Strata Subdivision, create 2 lots
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000152.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-10'
-  authority_label: lismore
-- council_reference: 5.2019.153.1
-  address: 23 Emily St, Wyrallah 2480 NSW
-  description: DA19/153- 23 Emily St Wyrallah - Garage
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000153.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-10'
-  authority_label: lismore
-- council_reference: 5.2019.154.1
-  address: 1281 Jiggi Rd, Jiggi 2480 NSW
-  description: DA19/154 - 1281 Jiggi Road - Inground swimming pool
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000154.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-10'
-  authority_label: lismore
-- council_reference: 5.2019.155.1
-  address: 657 Corndale Rd, Corndale 2480 NSW
-  description: DA19/155 - 657 Corndale Road - Detached dual occupancy
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000155.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-10'
-  authority_label: lismore
-- council_reference: 5.2019.156.1
-  address: 5 Napier St, Goonellabah 2480 NSW
-  description: DA19/156 - 5 Napier Street - Carport (detached)
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000156.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-10'
-  authority_label: lismore
-- council_reference: 5.2019.157.1
-  address: 134 Crofton Rd, Nimbin 2480 NSW
-  description: DA19/157 - 134 Crofton Road, Nimbin - Detached dual occ and expanded
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000157.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-13'
-  authority_label: lismore
-- council_reference: 5.2019.158.1
-  address: 37 Just St, Goonellabah 2480 NSW
-  description: DA19/158 - 37 Just Street - Dwelling
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000158.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-13'
-  authority_label: lismore
-- council_reference: 5.2019.159.1
-  address: 18 Highview Cres, Modanville 2480 NSW
-  description: DA19/159 - 18 Highview Crescent - Secondary dwelling
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000159.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-14'
-  authority_label: lismore
-- council_reference: 5.2019.160.1
-  address: 155 Cross Rd, Numulgi 2480 NSW
-  description: Subdivision Cert NO DA
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000160.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-14'
-  authority_label: lismore
-- council_reference: 5.2019.161.1
-  address: 16 Julieanne Pl, Bexhill 2480 NSW
-  description: DA19/161- Dwelling and Garage with Attached Carport
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000161.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-14'
-  authority_label: lismore
-- council_reference: 5.2019.162.1
-  address: 36 Zadoc St, Lismore 2480 NSW
-  description: DA19/162 - 39 Zadoc Street - Garage and carport
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/005.2019.00000162.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-05-14'
-  authority_label: lismore
-- council_reference: 8.2019.6.1
-  address: 11 D'arcy Dr, Goonellabah 2480 NSW
-  description: CDAD19/6 - 11 Darcy Drive - Patio enclosure
-  info_url: https://tracker.lismore.nsw.gov.au/Application/ApplicationDetails/008.2019.00000006.001
-  date_scraped: '2025-04-15'
-  date_received: '2019-04-30'
+  date_received: '2025-04-04'
   authority_label: lismore

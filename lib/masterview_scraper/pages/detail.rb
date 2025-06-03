@@ -208,7 +208,8 @@ module MasterviewScraper
                   when /Determination Type: (.*)/
                     :determination_type
                   else
-                    raise "Unexpected field in: #{line} on #{uri}"
+                    warn "Unexpected field in decision block (ignored): #{line} on #{uri}"
+                    next
                   end
           value = Regexp.last_match(1).strip
           value = nil if value == ""
@@ -237,11 +238,8 @@ module MasterviewScraper
             # We're using this for a bucket where we don't know what the council values mean
             decision = "unknown"
           else
-            if ENV["MORPH_UNUSED_DETERMINATION_TYPES_ARE_FATAL"]
-              # If you REALLY want something we don't actually use to be fatal!
-              raise "Unknown value of determination type: #{determination_type} on #{page.uri}"
-            end
-
+            # IanH Jun 2025: Ignoring unknown determination_type as planning alerts ignores decision
+            warn "Unknown value of determination type ignored: #{decision_values[:determination_type]} on #{page.url}"
             decision = "unknown"
           end
         elsif decision_values[:application_status] == "In Progress" &&
@@ -249,7 +247,9 @@ module MasterviewScraper
               decision_values[:determination_date].nil?
           # Do nothing
         else
-          raise "Unexpected value for application status: #{decision_values[:application_status]} on #{page.uri}"
+          # IanH Jun 2025: Ignoring unexpected application_status as planning alerts ignores decision
+          warn "Unexpected value for application status ignored: #{decision_values[:application_status]} on #{page.url}"
+          decision = "unknown"
         end
 
         properties = page.at("#properties").next_element
