@@ -42,16 +42,6 @@ module MasterviewScraper
       page_size: 10,
       force_detail: true
     },
-    camden: {
-      url: "https://planning.camden.nsw.gov.au",
-      use_api: true,
-      force_detail: true,
-      # There is at least one page
-      # https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.005
-      # that takes about 80 seconds to return! So we need to increase the timeout. In fact that
-      # wasn't even enough. We need 3 minutes per page. Eek!
-      timeout: 180
-    },
     cessnock: {
       url: "https://datracker.cessnock.nsw.gov.au",
       use_api: true,
