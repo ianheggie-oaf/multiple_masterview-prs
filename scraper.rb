@@ -5,41 +5,81 @@ Bundler.require
 
 $LOAD_PATH << "./lib"
 
+require "scraper_utils"
 require "masterview_scraper"
 
-def scrape(authorities)
-  exceptions = {}
-  authorities.each do |authority_label|
-    puts "\nCollecting feed data for #{authority_label}..."
+# Main Scraper class
+class Scraper
+  AUTHORITIES = MasterviewScraper::AUTHORITIES
 
-    begin
+  def self.scrape(authorities, attempt)
+    exceptions = {}
+    authorities.each do |authority_label|
+      puts "\nCollecting feed data for #{authority_label}, attempt: #{attempt}..."
+
+      ScraperUtils::DataQualityMonitor.start_authority(authority_label)
       MasterviewScraper.scrape(authority_label) do |record|
         record["authority_label"] = authority_label.to_s
-        MasterviewScraper.log(record)
-        ScraperWiki.save_sqlite(%w[authority_label council_reference], record)
+        ScraperUtils::DbUtils.save_record(record)
+      rescue ScraperUtils::UnprocessableRecord => e
+        ScraperUtils::DataQualityMonitor.log_unprocessable_record(e, record)
+        exceptions[authority_label] = e
       end
     rescue StandardError => e
       warn "#{authority_label}: ERROR: #{e}"
       warn e.backtrace
       exceptions[authority_label] = e
     end
+    exceptions
   end
-  exceptions
+
+  def self.selected_authorities
+    ScraperUtils::AuthorityUtils.selected_authorities(AUTHORITIES.keys)
+  end
+
+  def self.run(authorities)
+    puts "Scraping authorities: #{authorities.join(', ')}"
+    start_time = Time.now
+    exceptions = scrape(authorities, 1)
+    ScraperUtils::LogUtils.log_scraping_run(
+      start_time,
+      1,
+      authorities,
+      exceptions
+    )
+    unless exceptions.empty?
+      puts "\n***************************************************"
+      puts "Now retrying authorities which earlier had failures"
+      puts exceptions.keys.join(", ").to_s
+      puts "***************************************************"
+
+      start_time = Time.now
+      exceptions = scrape(exceptions.keys, 2)
+      ScraperUtils::LogUtils.log_scraping_run(
+        start_time,
+        2,
+        authorities,
+        exceptions
+      )
+    end
+
+    # Report on results, raising errors for unexpected conditions
+    ScraperUtils::LogUtils.report_on_results(authorities, exceptions)
+  end
 end
 
-authorities = MasterviewScraper::AUTHORITIES.keys
+if __FILE__ == $PROGRAM_NAME
+  # Default to list of authorities we can't or won't fix in code, explain why
+  # some: url-for-issue Summary Reason
+  # councils : url-for-issue Summary Reason
 
-puts "Scraping authorities: #{authorities.join(', ')}"
-exceptions = scrape(authorities)
-unless exceptions.empty?
-  puts "\n***************************************************"
-  puts "Now retrying authorities which earlier had failures"
-  puts "***************************************************"
-
-  exceptions = scrape(exceptions.keys)
-end
-
-unless exceptions.empty?
-  raise "There were errors with the following authorities: #{exceptions.keys}. "\
-        "See earlier output for details"
+  ENV["MORPH_EXPECT_BAD"] ||= "" # ''"some,councils"
+  Scraper.run(Scraper.selected_authorities)
+  
+  # Dump database for morph-cli
+  if File.exist?("tmp/dump-data-sqlite")
+    puts '-- dump of data.sqlite --'
+    system "sqlite3 data.sqlite .dump"
+    puts '-- end of dump --'
+  end
 end

@@ -12,6 +12,7 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    ansi (1.5.0)
     ast (2.4.1)
     childprocess (1.0.1)
       rake (< 13.0)
@@ -19,6 +20,7 @@ GEM
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
     diff-lcs (1.4.4)
+    docile (1.4.1)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
     hashdiff (1.0.1)
@@ -53,7 +55,7 @@ GEM
     public_suffix (4.0.5)
     racc (1.5.2)
     rainbow (3.0.0)
-    rake (10.5.0)
+    rake (12.3.3)
     regexp_parser (1.6.0)
     rexml (3.2.4)
     rspec (3.9.0)
@@ -82,12 +84,26 @@ GEM
     ruby-progressbar (1.10.1)
     rubyzip (1.2.3)
     safe_yaml (1.0.5)
+    scraper_utils (0.7.2)
+      mechanize
+      nokogiri
+      sqlite3
     selenium-webdriver (3.142.3)
       childprocess (>= 0.5, < 2.0)
       rubyzip (~> 1.2, >= 1.2.2)
+    simplecov (0.18.5)
+      docile (~> 1.1)
+      simplecov-html (~> 0.11)
+    simplecov-console (0.9.3)
+      ansi
+      simplecov
+      terminal-table
+    simplecov-html (0.13.1)
     sqlite3 (1.4.2)
     sqlite_magic (0.0.6)
       sqlite3
+    terminal-table (4.0.0)
+      unicode-display_width (>= 1.1.1, < 4)
     timecop (0.9.1)
     unf (0.1.4)
       unf_ext
@@ -110,10 +126,13 @@ PLATFORMS
 DEPENDENCIES
   mechanize
   mini_magick
-  rake (~> 10.0)
+  rake (~> 12.3)
   rspec (~> 3.0)
   rubocop
+  scraper_utils (~> 0.7.2)
   scraperwiki!
+  simplecov (~> 0.18.0)
+  simplecov-console
   timecop
   vcr
   watir
