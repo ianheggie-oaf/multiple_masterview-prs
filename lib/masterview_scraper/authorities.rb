@@ -80,7 +80,8 @@ module MasterviewScraper
     maranoa: {
       url: "http://pdonline.maranoa.qld.gov.au",
       use_api: true,
-      force_detail: true
+      force_detail: true,
+      timeout: 120
     },
     muswellbrook: {
       url: "https://datracker.muswellbrook.nsw.gov.au",
