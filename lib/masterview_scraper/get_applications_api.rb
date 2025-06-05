@@ -7,7 +7,7 @@ module MasterviewScraper
   module GetApplicationsApi
     # Returns applications received in the last 30 days
     def self.scrape(url:, agent:, long_council_reference:,
-                    types:, lowercase_api_call:, page_size: 100)
+                    types:, lowercase_api_call:, page_size: 100, &block)
       page_no = 0
       # Start with the assumption that there is at least one records to be returned
       total_records = 1
@@ -19,10 +19,8 @@ module MasterviewScraper
           offset: page_no * page_size, limit: page_size, url: url,
           start_date: start_date, end_date: end_date,
           agent: agent, long_council_reference: long_council_reference, types: types,
-          lowercase_api_call: lowercase_api_call
-        ) do |record|
-          yield record
-        end
+          lowercase_api_call: lowercase_api_call, &block
+        )
         page_no += 1
       end
     end

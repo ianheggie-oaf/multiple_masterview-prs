@@ -13,12 +13,10 @@ require "mechanize"
 
 # Scrape a masterview development application system
 module MasterviewScraper
-  def self.scrape(authority)
+  def self.scrape(authority, &block)
     raise "Unexpected authority: #{authority}" unless AUTHORITIES.key?(authority)
 
-    scrape_period(**AUTHORITIES[authority]) do |record|
-      yield record
-    end
+    scrape_period(**AUTHORITIES[authority], &block)
   end
 
   def self.scrape_and_save(authority)
@@ -41,7 +39,7 @@ module MasterviewScraper
     types: nil,
     lowercase_api_call: false,
     # page_size only applies when use_api is true at the moment
-    page_size: 100
+    page_size: 100, &block
   )
     if use_api
       scrape_api_period(
@@ -51,19 +49,15 @@ module MasterviewScraper
         force_detail,
         timeout,
         lowercase_api_call,
-        page_size
-      ) do |record|
-        yield record
-      end
+        page_size, &block
+      )
     else
       scrape_url(
         url_last_n_days(url, 30, params),
         state,
         force_detail,
-        timeout
-      ) do |record|
-        yield record
-      end
+        timeout, &block
+      )
     end
   end
 
@@ -102,10 +96,10 @@ module MasterviewScraper
     ) do |record|
       if force_detail
         page = begin
-                 agent.get(record["info_url"], [], nil, { "accept-charset" => nil })
-               rescue Mechanize::ResponseCodeError
-                 nil
-               end
+          agent.get(record["info_url"], [], nil, { "accept-charset" => nil })
+        rescue Mechanize::ResponseCodeError
+          nil
+        end
         if page.nil?
           puts "PROBLEM LOADING PAGE #{record['info_url']}"
           next

@@ -6,7 +6,7 @@ module MasterviewScraper
     module Detail
       def self.scrape(page)
         if page.at(".alert")&.inner_text&.strip ==
-          "Sorry the application is not available. Please contact council for further details."
+           "Sorry the application is not available. Please contact council for further details."
           nil
         elsif page.at("#details")
           scrape_new_version(page)
@@ -17,13 +17,13 @@ module MasterviewScraper
 
       def self.scrape_old_version(page)
         council_reference = page.at("#ctl03_lblHead") ||
-          page.at("#ctl00_cphContent_ctl00_lblApplicationHeader")
+                            page.at("#ctl00_cphContent_ctl00_lblApplicationHeader")
         council_reference = council_reference.inner_text.split(" ")[0] if council_reference
         address = page.at("#lblLand") ||
-          page.at("#lblProp") ||
-          page.at("#lblprop") ||
-          page.at("#lblProperties") ||
-          page.at("#lblProperties1")
+                  page.at("#lblProp") ||
+                  page.at("#lblprop") ||
+                  page.at("#lblProperties") ||
+                  page.at("#lblProperties1")
         if address
           address = address.inner_text.strip.split("\n")[0].strip.gsub("\r", " ").squeeze(" ")
         end
@@ -56,17 +56,17 @@ module MasterviewScraper
             if detail =~ /^Address : (.*)/
               address = Regexp.last_match(1)
             elsif detail =~ /^Description:(.*)/ ||
-              detail =~ /^Description : (.*)/ ||
-              detail =~ /Activity:(.*)/
+                  detail =~ /^Description : (.*)/ ||
+                  detail =~ /Activity:(.*)/
               description = Regexp.last_match(1).squeeze(" ").strip
               descriptions << description if description != ""
             elsif detail =~ /^Submitted:(.*)/ ||
-              detail =~ /^Date Lodged: (.*)/
+                  detail =~ /^Date Lodged: (.*)/
               date_received = Regexp.last_match(1).strip
             elsif detail =~ /Determination Description:/ ||
-              detail =~ /Assessment Level:/ ||
-              detail =~ /Permit:/ ||
-              detail =~ /Category:/
+                  detail =~ /Assessment Level:/ ||
+                  detail =~ /Permit:/ ||
+                  detail =~ /Category:/
               # Do nothing
               # Only seen this in bundaberg council so far
             elsif [
@@ -245,8 +245,8 @@ module MasterviewScraper
             decision = "unknown"
           end
         elsif decision_values[:application_status] == "In Progress" &&
-          determination_type == "Pending" &&
-          decision_values[:determination_date].nil?
+              determination_type == "Pending" &&
+              decision_values[:determination_date].nil?
           # Do nothing
         else
           raise "Unexpected value for application status: #{decision_values[:application_status]} on #{page.uri}"
