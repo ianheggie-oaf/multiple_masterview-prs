@@ -38,7 +38,7 @@ module MasterviewScraper
         table = page.at("table.rgMasterTable") ||
                 page.at("table table") ||
                 page.at("#ctl03_lblData table")
-        raise "Couldn't find table on #{page.uri}" if table.nil?
+        raise "Couldn't find table element on #{page.uri}" if table.nil?
 
         Table.extract_table(table, page.uri).each do |row|
           normalised = row[:content].map { |k, v| [normalise_name(k, v), v] }.to_h
@@ -95,7 +95,7 @@ module MasterviewScraper
           end
         end
         if details.empty? || details.length > 3
-          raise "Unexpected number of things in details: #{details} on #{uri}"
+          raise "Unexpected number of things (expected 1..3) in details: #{details.inspect} on #{uri}"
         end
 
         if details.length == 1
