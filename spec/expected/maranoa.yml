@@ -3,41 +3,48 @@
   address: 265 Mt Saltbush Rd, Roma 4455 QLD
   description: New Dwelling
   info_url: http://pdonline.maranoa.qld.gov.au/Application/ApplicationDetails/022.2019.00019881.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-03'
+  authority_label: maranoa
 - council_reference: 22 - 2019 - 19909 - 1
   address: 21-39 Currey St, Roma 4455 QLD
   description: Change of Classification to Accommodation Building
   info_url: http://pdonline.maranoa.qld.gov.au/Application/ApplicationDetails/022.2019.00019909.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-08'
+  authority_label: maranoa
 - council_reference: 22 - 2019 - 19913 - 1
   address: 21-23 Lovell St, Roma 4455 QLD
   description: Building Addition/Alteration
   info_url: http://pdonline.maranoa.qld.gov.au/Application/ApplicationDetails/022.2019.00019913.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-18'
+  authority_label: maranoa
 - council_reference: 22 - 2019 - 19914 - 1
   address: 61 Raglan St, Roma 4455 QLD
   description: Domestic Shed
   info_url: http://pdonline.maranoa.qld.gov.au/Application/ApplicationDetails/022.2019.00019914.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-30'
+  authority_label: maranoa
 - council_reference: 22 - 2019 - 19917 - 1
   address: 2 Riggers Rd, Roma 4455 QLD
   description: Stand for Outdoor LED Screen
   info_url: http://pdonline.maranoa.qld.gov.au/Application/ApplicationDetails/022.2019.00019917.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-26'
+  authority_label: maranoa
 - council_reference: 30 - 2018 - 19861 - 2
   address: 44-46 Mcdowall St, Roma 4455 QLD
   description: ROL - Boundary Relignment - Survey Plan Endorsement
   info_url: http://pdonline.maranoa.qld.gov.au/Application/ApplicationDetails/030.2018.00019861.002
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-05-07'
+  authority_label: maranoa
 - council_reference: 30 - 2019 - 19912 - 1
   address: 64 Roslyn Dr, Roma 4455 QLD
   description: MCU- "Dwelling House" -Outbuilding - (CODE)
   info_url: http://pdonline.maranoa.qld.gov.au/Application/ApplicationDetails/030.2019.00019912.001
-  date_scraped: '2019-05-14'
+  date_scraped: '2025-04-15'
   date_received: '2019-04-18'
+  authority_label: maranoa

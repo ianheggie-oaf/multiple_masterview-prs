@@ -6,7 +6,7 @@ module MasterviewScraper
     module Detail
       def self.scrape(page)
         if page.at(".alert")&.inner_text&.strip ==
-           "Sorry the application is not available. Please contact council for further details."
+          "Sorry the application is not available. Please contact council for further details."
           nil
         elsif page.at("#details")
           scrape_new_version(page)
@@ -17,13 +17,13 @@ module MasterviewScraper
 
       def self.scrape_old_version(page)
         council_reference = page.at("#ctl03_lblHead") ||
-                            page.at("#ctl00_cphContent_ctl00_lblApplicationHeader")
+          page.at("#ctl00_cphContent_ctl00_lblApplicationHeader")
         council_reference = council_reference.inner_text.split(" ")[0] if council_reference
         address = page.at("#lblLand") ||
-                  page.at("#lblProp") ||
-                  page.at("#lblprop") ||
-                  page.at("#lblProperties") ||
-                  page.at("#lblProperties1")
+          page.at("#lblProp") ||
+          page.at("#lblprop") ||
+          page.at("#lblProperties") ||
+          page.at("#lblProperties1")
         if address
           address = address.inner_text.strip.split("\n")[0].strip.gsub("\r", " ").squeeze(" ")
         end
@@ -56,17 +56,17 @@ module MasterviewScraper
             if detail =~ /^Address : (.*)/
               address = Regexp.last_match(1)
             elsif detail =~ /^Description:(.*)/ ||
-                  detail =~ /^Description : (.*)/ ||
-                  detail =~ /Activity:(.*)/
+              detail =~ /^Description : (.*)/ ||
+              detail =~ /Activity:(.*)/
               description = Regexp.last_match(1).squeeze(" ").strip
               descriptions << description if description != ""
             elsif detail =~ /^Submitted:(.*)/ ||
-                  detail =~ /^Date Lodged: (.*)/
+              detail =~ /^Date Lodged: (.*)/
               date_received = Regexp.last_match(1).strip
             elsif detail =~ /Determination Description:/ ||
-                  detail =~ /Assessment Level:/ ||
-                  detail =~ /Permit:/ ||
-                  detail =~ /Category:/
+              detail =~ /Assessment Level:/ ||
+              detail =~ /Permit:/ ||
+              detail =~ /Category:/
               # Do nothing
               # Only seen this in bundaberg council so far
             elsif [
@@ -196,7 +196,7 @@ module MasterviewScraper
       ].freeze
 
       # Get the data from the decision block as is but don't interpret it just yet
-      def self.extract_decision_block(block)
+      def self.extract_decision_block(block, uri)
         lines = block.search("td").map { |td| td.inner_text.strip.gsub("\r\n", " ") }
         result = {}
         lines.each do |line|
@@ -208,7 +208,7 @@ module MasterviewScraper
                   when /Determination Type: (.*)/
                     :determination_type
                   else
-                    raise "Unexpected field in: #{line}"
+                    raise "Unexpected field in: #{line} on #{uri}"
                   end
           value = Regexp.last_match(1).strip
           value = nil if value == ""
@@ -219,31 +219,37 @@ module MasterviewScraper
 
       def self.scrape_new_version(page)
         # TODO: Reinstate this code when all authorities are scraping the detail page
-        decision_values = extract_decision_block(page.at("#decision").next_element)
+        decision_values = extract_decision_block(page.at("#decision").next_element, page.uri)
+        determination_type = decision_values[:determination_type]
         if decision_values[:application_status] == "Determined"
           date_decision = Date.strptime(decision_values[:determination_date], "%d/%m/%Y")
-          if APPROVED.include?(decision_values[:determination_type])
+          if APPROVED.include?(determination_type)
             decision = "approved"
-          elsif REJECTED.include?(decision_values[:determination_type])
+          elsif REJECTED.include?(determination_type)
             decision = "rejected"
-          elsif WITHDRAWN.include?(decision_values[:determination_type])
+          elsif WITHDRAWN.include?(determination_type)
             # TODO: Not sure this is the right thing to do
             decision = "withdrawn"
-          # TODO: What DO we do with this??
-          elsif decision_values[:determination_type] == "Withdrawn/Rejected"
+            # TODO: What DO we do with this??
+          elsif determination_type == "Withdrawn/Rejected"
             decision = "withdrawn/rejected"
-          elsif UNKNOWN.include?(decision_values[:determination_type])
+          elsif UNKNOWN.include?(determination_type)
             # We're using this for a bucket where we don't know what the council values mean
             decision = "unknown"
           else
-            raise "Unknown value of determination type: #{decision_values[:determination_type]}"
+            if ENV["MORPH_UNUSED_DETERMINATION_TYPES_ARE_FATAL"]
+              # If you REALLY want something we don't actually use to be fatal!
+              raise "Unknown value of determination type: #{determination_type} on #{page.uri}"
+            end
+
+            decision = "unknown"
           end
         elsif decision_values[:application_status] == "In Progress" &&
-              decision_values[:determination_type] == "Pending" &&
-              decision_values[:determination_date].nil?
+          determination_type == "Pending" &&
+          decision_values[:determination_date].nil?
           # Do nothing
         else
-          raise "Unexpected value for application status: #{decision_values[:application_status]}"
+          raise "Unexpected value for application status: #{decision_values[:application_status]} on #{page.uri}"
         end
 
         properties = page.at("#properties").next_element
