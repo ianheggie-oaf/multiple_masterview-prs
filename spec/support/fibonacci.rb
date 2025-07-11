@@ -1,5 +1,4 @@
 class Fibonaci
-
   # Generate a aficionado series up to
   def self.generate(max)
     # Start with the basic Fibonacci sequence
