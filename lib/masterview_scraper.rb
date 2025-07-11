@@ -13,12 +13,10 @@ require "mechanize"
 
 # Scrape a masterview development application system
 module MasterviewScraper
-  def self.scrape(authority)
+  def self.scrape(authority, &block)
     raise "Unexpected authority: #{authority}" unless AUTHORITIES.key?(authority)
 
-    scrape_period(**AUTHORITIES[authority]) do |record|
-      yield record
-    end
+    scrape_period(**AUTHORITIES[authority], &block)
   end
 
   def self.scrape_and_save(authority)
@@ -41,7 +39,7 @@ module MasterviewScraper
     types: nil,
     lowercase_api_call: false,
     # page_size only applies when use_api is true at the moment
-    page_size: 100
+    page_size: 100, &block
   )
     if use_api
       scrape_api_period(
@@ -51,19 +49,15 @@ module MasterviewScraper
         force_detail,
         timeout,
         lowercase_api_call,
-        page_size
-      ) do |record|
-        yield record
-      end
+        page_size, &block
+      )
     else
       scrape_url(
         url_last_n_days(url, 30, params),
         state,
         force_detail,
-        timeout
-      ) do |record|
-        yield record
-      end
+        timeout, &block
+      )
     end
   end
 
@@ -93,6 +87,9 @@ module MasterviewScraper
     if Pages::TermsAndConditions.on_page?(page)
       MasterviewScraper::Pages::TermsAndConditions.click_agree(page)
     end
+    if ScraperUtils::SpecSupport.bot_protection_detected?(page)
+      puts "WARNING: BOT PROTECTION DETECTED on #{url}/"
+    end
 
     GetApplicationsApi.scrape(
       url: url,
@@ -102,13 +99,16 @@ module MasterviewScraper
     ) do |record|
       if force_detail
         page = begin
-                 agent.get(record["info_url"], [], nil, { "accept-charset" => nil })
-               rescue Mechanize::ResponseCodeError
-                 nil
-               end
+          agent.get(record["info_url"], [], nil, { "accept-charset" => nil })
+        rescue Mechanize::ResponseCodeError
+          nil
+        end
         if page.nil?
           puts "PROBLEM LOADING PAGE #{record['info_url']}"
           next
+        end
+        if ScraperUtils::SpecSupport.bot_protection_detected?(page)
+          puts "WARNING: BOT PROTECTION DETECTED on #{record["info_url"]}"
         end
         detail = Pages::Detail.scrape(page)
         # If the detail page is missing just skip this application
@@ -161,6 +161,9 @@ module MasterviewScraper
       # let's just request it again
       page = agent.get(url)
     end
+    if ScraperUtils::SpecSupport.bot_protection_detected?(page)
+      puts "WARNING: BOT PROTECTION DETECTED on #{url}"
+    end
 
     while page
       Pages::Index.scrape(page) do |record|
@@ -175,6 +178,9 @@ module MasterviewScraper
 
           begin
             info_page = agent.get(record[:info_url])
+            if ScraperUtils::SpecSupport.bot_protection_detected?(page)
+              puts "WARNING: BOT PROTECTION DETECTED on #{record[:info_url]}"
+            end
           # Doing this for the benefit of bellingen that
           # appears to be able to fault on detail pages of particular
           # applications
