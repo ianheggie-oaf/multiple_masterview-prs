@@ -41,7 +41,7 @@ module MasterviewScraper
             elsif values[0] == "Submitted Date"
               date_received = values[1]
             else
-              raise "Unexpected value: #{values[0]}"
+              warn "Ignored unexpected field: #{values[0].inspect} on #{page.uri}"
             end
           end
           description = descriptions.join(", ")
@@ -79,7 +79,7 @@ module MasterviewScraper
             ].include?(detail)
               # Do nothing
             else
-              raise "Unexpected detail line: #{detail}"
+              warn "Ignoring unexpected detail line: #{detail.inspect} on #{page.uri}"
             end
           end
           description = descriptions.first
@@ -201,11 +201,11 @@ module MasterviewScraper
         result = {}
         lines.each do |line|
           field = case line
-                  when /Application Status: (.*)/
+                  when /Application Status:\s*(.*)/
                     :application_status
-                  when /Determination Date:(.*)/
+                  when /Determination Date:\s*(.*)/
                     :determination_date
-                  when /Determination Type: (.*)/
+                  when /Determination Type:\s*(.*)/
                     :determination_type
                   else
                     warn "Unexpected field in decision block (ignored): #{line} on #{uri}"
@@ -239,7 +239,7 @@ module MasterviewScraper
             decision = "unknown"
           else
             # IanH Jun 2025: Ignoring unknown determination_type as planning alerts ignores decision
-            warn "Unknown value of determination type ignored: #{decision_values[:determination_type]} on #{page.url}"
+            warn "Ignoring unknown value of determination type: #{determination_type.inspect} on #{page.uri}"
             decision = "unknown"
           end
         elsif decision_values[:application_status] == "In Progress" &&
@@ -248,8 +248,8 @@ module MasterviewScraper
           # Do nothing
         else
           # IanH Jun 2025: Ignoring unexpected application_status as planning alerts ignores decision
-          warn "Unexpected value for application status ignored: #{decision_values[:application_status]} on #{page.url}"
           decision = "unknown"
+          warn "Ignoring unexpected value for application status: #{decision_values[:application_status].inspect} on #{page.uri}"
         end
 
         properties = page.at("#properties").next_element
