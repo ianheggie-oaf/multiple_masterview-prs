@@ -238,7 +238,6 @@ module MasterviewScraper
             # We're using this for a bucket where we don't know what the council values mean
             decision = "unknown"
           else
-            # IanH Jun 2025: Ignoring unknown determination_type as planning alerts ignores decision
             warn "Ignoring unknown value of determination type: #{determination_type.inspect} on #{page.uri}"
             decision = "unknown"
           end
@@ -247,8 +246,6 @@ module MasterviewScraper
               decision_values[:determination_date].nil?
           # Do nothing
         else
-          # IanH Jun 2025: Ignoring unexpected application_status as planning alerts ignores decision
-          decision = "unknown"
           warn "Ignoring unexpected value for application status: #{decision_values[:application_status].inspect} on #{page.uri}"
         end
 
