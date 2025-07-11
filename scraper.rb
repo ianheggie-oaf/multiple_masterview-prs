@@ -73,12 +73,12 @@ end
 if __FILE__ == $PROGRAM_NAME
   # Default to list of authorities we can't or won't fix in code, explain why
   # some: url-for-issue Summary Reason
-  # councils: url-for-issue Summary Reason
-
+  # councils : url-for-issue Summary Reason
   if ENV['MORPH_EXPECT_BAD'].nil?
     default_expect_bad = {
+      bogan: 'https://github.com/planningalerts-scrapers/issues/issues/935 - Council website bad, does not publish'
     }
-    puts 'Default EXPECT_BAD:', default_expect_bad.to_yaml if default_expect_bad.any?
+    puts 'Default EXPECT_BAD:', default_expect_bad.to_yaml if default_expect_bad.any? && 
 
     ENV["MORPH_EXPECT_BAD"] = default_expect_bad.keys.join(',')
   end
