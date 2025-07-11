@@ -2,16 +2,14 @@
 
 source "https://rubygems.org"
 
-ruby "~> 3.2.2"
+ruby "3.2.2"
 
 gem "mechanize", "~> 2.8.5"
 gem "nokogiri", "~> 1.15.0"
-gem "sqlite3", "~> 1.6.3"
-
-# Unable to list in gemspec - Include it in your projects Gemfile when using this gem
-gem "scraper_utils", "~> 0.8.3"
+gem "scraper_utils", "0.9.1"
 gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git",
                    branch: "morph_defaults"
+gem "sqlite3", "~> 1.6.3"
 
 # For development and running tests
 gem "mini_magick"
