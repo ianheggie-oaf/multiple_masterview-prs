@@ -1,1262 +1,1529 @@
 ---
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124140&propkey=38814
-  council_reference: CD19/1173
-  date_received: '2019-04-15'
-  description: Detached Garage
-  address: 8 Bourne Av, NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124141&propkey=82462
-  council_reference: CD19/1174
-  date_received: '2019-04-15'
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720691&propkey=74475
+  council_reference: DA25/1335
+  date_received: '2025-03-27'
+  description: Single Storey Additions to Existing Residence & Internal Alterations
+    to Existing Residence
+  address: 114A Bollerang Rd, WANDANDIAN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720705&propkey=25319
+  council_reference: DA25/1336
+  date_received: '2025-03-24'
+  description: Demolition of dwelling & Construction of a Dwelling and Spa
+  address: 16 Spinks Av, LAKE CONJOLA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720707&propkey=59955
+  council_reference: DA25/1337
+  date_received: '2025-03-20'
+  description: Dwelling house additions - pergola, fibreglass inground pool and spa
+  address: 10B Back Forest Rd, BACK FOREST, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720733&propkey=22267
+  council_reference: DA25/1341
+  date_received: '2025-03-26'
+  description: Demolition of existing shed and construction of a new shed
+  address: 7 Kinghorn Rd, CURRARONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720763&propkey=72790
+  council_reference: DA25/1344
+  date_received: '2025-03-26'
+  description: Shed and Covered BBQ Area
+  address: Princes Hwy, EAST LYNNE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720811&propkey=45008
+  council_reference: DA25/1347
+  date_received: '2025-04-01'
+  description: Demolition of the existing dwelling and the construction of a two-storey
+    childcare centre for 109 children
+  address: 14 Bainbrigge Cr, NOWRA<br>26 Douglas St, NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720853&propkey=18702
+  council_reference: DA25/1348
+  date_received: '2025-03-24'
+  description: Alterations & Additions to Dwelling
+  address: 131 Mitchell Pde, MOLLYMOOK BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720861&propkey=19448
+  council_reference: DA25/1349
+  date_received: '2025-03-31'
+  description: Manufactured home as a secondary dwelling
+  address: 18 Buckland St, MOLLYMOOK, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720862&propkey=12584
+  council_reference: DA25/1350
+  date_received: '2025-03-25'
+  description: Lift Installation
+  address: 15 Bayswater St, VINCENTIA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720976&propkey=99827
+  council_reference: DA25/1352
+  date_received: '2025-03-31'
+  description: Spa Pool with Lockable Lid
+  address: 61 Marine Pde, CALLALA BAY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720984&propkey=1003017
+  council_reference: DA25/1353
+  date_received: '2025-04-02'
+  description: Dwelling house to be used as a group home (permanent) on Lot 1 and
+    a dwelling house and secondary dwelling to be used as a group home (permanent)
+    on Lot 2
+  address: 13 Catalina Pl, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720999&propkey=1002982
+  council_reference: DA25/1354
+  date_received: '2025-03-31'
+  description: Construction of a dual occupancy on proposed Lot 1, a dwelling house
+    and secondary dwelling on proposed Lot 2; & the use of all dwelling across both
+    lots as permanent group homes
+  address: 26 Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721007&propkey=9793
+  council_reference: DA25/1355
+  date_received: '2025-03-21'
+  description: Proposed Dual Occupancy
+  address: 357 The Park Dr, SANCTUARY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721019&propkey=41755
+  council_reference: DA25/1356
+  date_received: '2025-03-21'
+  description: Proposed removal of existing digital signage & erection of a new digital
+    advertising structure.
+  address: 260 Princes Hwy, SOUTH NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721028&propkey=92460
+  council_reference: DA25/1357
+  date_received: '2025-04-03'
+  description: Continued use of home based business
+  address: 18 Guinea Flower Cr, WORRIGEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721054&propkey=28654
+  council_reference: DA25/1361
+  date_received: '2025-03-26'
+  description: Demolition of a detached shed and alternations and additions to existing
+    dwelling house
+  address: 86 Watts Rd, CALLALA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721108&propkey=46623
+  council_reference: DA25/1366
+  date_received: '2025-04-07'
+  description: Proposed 2 Lot Subdivision (Boundary Adjustment)
+  address: 688 Comerong Island Rd, NUMBAA<br>724 Comerong Island Rd, NUMBAA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721125&propkey=23637
+  council_reference: DA25/1367
+  date_received: '2025-03-28'
+  description: Demolition of Existing Metal Shed & Construction of a Detached Garage/
+    Carport with Relating Landscaping
+  address: 3 Alaska St, CUNJURONG POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721130&propkey=91170
+  council_reference: DA25/1368
+  date_received: '2025-04-03'
+  description: Construction of new dwelling and demolition of existing
+  address: 23 Wyanga Cr, WORRIGEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721136&propkey=87201
+  council_reference: DA25/1369
+  date_received: '2025-03-31'
+  description: Shed
+  address: 10 Windley Rd, WANDANDIAN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721156&propkey=6712
+  council_reference: DA25/1371
+  date_received: '2025-04-01'
+  description: Detached shed with a 7m front boundary setback
+  address: 118 Loralyn Av, ST GEORGES BASIN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721172&propkey=72848
+  council_reference: DA25/1373
+  date_received: '2025-04-04'
+  description: Detached Carport
+  address: 7 Laurina Pl, BEWONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721191&propkey=5618
+  council_reference: DA25/1374
+  date_received: '2025-03-27'
   description: Detached Shed
-  address: 290 Hames Rd, YERRIYONG, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124170&propkey=20047
-  council_reference: CD19/1175
-  date_received: '2019-04-15'
-  description: Dwelling Alterations - Conversion of Boat Storage to Habitable Room
-  address: 19 Loralyn Av, ST GEORGES BASIN, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124215&propkey=1000063
-  council_reference: CD19/1176
-  date_received: '2019-04-16'
-  description: Single Storey Dwelling
-  address: 13 Bexhill Av, SUSSEX INLET, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124217&propkey=120075
-  council_reference: CD19/1177
-  date_received: '2019-04-16'
-  description: Above Ground Swim Spa
-  address: 49 Summercloud Cr, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124229&propkey=75859
-  council_reference: CD19/1178
-  date_received: '2019-04-17'
-  description: Dwelling Additions - Awning
-  address: 2 Henry Pl, KINGS POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124249&propkey=27373
-  council_reference: CD19/1179
-  date_received: '2019-04-17'
-  description: Dwelling Additions, Deck, Awning & Addition To Garage
-  address: 1 Centre St, CALLALA BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124277&propkey=33087
-  council_reference: CD19/1180
-  date_received: '2019-04-18'
-  description: Single Storey Dwelling
-  address: 67 Camden St, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124282&propkey=94635
-  council_reference: CD19/1181
-  date_received: '2019-04-18'
-  description: Dwelling Additions - Patio Cover & Two Freestanding Awnings
-  address: 6 Mintbush Cr, WORRIGEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124292&propkey=13490
-  council_reference: CD19/1182
-  date_received: '2019-04-18'
-  description: Dwelling Alterations & Additions
-  address: 84 Frederick St, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124293&propkey=23374
-  council_reference: CD19/1183
-  date_received: '2019-04-18'
-  description: Dwelling Alterations, Additions & In Ground Swimming Pool
-  address: 22 Moolianga Rd, BERRARA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124313&propkey=554
-  council_reference: CD19/1184
-  date_received: '2019-04-18'
-  description: Dwelling Additions - One New & One Replacement Awning
-  address: 27 Windsor Dr, BERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124331&propkey=121668
-  council_reference: CD19/1185
-  date_received: '2019-04-23'
+  address: 81 Basin View Pde, BASIN VIEW, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721243&propkey=1003431
+  council_reference: DA25/1379
+  date_received: '2025-04-09'
+  description: Proposed building envelope and access driveway
+  address: Woodstock Rd, MILTON, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721244&propkey=1005538
+  council_reference: DA25/1380
+  date_received: '2025-04-08'
+  description: Dwelling House
+  address: 21 Runway St, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721270&propkey=27669
+  council_reference: DA25/1381
+  date_received: '2025-04-02'
+  description: Use of existing unauthorised secondary dwelling
+  address: 14 King George St, CALLALA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721303&propkey=1001187
+  council_reference: DA25/1383
+  date_received: '2025-04-03'
+  description: Torrens Title Subdivision of Dual Occupancy
+  address: 29 Kennedy Cr, MILTON, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721309&propkey=44590
+  council_reference: DA25/1384
+  date_received: '2025-04-02'
+  description: Single storey dwelling house
+  address: Inglewood Cr, TOMERONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721317&propkey=1005075
+  council_reference: DA25/1385
+  date_received: '2025-04-03'
+  description: Continued use of existing dwelling, attached carport and detached shed
+  address: Inglewood Cr, TOMERONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721322&propkey=90768
+  council_reference: DA25/1386
+  date_received: '2025-04-07'
+  description: Construction of a dwelling house and conversion of the existing dwelling
+    to rural workers dwelling, new watercourse crossing
+  address: 40 Hobbs Lane, WOODSTOCK, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721386&propkey=121855
+  council_reference: DA25/1387
+  date_received: '2025-04-07'
+  description: Driveway
+  address: 2 Macquarie Dr, BURRILL LAKE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721419&propkey=86305
+  council_reference: DA25/1391
+  date_received: '2025-04-01'
+  description: Dwelling House
+  address: 140 Illaroo Rd, NORTH NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721420&propkey=2774
+  council_reference: DA25/1392
+  date_received: '2025-04-03'
+  description: Construction of a two-storey dwelling house
+  address: 8 Broadview Av, CULBURRA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721499&propkey=119669
+  council_reference: DA25/1393
+  date_received: '2025-04-03'
+  description: Change of use of a shed to a secondary dwelling
+  address: 205 Grange Rd, ST GEORGES BASIN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721500&propkey=26443
+  council_reference: DA25/1394
+  date_received: '2025-04-04'
+  description: Alterations and additions to dwelling house - Part demolition of existing
+    balustrades and fencing and the construction of a new first floor balcony
+  address: 53 Malibu Dr, BAWLEY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721511&propkey=17143
+  council_reference: DA25/1396
+  date_received: '2025-04-07'
+  description: Patio cover over existing deck
+  address: 26 Bangalow St, NARRAWALLEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721565&propkey=1005230
+  council_reference: DA25/1399
+  date_received: '2025-04-02'
+  description: Dwelling House
+  address: 6B Arilla St, NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721594&propkey=1005715
+  council_reference: DA25/1401
+  date_received: '2025-04-10'
+  description: Torrens title subdivision of dual occupancy (detached)
+  address: 4A Kangaroo Valley Rd, BERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721623&propkey=1004326
+  council_reference: DA25/1406
+  date_received: '2025-04-11'
+  description: Dwelling House
+  address: 6 Eumundi Av, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721640&propkey=28143
+  council_reference: DA25/1407
+  date_received: '2025-04-10'
+  description: Demolition of existing buildings, tree removal and construction of
+    a dwelling house
+  address: 8 Quay Rd, CALLALA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721714&propkey=26391
+  council_reference: DA25/1409
+  date_received: '2025-04-14'
+  description: Alterations and additions to dwelling house
+  address: 108 Malibu Dr, BAWLEY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721737&propkey=1005147
+  council_reference: DA25/1410
+  date_received: '2025-04-17'
+  description: Dwelling with Double Garage
+  address: 3 Spica St, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721757&propkey=81639
+  council_reference: DA25/1411
+  date_received: '2025-04-14'
+  description: Change of use to Commercial Premises (Tattoo Studio)
+  address: 8/33 Meroo St, BOMADERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721760&propkey=10075
+  council_reference: DA25/1412
+  date_received: '2025-04-06'
+  description: Demolition of existing structures, removal of existing trees, erection
+    of a purpose-built childcare center for 71 placements and 18 carparking spaces.
+    Associated earthworks and landscaping.
+  address: 176 The Park Dr, SANCTUARY POINT<br>178 The Park Dr, SANCTUARY POINT<br>180
+    The Park Dr, SANCTUARY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721784&propkey=92751
+  council_reference: DA25/1413
+  date_received: '2025-04-08'
+  description: Construction of swimming pool and detached shed
+  address: 192 Stringybark Rd, NOWRA HILL, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721830&propkey=1004283
+  council_reference: DA25/1414
+  date_received: '2025-04-04'
+  description: Single storey dwelling
+  address: 49 Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721833&propkey=1004282
+  council_reference: DA25/1415
+  date_received: '2025-04-03'
+  description: Dwelling house
+  address: 51 Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721840&propkey=1004584
+  council_reference: DA25/1416
+  date_received: '2025-04-02'
+  description: Dwelling house
+  address: 5B Murray St, KANGAROO VALLEY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721885&propkey=33209
+  council_reference: DA25/1417
+  date_received: '2025-04-09'
+  description: Demolition of existing structures and construction of detached dual
+    occupancy
+  address: 9 Berry St, HUSKISSON, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721892&propkey=85413
+  council_reference: DA25/1418
+  date_received: '2025-04-14'
+  description: New signage to existing Aged Care Facility
+  address: 201 Illaroo Rd, NORTH NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721895&propkey=1004892
+  council_reference: DA25/1419
+  date_received: '2025-04-08'
+  description: Dwelling
+  address: 8 Pebble Beach Pde, SUSSEX INLET, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721932&propkey=1003754
+  council_reference: DA25/1420
+  date_received: '2025-04-07'
+  description: Construction of retaining walls
+  address: 22 Wirraway Bvd, BADAGARANG<br>24 Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721954&propkey=1003273
+  council_reference: DA25/1421
+  date_received: '2025-04-04'
+  description: Secondary dwelling with attached garage
+  address: 239A Princes Hwy, MILTON, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721992&propkey=93959
+  council_reference: DA25/1424
+  date_received: '2025-04-07'
   description: Detached Shed
-  address: D1590 Princes Hwy, TOMERONG, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124333&propkey=121189
-  council_reference: CD19/1186
-  date_received: '2019-04-23'
-  description: Single Storey Dwelling
-  address: 21 Evergreen Pl, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124338&propkey=93446
-  council_reference: CD19/1187
-  date_received: '2019-04-23'
-  description: Dwelling Additions - Patio Cover
-  address: 9 Firman Glen, ST GEORGES BASIN, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124339&propkey=4732
-  council_reference: CD19/1188
-  date_received: '2019-04-23'
+  address: 12 Amaryllis Way (Priv), TOMERONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722007&propkey=76323
+  council_reference: DA25/1426
+  date_received: '2025-04-10'
+  description: Detached habitable rooms
+  address: 867 Upper Kangaroo River Rd, UPPER KANGAROO RIVER, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722013&propkey=20934
+  council_reference: DA25/1427
+  date_received: '2025-04-11'
+  description: Detached shed with height, size and setback variations
+  address: 4 Berry St, HUSKISSON, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722079&propkey=6101
+  council_reference: DA25/1430
+  date_received: '2025-04-11'
+  description: Alterations and additions - car port, swimming pool and shed
+  address: 1 Clarendon Cr, BASIN VIEW, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722081&propkey=27386
+  council_reference: DA25/1431
+  date_received: '2025-04-10'
+  description: Demolition of existing garage and construction of a two storey detached
+    shed with a detached habitable rooms component. Side and rear boundary setback
+    variations.
+  address: 12 Chapman St, CALLALA BAY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722088&propkey=97257
+  council_reference: DA25/1432
+  date_received: '2025-04-16'
+  description: Alterations and additions to Existing Dwelling House
+  address: 276 Elizabeth Dr, VINCENTIA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722123&propkey=18847
+  council_reference: DA25/1434
+  date_received: '2025-04-15'
+  description: Alterations & Additions to Dwelling, Cabana & Swimming Pool
+  address: 14 Niblick Av, MOLLYMOOK BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722126&propkey=21258
+  council_reference: DA25/1435
+  date_received: '2025-04-15'
+  description: Alterations & Additions to Dwelling
+  address: 9 Federal Av, BURRILL LAKE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722127&propkey=86825
+  council_reference: DA25/1436
+  date_received: '2025-04-24'
+  description: Roof Replacement to Staff Accommodation Cottage at Berry Sport and
+    Recreation Centre
+  address: 660 Coolangatta Rd, BERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722134&propkey=26064
+  council_reference: DA25/1437
+  date_received: '2025-04-12'
+  description: Extension to existing deck with roof over and extension to existing
+    storage shed
+  address: 28 Princes Hwy, LAKE TABOURIE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722136&propkey=37360
+  council_reference: DA25/1438
+  date_received: '2025-04-16'
+  description: Home Business
+  address: 17 McDonald Av, NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722160&propkey=1004498
+  council_reference: DA25/1439
+  date_received: '2025-04-10'
+  description: Dual occupancy (attached)
+  address: 28 Downwind St, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722205&propkey=1005525
+  council_reference: DA25/1441
+  date_received: '2025-04-10'
+  description: Single Storey Dwelling House
+  address: 3 Altitude St, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722206&propkey=1000769
+  council_reference: DA25/1442
+  date_received: '2025-04-11'
+  description: Construction of a two storey dwelling with attached garage
+  address: 40 Vista Dr, DOLPHIN POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722237&propkey=12561
+  council_reference: DA25/1444
+  date_received: '2025-04-09'
+  description: Alterations and Additions to a Dwelling House
+  address: 11 Barnett St, VINCENTIA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722257&propkey=94300
+  council_reference: DA25/1445
+  date_received: '2025-04-09'
+  description: Change of use to recreational facility (indoor), internal alterations
+    and external signage
+  address: 207 Princes Hwy, SOUTH NOWRA<br>Princes Hwy, SOUTH NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722260&propkey=90562
+  council_reference: DA25/1446
+  date_received: '2025-04-28'
+  description: Educational Establishment – 2 new dormitory buildings, multi-purpose
+    pavilion, alterations and additions to Halloran house and shed, upgrades to an
+    existing shed including a bushfire refuge, carparking, on-site sewerage management,
+    on-site water treatment, perimeter road to provide for emergency access and bushfire
+    vehicle access and landscaping works.
+  address: 441 Culburra Rd, WOLLUMBOOLA<br>453 Culburra Rd, WOLLUMBOOLA<br>Culburra
+    Rd, WOLLUMBOOLA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722279&propkey=1002058
+  council_reference: DA25/1448
+  date_received: '2025-04-14'
+  description: Change of use of training facility to dwelling house
+  address: 682 Yalwal Rd, BAMARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722316&propkey=119759
+  council_reference: DA25/1450
+  date_received: '2025-04-17'
+  description: Strata Subdivision
+  address: 14 Bimbla Av, DOLPHIN POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722340&propkey=25532
+  council_reference: DA25/1451
+  date_received: '2025-04-22'
+  description: Removal of trees, construction of detached dual occupancy.
+  address: 28 Cornfield Pde, FISHERMANS PARADISE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722341&propkey=96792
+  council_reference: DA25/1452
+  date_received: '2025-04-22'
+  description: Continued Use of Food and Drink Premise, Alterations and Additions
+    and associated advertising signage.
+  address: 56 Owen St, HUSKISSON, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722342&propkey=41777
+  council_reference: DA25/1453
+  date_received: '2025-04-14'
+  description: Construction of a digital wall mounted sign
+  address: 132 Princes Hwy, SOUTH NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722370&propkey=1005120
+  council_reference: DA25/1455
+  date_received: '2025-04-17'
+  description: Temporary Exhibition Home
+  address: 90 Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722372&propkey=1005121
+  council_reference: DA25/1456
+  date_received: '2025-04-17'
+  description: Temporary Change of use from Dwelling House to Exhibition Home
+  address: 88 Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722408&propkey=92154
+  council_reference: DA25/1458
+  date_received: '2025-04-26'
+  description: Alterations and additions to existing food and drink premises and continued
+    use of marque
+  address: 1/41 Wason St, MILTON<br>5/41 Wason St, MILTON<br>6/41 Wason St, MILTON,
+    NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722459&propkey=1004118
+  council_reference: DA25/1459
+  date_received: '2025-04-11'
+  description: Dwelling House
+  address: 38 Serenity Rdge, BERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722470&propkey=217
+  council_reference: DA25/1461
+  date_received: '2025-04-15'
+  description: Alterations and additions to an existing dwelling
+  address: 2 Ford St, BERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722478&propkey=1560
+  council_reference: DA25/1463
+  date_received: '2025-04-14'
+  description: Demolish Existing Shed and Construct New Shed
+  address: 2 Keith Av, GREENWELL POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722486&propkey=1004498
+  council_reference: DA25/1465
+  date_received: '2025-04-17'
+  description: Torrens Title Subdivision of Dual Occupancy
+  address: 28 Downwind St, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722490&propkey=32332
+  council_reference: DA25/1466
+  date_received: '2025-04-14'
+  description: Home Business (Remedial Massage & Dry Needling)
+  address: 138 Plunkett St, NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722516&propkey=26217
+  council_reference: DA25/1469
+  date_received: '2025-04-17'
+  description: Alterations and Additions to dwelling house
+  address: 3 Aldinga Av, BAWLEY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722566&propkey=8895
+  council_reference: DA25/1472
+  date_received: '2025-04-22'
+  description: Strata Subdivision of Dual Occupancy
+  address: 198 Macleans Point Rd, SANCTUARY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722631&propkey=38459
+  council_reference: DA25/1475
+  date_received: '2025-04-16'
+  description: Use of an existing detached habitable room
+  address: 110 Island Point Rd, ST GEORGES BASIN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722632&propkey=86856
+  council_reference: DA25/1476
+  date_received: '2025-04-29'
+  description: Construction of swimming pool in front setback on dwelling
+  address: 848 Sussex Inlet Rd, SUSSEX INLET, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722711&propkey=95922
+  council_reference: DA25/1479
+  date_received: '2025-04-24'
+  description: Change of Use of Garage to Home Business (Nail Salon)
+  address: 59 Bowerbird St, SOUTH NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722723&propkey=98706
+  council_reference: DA25/1481
+  date_received: '2025-04-22'
+  description: Strata subdivision of townhouses (13 lots)
+  address: Dolphin Point Rd, BURRILL LAKE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722742&propkey=57517
+  council_reference: DA25/1483
+  date_received: '2025-04-17'
+  description: Shed
+  address: 139 Browns Mountain Rd, TAPITALLEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722744&propkey=14419
+  council_reference: DA25/1484
+  date_received: '2025-04-24'
+  description: Construction of Retaining Wall and Boat Ramp
+  address: 123 Naval Pde, EROWAL BAY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722753&propkey=44590
+  council_reference: DA25/1485
+  date_received: '2025-04-22'
+  description: Shed
+  address: Inglewood Cr, TOMERONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722793&propkey=1005122
+  council_reference: DA25/1486
+  date_received: '2025-04-30'
+  description: Temporary Use of an Approved Dwelling as an Exhibition Home including
+    associated signage
+  address: Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722800&propkey=46096
+  council_reference: DA25/1488
+  date_received: '2025-04-22'
+  description: Detached Garage Shed
+  address: 20 Ironbark Rd, TAPITALLEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722852&propkey=25326
+  council_reference: DA25/1489
+  date_received: '2025-04-24'
+  description: Alterations and additions to dwelling house
+  address: 28 Spinks Av, LAKE CONJOLA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722860&propkey=120595
+  council_reference: DA25/1490
+  date_received: '2025-04-23'
+  description: Demolition of Existing Failed Sea Wall and Construction of Sandstone
+    Sea Wall
+  address: 79A Addison Rd, CULBURRA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720830&propkey=37165
+  council_reference: MA25/1087
+  date_received: '2025-04-08'
+  description: S4.55(1) to DA2024/2300 - Amendment to Condition 1 to Correct Waste
+    Management Plan Reference
+  address: 160 Junction St, NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720902&propkey=96377
+  council_reference: MA25/1090
+  date_received: '2025-04-02'
+  description: Awning extension, relocation rainwater tank, removal of retaining walls
+  address: 1072 Bendalong Rd, CONJOLA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720904&propkey=32817
+  council_reference: MA25/1091
+  date_received: '2025-03-25'
+  description: S4.55(1A) to DA21/2260 - Changes to plans
+  address: 39 Beecroft Pde, CURRARONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720927&propkey=99113
+  council_reference: MA25/1092
+  date_received: '2025-04-04'
+  description: Modification to DA19/1820 – Extend Timeframe for Use of Site for Kangaroo
+    Craft Beer and BBQ Festival for an additional 10 years and change of the event
+    dates
+  address: 159 Moss Vale Rd, KANGAROO VALLEY<br>169 Moss Vale Rd, KANGAROO VALLEY<br>179
+    Moss Vale Rd, KANGAROO VALLEY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720931&propkey=18145
+  council_reference: MA25/1093
+  date_received: '2025-03-28'
+  description: S4.55(1) to DA2025/1015 - Consent has an Error in the Description of
+    the Development. Instead of a Description the Owner's Names have been Stated.
+  address: 85 Clyde St, MOLLYMOOK BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721109&propkey=17411
+  council_reference: MA25/1095
+  date_received: '2025-03-27'
+  description: S4.55(2) to DA21/2242 - Modification to approved DA to include minor
+    internal and external changes.
+  address: 2A Victor Av, NARRAWALLEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721237&propkey=44587
+  council_reference: MA25/1096
+  date_received: '2025-04-02'
+  description: S4.55(1A) to DA22/2291 - retention of the whole of the existing verandah
+  address: 38 Jerberra Rd, TOMERONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721324&propkey=94562
+  council_reference: MA25/1097
+  date_received: '2025-04-02'
+  description: MA2025/1097 - S4.55(1A) to DA2024/1205 - Floor and roof height changes
+  address: 20 Gordon St, MILTON, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721390&propkey=6915
+  council_reference: MA25/1100
+  date_received: '2025-04-02'
+  description: S4.55(2) modifications to approved DA21/2110 for detached dual occupancy
+    and associated Torrens title subdivision
+  address: 19 St Georges Rd, ST GEORGES BASIN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721421&propkey=29379
+  council_reference: MA25/1102
+  date_received: '2025-04-03'
+  description: Dwelling additions – deletion of parapet facade
+  address: 770 Woollamia Rd, WOOLLAMIA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721453&propkey=56091
+  council_reference: MA25/1103
+  date_received: '2025-04-07'
+  description: S4.55(1A) to DA22/2097 - Removal of Jetty
+  address: 10A Paringa Rd, LONGREACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721473&propkey=99120
+  council_reference: MA25/1104
+  date_received: '2025-05-13'
+  description: 4.55(1A) to SF 10111 - Amend Subdivision Layout and creation of Asset
+    Protection Zone
+  address: Anson St, ST GEORGES BASIN<br>Anson St, ST GEORGES BASIN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721474&propkey=99120
+  council_reference: MA25/1105
+  date_received: '2025-05-13'
+  description: 4.55(1A) to SF 9795 - Amend Subdivision Layout
+  address: Anson St, ST GEORGES BASIN<br>Anson St, ST GEORGES BASIN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721501&propkey=44587
+  council_reference: MA25/1106
+  date_received: '2025-04-03'
+  description: S4.55(1A) to DA22/2265 - Modification to 110,166L Water Tank in an
+    Alternate Location, Including Fire Fighting Connection at 10,000L
+  address: 38 Jerberra Rd, TOMERONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721562&propkey=78184
+  council_reference: MA25/1107
+  date_received: '2025-04-03'
+  description: Proposed modification to DA22/1533 – plan changes
+  address: 315 Little Forest Rd, LITTLE FOREST, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721628&propkey=97592
+  council_reference: MA25/1109
+  date_received: '2025-04-04'
+  description: S4.55(1A) to DA2024/1369 - Replacing Two Glazed Doors with Windows
+  address: 44 Basin View Pde, BASIN VIEW, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721931&propkey=23385
+  council_reference: MA25/1114
+  date_received: '2025-04-12'
+  description: S4.55(1) to DA2023/3056 - Amend Conditions 11, 12 and Delete Condition
+    22
+  address: 18 Myrniong Gr, BERRARA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722008&propkey=17864
+  council_reference: MA25/1115
+  date_received: '2025-04-08'
+  description: S4.55(1A) to DA24/1455 - modification to the front decks/balcony including
+    a connective stair and internal modifications including a new bathroom and laundry
+  address: 91 Bannister Head Rd, MOLLYMOOK BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722019&propkey=14146
+  council_reference: MA25/1116
+  date_received: '2025-04-11'
+  description: Alterations and additions to existing dwelling house and new retaining
+    walls – amended by MA2025/1116
+  address: 7 Waldegrave Cr, VINCENTIA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722095&propkey=3984
+  council_reference: MA25/1118
+  date_received: '2025-04-09'
+  description: Proposed modification to DA24/1587 – plan changes
+  address: 84 Park Row, CULBURRA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722129&propkey=1003672
+  council_reference: MA25/1120
+  date_received: '2025-04-09'
+  description: Proposed modification to DA23/3089 – plan changes
+  address: 4 Torbin Pl, TOMERONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722138&propkey=28129
+  council_reference: MA25/1121
+  date_received: '2025-04-18'
+  description: S4.55(1) to DA23/1406 - Correction to Condition 17 Regarding Conformity
+    with the NCC
+  address: 36 Quay Rd, CALLALA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722176&propkey=16770
+  council_reference: MA25/1123
+  date_received: '2025-04-14'
+  description: S4.55(2) to DA22/1078 - Amendments to Building Design and Height
+  address: 59 South St, ULLADULLA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722286&propkey=7047
+  council_reference: MA25/1124
+  date_received: '2025-04-16'
+  description: Amendments to Dwelling Designs and Layouts
+  address: Island Point Rd, ST GEORGES BASIN<br>The Old Wool Rd, ST GEORGES BASIN<br>The
+    Old Wool Rd, ST GEORGES BASIN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722309&propkey=1004104
+  council_reference: MA25/1125
+  date_received: '2025-04-14'
+  description: S4.55(1A) to DA24/1386 - Amendments to Window Design & Minor Alterations
+    to Internal Layout/Dimensions
+  address: 8 Serenity Rdge, BERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722359&propkey=86932
+  council_reference: MA25/1126
+  date_received: '2025-04-17'
+  description: S4.55(1A) to DA22/2308 - Delete Condition 24 & 30
+  address: 34 Monkey Mountain Rd, TERMEIL, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722503&propkey=1003126
+  council_reference: MA25/1128
+  date_received: '2025-04-22'
+  description: S4.55(1A) to DA2024/2374 - Change of Orientation of Shed
+  address: 35 Sugar Glider Drive, TAPITALLEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722505&propkey=8171
+  council_reference: MA25/1129
+  date_received: '2025-04-16'
+  description: S4.55(1A) Modification to approved DA22/2279 – Addition of Retaining
+    Wall to the East and concrete paving
+  address: 10 Greville Av, SANCTUARY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722564&propkey=1005589
+  council_reference: MA25/1130
+  date_received: '2025-04-22'
+  description: S4.55(1A) to DA22/2154 - Change to Address Following Subdivision
+  address: 21A Bendoura St, MOLLYMOOK<br>21B Bendoura St, MOLLYMOOK, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722574&propkey=27555
+  council_reference: MA25/1131
+  date_received: '2025-04-23'
+  description: New dwelling – amended location of air conditioning units and water
+    tank
+  address: 48 Greenway Rd, CALLALA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722680&propkey=117890
+  council_reference: MA25/1134
+  date_received: '2025-04-22'
+  description: S4.55(1A) to DA24/2124 - Removing laundry and changes to patio
+  address: 11A Nugents Creek Rd, KANGAROO VALLEY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722779&propkey=17860
+  council_reference: MA25/1136
+  date_received: '2025-04-22'
+  description: MA2025/1136 - S4.55(1A) - Modification to Upper Floor Level Privacy
+    Screen to Improve and Enhance Natural Light and Ventilation to Upper Floor Level
+    Habitable Rooms
+  address: 87 Bannister Head Rd, MOLLYMOOK BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720722&propkey=17464
+  council_reference: PCD25/1181
+  date_received: ''
+  description: Dwelling Alterations & Additions & New Second Storey Addition
+  address: 41 Normandy St, NARRAWALLEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720740&propkey=1005213
+  council_reference: PCD25/1182
+  date_received: ''
   description: Dwelling Alterations & Additions
-  address: 17 The Mall, CULBURRA BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124383&propkey=13906
-  council_reference: CD19/1189
-  date_received: '2019-04-24'
-  description: Dwelling Additions - Deck with Covered BBQ Area
-  address: 12 Roper St, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124384&propkey=121081
-  council_reference: CD19/1190
-  date_received: '2019-04-24'
-  description: In Ground Swimming Pool
-  address: 58 Basil St, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124523&propkey=23079
-  council_reference: CD19/1191
-  date_received: '2019-05-02'
-  description: Detached Garage
-  address: 75 Collier Dr, CUDMIRRAH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124533&propkey=121879
-  council_reference: CD19/1192
-  date_received: '2019-05-02'
-  description: Single Storey Dwelling & Attached Secondary Dwelling
-  address: 6 Jindalee Cr, NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124558&propkey=46208
-  council_reference: CD19/1193
-  date_received: '2019-05-03'
-  description: Dwelling Additions & Alterations
-  address: 159 Tannery Rd, CAMBEWARRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124567&propkey=96245
-  council_reference: CD19/1194
-  date_received: '2019-05-03'
-  description: Dwelling Additions - Patio Cover
-  address: 39 Bluewattle Rd, WORRIGEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124609&propkey=98673
-  council_reference: CD19/1195
-  date_received: '2019-05-06'
-  description: First Occupancy Fit Out for Office
-  address: 24 Trim St, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124615&propkey=24642
-  council_reference: CD19/1196
-  date_received: '2019-05-06'
-  description: Dwelling Additions
-  address: 11 The Foredeck, MANYANA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124628&propkey=75422
-  council_reference: CD19/1197
-  date_received: '2019-05-07'
-  description: Shop Front Alterations
-  address: 41 Bolong Rd, BOMADERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124631&propkey=95915
-  council_reference: CD19/1198
-  date_received: '2019-05-07'
-  description: Dwelling Additions - Sun Room
-  address: 73 Bowerbird St, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124632&propkey=85522
-  council_reference: CD19/1199
-  date_received: '2019-05-07'
-  description: Dwelling Alterations - Attached Garage Converted to Habitable Room
-  address: 3 Hermes Cr, WORRIGEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124653&propkey=34011
-  council_reference: CD19/1200
-  date_received: '2019-05-08'
-  description: Dwelling Additions - Patio Cover
-  address: 50 McMahons Rd, NORTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124689&propkey=121883
-  council_reference: CD19/1201
-  date_received: '2019-05-09'
+  address: 4A Bolwarra Av, ULLADULLA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720764&propkey=1003558
+  council_reference: PCD25/1183
+  date_received: ''
+  description: Two Storey Dual Occupancy Attached
+  address: 60 Corks Lane, MILTON, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720848&propkey=40662
+  council_reference: PCD25/1184
+  date_received: ''
+  description: Single Storey Secondary Dwelling
+  address: 78 St Anns St, NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720876&propkey=118882
+  council_reference: PCD25/1185
+  date_received: ''
+  description: Swimming Pool
+  address: 7 Caladenia Cr, SOUTH NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720885&propkey=1004717
+  council_reference: PCD25/1186
+  date_received: ''
+  description: Internal fitout of existing El Jannah tenancy
+  address: 104 Worrigee St, NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720887&propkey=10839
+  council_reference: PCD25/1187
+  date_received: ''
+  description: Swimming Pool
+  address: 17 Ainsdale St, SUSSEX INLET, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720890&propkey=18246
+  council_reference: PCD25/1188
+  date_received: ''
+  description: Carport
+  address: 4 Fairview Pl, MOLLYMOOK BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720958&propkey=295
+  council_reference: PCD25/1189
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 22 Kentia Cr, BERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720970&propkey=1005090
+  council_reference: PCD25/1190
+  date_received: ''
+  description: Two Storey Dwelling
+  address: 89 Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721002&propkey=1003115
+  council_reference: PCD25/1191
+  date_received: ''
+  description: Single Storey Dwelling & Swimming Pool
+  address: 20 Sugar Glider Drive, TAPITALLEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721012&propkey=56311
+  council_reference: PCD25/1192
+  date_received: ''
+  description: Shed
+  address: 9 Sunnymede Lane, BERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721042&propkey=1005089
+  council_reference: PCD25/1193
+  date_received: ''
   description: Single Storey Dwelling
-  address: 26 Patonga St, NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124692&propkey=1000097
-  council_reference: CD19/1202
-  date_received: '2019-05-09'
+  address: 87 Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721064&propkey=1005093
+  council_reference: PCD25/1194
+  date_received: ''
   description: Single Storey Dwelling
-  address: 26 Macquarie Dr, BURRILL LAKE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124717&propkey=2176
-  council_reference: CD19/1203
-  date_received: '2019-05-09'
-  description: Dwelling Additions, Alterations & In Ground Swimming Pool
-  address: 81 Agars Lane, BERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124746&propkey=29110
-  council_reference: CD19/1204
-  date_received: '2019-05-10'
-  description: Dwelling Additions - Replace Two Windows
-  address: 15 Goorama Dr, CAMBEWARRA VILLAGE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124770&propkey=17528
-  council_reference: CD19/1205
-  date_received: '2019-05-13'
-  description: Dwelling Renovations plus Front & Rear Decks
-  address: 9 Parkinson St, NARRAWALLEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124783&propkey=18639
-  council_reference: CD19/1206
-  date_received: '2019-05-13'
-  description: Dwelling Alterations Including Ensuite & Wardrobe
-  address: 176 Matron Porter Dr, MOLLYMOOK BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124785&propkey=84685
-  council_reference: CD19/1207
-  date_received: '2019-05-13'
-  description: Dwelling Additions - Retaining Wall
-  address: 65 Grahams Rd, MEROO MEADOW, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124787&propkey=94703
-  council_reference: CD19/1208
-  date_received: '2019-05-13'
-  description: In Ground Swimming Pool
-  address: 5 Whitewood St, WORRIGEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124792&propkey=88064
-  council_reference: CD19/1209
-  date_received: '2019-05-13'
-  description: Change Of Use From Warehouse To Dance Studio With Associated Office
-    & Internal Alterations
-  address: 5 Gesham Way, BOMADERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124830&propkey=26988
-  council_reference: CD19/1210
-  date_received: '2019-05-14'
-  description: Dwelling Additions - Awning
-  address: 53 Kurrawa Dr, KIOLOA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124845&propkey=55007
-  council_reference: CD19/1211
-  date_received: '2019-05-14'
-  description: Internal Renovations to Neighbourhood Centre - Widen Entry Door & Install
-    Walls In Office 8
-  address: 81 Osborne St, NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124134&propkey=81456
-  council_reference: DA19/1357
-  date_received: '2019-04-15'
-  description: Reconfigure 13 existing short term movable sites and reduce to 11,
-    construct metal shed and install caretakers cottage in an existing caravan park
-    (Holiday Haven Tourist Park)
-  address: 49 McIntosh St, SHOALHAVEN HEADS, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124138&propkey=37569
-  council_reference: DA19/1358
-  date_received: '2019-04-15'
-  description: Change Of Use From Office To Medical Centre (Dental Clinic) & Demolition
-    Of Outbuilding & Deck
-  address: 47 Worrigee St, NOWRA<br>64 Osborne St, NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124142&propkey=14915
-  council_reference: DA19/1359
-  date_received: '2019-04-15'
-  description: External Lift
-  address: 22 Prentice Av, OLD EROWAL BAY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124156&propkey=98228
-  council_reference: DA19/1360
-  date_received: '2019-04-15'
-  description: Dwelling Additions - First Floor Deck with Roof
-  address: 40 The Wool Rd, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124159&propkey=117443
-  council_reference: DA19/1361
-  date_received: '2019-04-15'
-  description: Dwelling Additions, Alterations, In Ground Swimming Pool & Carport
-  address: 52 Donlan Rd, MOLLYMOOK BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124172&propkey=33129
-  council_reference: DA19/1362
-  date_received: '2019-04-15'
-  description: Commercial use of footpath for 2 x removable signs
-  address: 81 Princes Hwy, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124174&propkey=121731
-  council_reference: DA19/1363
-  date_received: '2019-04-15'
-  description: Single Storey Dwelling
-  address: 6 Sand Drift Way, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124180&propkey=121184
-  council_reference: DA19/1364
-  date_received: '2019-04-15'
-  description: Single Storey Dwelling
-  address: 24 Evergreen Pl, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124194&propkey=62364
-  council_reference: DA19/1365
-  date_received: '2019-04-16'
-  description: Install Wall Signage including Part Digital LED Sign
-  address: 1 Crescent St, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124203&propkey=24583
-  council_reference: DA19/1366
-  date_received: '2019-04-16'
-  description: Single Storey Dwelling & In Ground Swimming Pool
-  address: 5 The Citadel, MANYANA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124206&propkey=121839
-  council_reference: DA19/1368
-  date_received: '2019-04-16'
-  description: Single Storey Dwelling
-  address: 15 Ontario Way, BURRILL LAKE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124209&propkey=96484
-  council_reference: DA19/1369
-  date_received: '2019-04-16'
-  description: Construction of a new Linkway, Loading Dock, Enclosed Ramp & Cool Room
-  address: 8 Investigator St, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124210&propkey=41758
-  council_reference: DA19/1370
-  date_received: '2019-04-16'
-  description: Continued use of building for the purpose of self-storage premises
-    & associated offices
-  address: 206 Princes Hwy, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124212&propkey=10270
-  council_reference: DA19/1371
-  date_received: '2019-04-16'
-  description: Single Storey Dwelling
-  address: 13 Vost Dr, SANCTUARY POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124227&propkey=80475
-  council_reference: DA19/1372
-  date_received: '2019-04-17'
-  description: Detached Shed plus Removal of Pool & Associated Decking
-  address: 7 Murrell Pl, NORTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124230&propkey=23422
-  council_reference: DA19/1373
-  date_received: '2019-04-17'
-  description: Single Storey Dwelling
-  address: 24 Pope Av, BERRARA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124243&propkey=12970
-  council_reference: DA19/1374
-  date_received: '2019-04-17'
-  description: Garage, Detached Habitable Room & Pool
-  address: 6 Edward St, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124250&propkey=18658
-  council_reference: DA19/1375
-  date_received: '2019-04-17'
-  description: Dwelling Additions & Alterations
-  address: 194 Mitchell Pde, MOLLYMOOK BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124254&propkey=48872
-  council_reference: DA19/1376
-  date_received: '2019-04-17'
-  description: Dwelling additions & alterations, demolish & replace existing shed
-    & effluent treatment system, repair & replace existing retaining walls, vegetation
-    clearing for asset protection zones
-  address: E1030 Princes Hwy, CONJOLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124261&propkey=118355
-  council_reference: DA19/1377
-  date_received: '2019-04-17'
-  description: Single Storey Dwelling
-  address: 28 Kean Av, SANCTUARY POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124269&propkey=32869
-  council_reference: DA19/1378
-  date_received: '2019-04-17'
-  description: Dwelling Additions - Verandah & Addition to Loft
-  address: 72 Warrain Cr, CURRARONG, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124279&propkey=74515
-  council_reference: DA19/1379
-  date_received: '2019-04-18'
-  description: Staged alterations & additions to existing seniors housing (residential
-    care facility), resulting in an increase from 80 to 84 beds overall
-  address: 976 Culburra Rd, CULBURRA BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124303&propkey=38582
-  council_reference: DA19/1380
-  date_received: '2019-04-18'
-  description: Dwelling Additions - Patio Cover & Glass Enclosure
-  address: 206 Island Point Rd, ST GEORGES BASIN, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124318&propkey=1000186
-  council_reference: DA19/1381
-  date_received: '2019-04-18'
-  description: Single Storey Dwelling
-  address: 20 Brushbox Dr, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124324&propkey=768
-  council_reference: DA19/1382
-  date_received: '2019-04-23'
-  description: Dwelling Additions - Enclose Carport to Create Garage
-  address: 14 Bartlett Dr, GREENWELL POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124340&propkey=120725
-  council_reference: DA19/1383
-  date_received: '2019-04-23'
-  description: Single Storey Dwelling
-  address: 15 Kennedy Cr, MILTON, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124350&propkey=18965
-  council_reference: DA19/1384
-  date_received: '2019-04-24'
-  description: Dwelling Additions & Alterations Including Decks
-  address: 48 Tallwood Av, MOLLYMOOK BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124362&propkey=121928
-  council_reference: DA19/1385
-  date_received: '2019-04-24'
+  address: 95 Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721118&propkey=4955
+  council_reference: PCD25/1195
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 12 West Cr, CULBURRA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721179&propkey=6688
+  council_reference: PCD25/1196
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 5 Loralyn Av, ST GEORGES BASIN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721189&propkey=1002558
+  council_reference: PCD25/1197
+  date_received: ''
+  description: Industrial Alterations & Additions
+  address: 24 Duranbah Dr, HUSKISSON, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721198&propkey=1002995
+  council_reference: PCD25/1198
+  date_received: ''
+  description: Single Storey Dual Occupancy Attached & Retaining Walls
+  address: 17 Wirraway Bvd, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721265&propkey=15775
+  council_reference: PCD25/1199
+  date_received: ''
+  description: Swimming Pool
+  address: 15 Dolphin St, ULLADULLA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721277&propkey=28659
+  council_reference: PCD25/1200
+  date_received: ''
+  description: New Patio Cover
+  address: 96 Watts Rd, CALLALA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721311&propkey=95867
+  council_reference: PCD25/1201
+  date_received: ''
+  description: Single Storey Secondary Dwelling
+  address: 42 Springfield Dr, MOLLYMOOK, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721327&propkey=118510
+  council_reference: PCD25/1202
+  date_received: ''
+  description: Proposed double basketball court at the PCYC Nowra site
+  address: 72 Park Rd, NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721333&propkey=33044
+  council_reference: PCD25/1203
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 89 Kings Point Dr, KINGS POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721410&propkey=1004297
+  council_reference: PCD25/1204
+  date_received: ''
+  description: Single Storey Dual Occupancy Attached
+  address: 13 Gipsy Moth St, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721459&propkey=26676
+  council_reference: PCD25/1205
+  date_received: ''
+  description: Demolition of Existing Dwelling, New Two Storey Dwelling, Detached
+    Garage & Retaining Walls
+  address: 13 Sunseeker Dr, BAWLEY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721480&propkey=1005272
+  council_reference: PCD25/1206
+  date_received: ''
+  description: Single Storey Dual Occupancy Attached
+  address: 17 Gipsy Moth St, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721489&propkey=1002307
+  council_reference: PCD25/1207
+  date_received: ''
   description: Single Storey Dwelling & Retaining Walls
-  address: 55 The Bounty, MANYANA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124364&propkey=84685
-  council_reference: DA19/1386
-  date_received: '2019-04-24'
-  description: Alterations & Additions
-  address: 65 Grahams Rd, MEROO MEADOW, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124365&propkey=25141
-  council_reference: DA19/1387
-  date_received: '2019-04-24'
-  description: Demolition of existing shed and installation of new shed, new storage
-    area to existing cafe
-  address: 52 Lake Conjola Entrance Rd, LAKE CONJOLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124360&propkey=38506
-  council_reference: DA19/1388
-  date_received: '2019-04-24'
-  description: Demolition of existing dwelling, laundry & carport /pergola
-  address: 7 Island Point Rd, ST GEORGES BASIN, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124367&propkey=121178
-  council_reference: DA19/1389
-  date_received: '2019-04-24'
-  description: Dual Occupancy (Single Storey Detached 2 New Units) & Strata Subdivision
-  address: 12 Evergreen Pl, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124373&propkey=118745
-  council_reference: DA19/1390
-  date_received: '2019-04-24'
-  description: Detached Shed
-  address: 176 Main Rd, CAMBEWARRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124374&propkey=120302
-  council_reference: DA19/1391
-  date_received: '2019-04-24'
-  description: Two Storey Dwelling
-  address: 13 Superior Av, BURRILL LAKE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124392&propkey=26520
-  council_reference: DA19/1392
-  date_received: '2019-04-24'
-  description: Dwelling Additions & Alterations
-  address: 32 Murramarang Rd, BAWLEY POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124398&propkey=37387
-  council_reference: DA19/1393
-  date_received: '2019-04-26'
-  description: Detached Shed
-  address: 182 McKay St, NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124402&propkey=11438
-  council_reference: DA19/1394
-  date_received: '2019-04-26'
-  description: Dwelling Alterations, Additions, Upper Level Rear Deck & New Front
-    Carport
-  address: 95 Jacobs Dr, SUSSEX INLET, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124401&propkey=36046
-  council_reference: DA19/1395
-  date_received: '2019-04-26'
-  description: Hotel Alterations & Additions
-  address: 110 Princes Hwy, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124405&propkey=84794
-  council_reference: DA19/1396
-  date_received: '2019-04-26'
-  description: New Rural Dwelling and Swimming Pool
-  address: 1045D Moss Vale Rd, BEAUMONT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124413&propkey=1000074
-  council_reference: DA19/1397
-  date_received: '2019-04-26'
-  description: Single Storey Dwelling
-  address: 30 Bexhill Av, SUSSEX INLET, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124416&propkey=99563
-  council_reference: DA19/1398
-  date_received: '2019-04-26'
-  description: Alterations and Additions to Unit 11 and 12 for Use as Recreation Facility
-    (Indoor) – Gymnasium
-  address: 35 Cumberland Av, SOUTH NOWRA<br>35 Cumberland Av, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124419&propkey=24974
-  council_reference: DA19/1399
-  date_received: '2019-04-26'
-  description: Garage and Upper Floor Additions with Building Line Variation
-  address: 14 Coolibah Av, CONJOLA PARK, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124425&propkey=17497
-  council_reference: DA19/1400
-  date_received: '2019-04-29'
-  description: Dwelling Alterations & Additions including Solid Fuel Heater
-  address: 26 Parkinson St, NARRAWALLEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124427&propkey=41451
-  council_reference: DA19/1401
-  date_received: '2019-04-29'
-  description: Change of use of existing dwelling house to a business premises (trophy
-    and engraving business)
-  address: 10 Osborne St, NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124428&propkey=83595
-  council_reference: DA19/1407
-  date_received: '2019-04-29'
-  description: Single Storey Dwelling
-  address: 825A Sussex Inlet Rd, SUSSEX INLET, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124438&propkey=24295
-  council_reference: DA19/1408
-  date_received: '2019-04-29'
-  description: Dwelling Additions & Alterations including Garage - Building Line Variation
-  address: 17 Sunset Strip, MANYANA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124449&propkey=1001931
-  council_reference: DA19/1409
-  date_received: '2019-04-29'
-  description: Dual Occupancy (Two Storey Attached 2 New Units) & Torrens Title Subdivision
-  address: 85A Deering St, ULLADULLA<br>85B Deering St, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124460&propkey=23422
-  council_reference: DA19/1410
-  date_received: '2019-04-30'
-  description: Demolition of Dwelling
-  address: 24 Pope Av, BERRARA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124471&propkey=50008
-  council_reference: DA19/1411
-  date_received: '2019-04-30'
-  description: Display Merchandise on Footpath
-  address: 4/47 Owen St, HUSKISSON, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124472&propkey=91390
-  council_reference: DA19/1412
-  date_received: '2019-04-30'
-  description: Attached Shed to Extend Existing Shed @ RRC
-  address: 120 Flatrock Rd, MUNDAMIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124474&propkey=119597
-  council_reference: DA19/1413
-  date_received: '2019-04-30'
-  description: Detached Dual Occupancy with Strata Subdivision
-  address: 36B Scott St, SHOALHAVEN HEADS, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124478&propkey=514
-  council_reference: DA19/1414
-  date_received: '2019-05-01'
-  description: Alterations to Existing Dwelling including New Detached Carport & Demolition
-    of Unauthorised Structures
-  address: 19 Victoria St, BERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124480&propkey=33025
-  council_reference: DA19/1415
-  date_received: '2019-05-01'
-  description: Workshop garage
-  address: 66 Wason St, MILTON, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124487&propkey=5514
-  council_reference: DA19/1416
-  date_received: '2019-05-01'
-  description: Detached Garage with Secondary Dwelling Above
-  address: 4 Comarong St, GREENWELL POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124499&propkey=34342
-  council_reference: DA19/1417
-  date_received: '2019-05-01'
-  description: Above Ground Swimming Pool with Decking
-  address: 98 Walsh Cr, NORTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124513&propkey=42708
-  council_reference: DA19/1418
-  date_received: '2019-05-01'
-  description: Dwelling alterations and additions - addition of two (2) bedrooms to
-    front of dwelling; removal of four (4) trees
-  address: 51 McArthur Dr, FALLS CREEK, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124511&propkey=1000049
-  council_reference: DA19/1419
-  date_received: '2019-05-01'
-  description: Single Storey Dwelling
-  address: 60 Peacehaven Way, SUSSEX INLET, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124522&propkey=16531
-  council_reference: DA19/1420
-  date_received: '2019-05-02'
-  description: Demolition of food and drink premises - Suncoast Cafe
-  address: 385 Princes Hwy, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124525&propkey=1000055
-  council_reference: DA19/1421
-  date_received: '2019-05-02'
-  description: Single Storey Dwelling with Air Conditioning Unit
-  address: 29 Bexhill Av, SUSSEX INLET, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124539&propkey=98924
-  council_reference: DA19/1422
-  date_received: '2019-05-02'
-  description: Swimming Pool - Installation of Concrete Plunge Pool, Erection of Timber
-    Stairs & Child Resistant Pool Enclosure Comprising Timber Pool Fencing & Gate
-    Enclosing Pool, Pool Stairs & Pool Deck
-  address: 27 Halloran St, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124543&propkey=5181
-  council_reference: DA19/1423
-  date_received: '2019-05-02'
+  address: 7 Birkdale Cct, SUSSEX INLET, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721490&propkey=46211
+  council_reference: PCD25/1208
+  date_received: ''
   description: Dwelling Alterations & Additions
-  address: 8 King St, BERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124550&propkey=83769
-  council_reference: DA19/1424
-  date_received: '2019-05-02'
-  description: Tourist Cabin Accommodation (10 cabins), Car Park & Landscaping Upgrade
-    in Association with the Existing Winery
-  address: 58 Washburton Rd, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124564&propkey=23544
-  council_reference: DA19/1425
-  date_received: '2019-05-03'
-  description: Dwelling Alterations, Additions & Detached Shed
-  address: 6 Swan Av, CUDMIRRAH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124570&propkey=11903
-  council_reference: DA19/1426
-  date_received: '2019-05-03'
-  description: Dwelling Additions & Alterations
-  address: 57 River Rd, SUSSEX INLET, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124578&propkey=23549
-  council_reference: DA19/1427
-  date_received: '2019-05-03'
-  description: Dwelling Additions & Alterations
-  address: 9 Third Av, CUDMIRRAH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124599&propkey=38132
-  council_reference: DA19/1428
-  date_received: '2019-05-06'
-  description: Dwelling Additions - Covered Patio & Detached Shed
-  address: 14 Kells Rd, TOMERONG, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124613&propkey=121188
-  council_reference: DA19/1429
-  date_received: '2019-05-06'
-  description: Single Storey Dwelling & Retaining Wall
-  address: 23 Evergreen Pl, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124618&propkey=45062
-  council_reference: DA19/1430
-  date_received: '2019-05-07'
-  description: Single Storey Dwelling
-  address: 22A Northern Fire Rd (Forestry), WOODBURN, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124623&propkey=120999
-  council_reference: DA19/1431
-  date_received: '2019-05-07'
-  description: Split Level Dwelling
-  address: 30 Parker Cr, BERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124629&propkey=96389
-  council_reference: DA19/1432
-  date_received: '2019-05-07'
-  description: Demolish & Replace Detached Shed
-  address: 17 Ferry Lane, NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124635&propkey=40642
-  council_reference: DA19/1433
-  date_received: '2019-05-07'
-  description: Above Ground Swimming Pool, Decking & Glass Balustrade
-  address: 8 Nunkeri Pl, NORTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124636&propkey=119598
-  council_reference: DA19/1434
-  date_received: '2019-05-07'
-  description: Dwelling Additions - Alfresco Dining Area & Above Ground Swimming Pool
-  address: 7 Discovery Pl, SHOALHAVEN HEADS, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124641&propkey=87214
-  council_reference: DA19/1435
-  date_received: '2019-05-07'
-  description: Use of Two (2) 'Common' Rooms as Serviced Apartments
-  address: 12 Currambene St, HUSKISSON, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124644&propkey=106393
-  council_reference: DA19/1436
-  date_received: '2019-05-07'
-  description: 2 x A-Board Advertising Signs - Mollymook Beach Surf School - Beach
-    Road, and cnr Ocean St & Golf Road Mollymook
-  address: Beach Rd, MOLLYMOOK BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124647&propkey=549
-  council_reference: DA19/1437
-  date_received: '2019-05-07'
-  description: Alterations and additions to existing dwelling and new detached habitable
-    room
-  address: 42 Wharf Rd, BERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124662&propkey=84619
-  council_reference: DA19/1438
-  date_received: '2019-05-08'
-  description: Detached Shed - Side Building Line Variation
-  address: 99 Old Berrara Rd, SUSSEX INLET, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124670&propkey=119838
-  council_reference: DA19/1439
-  date_received: '2019-05-08'
-  description: Dwelling Additions - Attached Carport
-  address: 70A St Anns St, NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124676&propkey=3306
-  council_reference: DA19/1440
-  date_received: '2019-05-08'
-  description: Carport replace Roof over Garage
-  address: 51 Greenbank Gr, CULBURRA BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124681&propkey=28098
-  council_reference: DA19/1441
-  date_received: '2019-05-08'
-  description: Dwelling Additions - Demolish, Replace & Enlarge Rear Deck
-  address: 100 Quay Rd, CALLALA BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124701&propkey=46079
-  council_reference: DA19/1442
-  date_received: '2019-05-09'
-  description: Dwelling Additions & In Ground Swimming Pool
-  address: 35 Bingarra Lane, BANGALEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124703&propkey=13289
-  council_reference: DA19/1443
-  date_received: '2019-05-09'
-  description: Miscellaneous - Demolition of existing Dwelling
-  address: 251 Elizabeth Dr, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124728&propkey=76266
-  council_reference: DA19/1444
-  date_received: '2019-05-09'
-  description: Change of Use to a Recreation Facility (indoor) - Gym and personal
-    training studio
-  address: 1/243 Princes Hwy, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124735&propkey=94365
-  council_reference: DA19/1445
-  date_received: '2019-05-09'
-  description: Hold Stardust Circus on Mollymook Beach Reserve including Erection
-    of Tent with Cupola, Foyer Tent, Ticket Office and Canteen Outlets - 28 December
-    2019 to 13 January 2020
-  address: Mitchell Pde, MOLLYMOOK, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124739&propkey=1000469
-  council_reference: DA19/1446
-  date_received: '2019-05-10'
-  description: Business Premises (Car Wash Facility) & Installation of Business Identification
-    Signage
-  address: 273 Princes Hwy, BOMADERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124740&propkey=3156
-  council_reference: DA19/1447
-  date_received: '2019-05-10'
-  description: Demolition Of Garage
-  address: 11 Fairlands St, CULBURRA BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124758&propkey=1635
-  council_reference: DA19/1448
-  date_received: '2019-05-10'
+  address: 203 Tannery Rd, CAMBEWARRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721509&propkey=1004386
+  council_reference: PCD25/1209
+  date_received: ''
+  description: Two (2) Lot Strata Subdivision
+  address: 105 Lancaster Dr, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721510&propkey=1004454
+  council_reference: PCD25/1210
+  date_received: ''
+  description: Two Lot Torrens Subdivision
+  address: 14 Sabre St, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721519&propkey=4270
+  council_reference: PCD25/1211
+  date_received: ''
   description: Dwelling Alterations & Additions
-  address: 6 McLay Av, SHOALHAVEN HEADS, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124761&propkey=28542
-  council_reference: DA19/1449
-  date_received: '2019-05-10'
-  description: Detached Single Storey Secondary Dwelling with Attached Carport & Demolition
-    of Small Shed
-  address: 42 Lackersteen St, CALLALA BAY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124789&propkey=91884
-  council_reference: DA19/1450
-  date_received: '2019-05-13'
+  address: 112 Prince Edward Av, CULBURRA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721573&propkey=22291
+  council_reference: PCD25/1212
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 12 Lamond St, CURRARONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721598&propkey=10958
+  council_reference: PCD25/1213
+  date_received: ''
+  description: Demolition
+  address: 17 Cater Cr, SUSSEX INLET, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721632&propkey=1003078
+  council_reference: PCD25/1214
+  date_received: ''
+  description: Shed
+  address: 12 Ringtail Loop, TAPITALLEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721652&propkey=83002
+  council_reference: PCD25/1215
+  date_received: ''
+  description: Shed
+  address: 11 Royal St, WORRIGEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721669&propkey=73187
+  council_reference: PCD25/1216
+  date_received: ''
+  description: Installation of Inground Fibreglass Swimming Pool
+  address: 42 Oxley Cr, MOLLYMOOK BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721725&propkey=90134
+  council_reference: PCD25/1217
+  date_received: ''
+  description: Industrial Alterations & Additions
+  address: 1 East St, NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721759&propkey=28399
+  council_reference: PCD25/1218
+  date_received: ''
+  description: Dwelling Alterations & Additions, Swimming Pool and Front Fence
+  address: 31 Roskell Rd, CALLALA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721763&propkey=96099
+  council_reference: PCD25/1219
+  date_received: ''
+  description: Commercial Alterations & Additions - Tenancy 1 & 2
+  address: 161 Princes Hwy, ULLADULLA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721808&propkey=27832
+  council_reference: PCD25/1220
+  date_received: ''
+  description: Single Storey Secondary Dwelling
+  address: 74 Lennox Rd, CALLALA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721876&propkey=98805
+  council_reference: PCD25/1221
+  date_received: ''
+  description: Single Story Dwelling
+  address: Princes Hwy, WANDANDIAN, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721879&propkey=90288
+  council_reference: PCD25/1222
+  date_received: ''
+  description: Demolition
+  address: Jellicoe St, SOUTH NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721900&propkey=1005311
+  council_reference: PCD25/1223
+  date_received: ''
+  description: Single Storey Dual Occupancy Attached
+  address: 8 Myrtle Drive, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721912&propkey=22197
+  council_reference: PCD25/1224
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 9 Gerringong St, CURRARONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721919&propkey=78262
+  council_reference: PCD25/1225
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 93 Stott Cr, CALLALA BAY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721924&propkey=1005310
+  council_reference: PCD25/1226
+  date_received: ''
+  description: Single Storey Dual Occupancy Attached
+  address: 10 Myrtle Drive, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721958&propkey=22002
+  council_reference: PCD25/1227
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 14 Capricorn Av, NARRAWALLEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721993&propkey=1005264
+  council_reference: PCD25/1228
+  date_received: ''
   description: Single Storey Dwelling
-  address: 366 Bonnie View Dr (Priv), CROOBYAR, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124797&propkey=121389
-  council_reference: DA19/1451
-  date_received: '2019-05-13'
+  address: 24 Gipsy Moth St, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722055&propkey=1004212
+  council_reference: PCD25/1229
+  date_received: ''
+  description: Single Storey Secondary Dwelling
+  address: 73 Quinns Lane, SOUTH NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722069&propkey=1004322
+  council_reference: PCD25/1230
+  date_received: ''
+  description: Single Storey Dual Occupancy Attached
+  address: Tanika Lane, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722143&propkey=1000961
+  council_reference: PCD25/1231
+  date_received: ''
   description: Two Storey Dwelling
-  address: 80 Parker Cr, BERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124801&propkey=50751
-  council_reference: DA19/1452
-  date_received: '2019-05-13'
-  description: Dwelling Alterations & Additions including Second Storey Addition
-  address: 104 Waldegrave Cr, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124800&propkey=97222
-  council_reference: DA19/1453
-  date_received: '2019-05-13'
-  description: Change of Use to Bistro (food and drink premises) and internal fitout
-  address: 4/41 Wason St, MILTON, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124810&propkey=62364
-  council_reference: DA19/1454
-  date_received: '2019-05-13'
-  description: Alterations and additions to an existing motel
-  address: 1 Crescent St, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124825&propkey=96086
-  council_reference: DA19/1455
-  date_received: '2019-05-14'
-  description: Workshop Attached to Detached Garage
-  address: 37A Garrads Lane, MILTON, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124827&propkey=15438
-  council_reference: DA19/1456
-  date_received: '2019-05-14'
-  description: Detached Single Storey Secondary Dwelling & Demolition of Shed
-  address: 16 Brill Cr, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124840&propkey=4205
-  council_reference: DA19/1457
-  date_received: '2019-05-14'
-  description: Dwelling Additions & Alterations
-  address: 27 Penguins Head Rd, CULBURRA BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124847&propkey=82562
-  council_reference: DA19/1458
-  date_received: '2019-05-14'
-  description: Rural Industry (Agricultural Produce Industry) – Boutique Distillery
-  address: 112 Tea Tree Lane, NOWRA HILL, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124851&propkey=19095
-  council_reference: DA19/1459
-  date_received: '2019-05-14'
-  description: Dwelling Additions - Deck Replacement with Building Line Variation
-  address: 44 Valley Dr, MOLLYMOOK BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124127&propkey=45175
-  council_reference: DS19/1149
-  date_received: '2019-04-15'
-  description: Additions & Alterations - Modify BAL Rating
-  address: 289 Brogers Creek Rd, BROGERS CREEK, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124145&propkey=121090
-  council_reference: DS19/1150
-  date_received: '2019-04-15'
+  address: 42 Connors View, BERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722262&propkey=26500
+  council_reference: PCD25/1232
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 8 Murilla Av, BAWLEY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722274&propkey=121108
+  council_reference: PCD25/1233
+  date_received: ''
+  description: Swimming Pool
+  address: 5 Bambi St, DOLPHIN POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722282&propkey=20615
+  council_reference: PCD25/1234
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 45 Seaside Pde, DOLPHIN POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722320&propkey=32012
+  council_reference: PCD25/1235
+  date_received: ''
+  description: Demolition of Shed and Construction of a secondary dwelling
+  address: 27 Hockey St, NOWRA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722325&propkey=1005315
+  council_reference: PCD25/1236
+  date_received: ''
+  description: Two Storey Dwelling & Swimming Pool
+  address: 24 Corymbia Way, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722489&propkey=1004542
+  council_reference: PCD25/1237
+  date_received: ''
+  description: Swimming Pool
+  address: 146 Woodstock Rd, WOODSTOCK, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722502&propkey=1005282
+  council_reference: PCD25/1238
+  date_received: ''
+  description: Two Storey Dwelling
+  address: 36 Myrtle Drive, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722562&propkey=1004866
+  council_reference: PCD25/1239
+  date_received: ''
   description: Single Storey Dwelling
-  address: 62 Basil St, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124153&propkey=83071
-  council_reference: DS19/1151
-  date_received: '2019-04-15'
-  description: Home Activity (General Medical Practitioner) - Extend Period of Consent
-    for 5 years
-  address: 64 Bundle Hill Rd, BAWLEY POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124189&propkey=93076
-  council_reference: DS19/1152
-  date_received: '2019-04-16'
-  description: Two Storey Dwelling - Amendment to Move Retaining Wall 2.7m from existing
-    tree
-  address: 1 Wattlevale Pl, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124200&propkey=9824
-  council_reference: DS19/1153
-  date_received: '2019-04-16'
-  description: Second Floor Verandah
-  address: 291 The Park Dr, SANCTUARY POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124218&propkey=17291
-  council_reference: DS19/1154
-  date_received: '2019-04-16'
-  description: Dwelling Additions - Extend deck and roofline; clad walls with steel
-    - Sec 4.55 Amendment -Addition of Ornamental Pergola Posts to the Eastern Elevation
-  address: 16 Manning Av, NARRAWALLEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124231&propkey=53176
-  council_reference: DS19/1155
-  date_received: '2019-04-17'
-  description: Two Storey Dwelling - Sec 4.55 Amendment - Enclose approved carport
-    to become a garage
-  address: 24 Whimbrel Dr, SUSSEX INLET, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124239&propkey=6960
-  council_reference: DS19/1156
-  date_received: '2019-04-17'
-  description: Dwelling Alterations and Additions - Replace Front Door & Alter Window
-  address: 4 Tasman Rd, ST GEORGES BASIN, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124284&propkey=33025
-  council_reference: DS19/1157
-  date_received: '2019-04-18'
-  description: Detached Single Storey Dual Occupancy (1 New Unit) & 2 Torrens Title
-    Subdivision Lots - Sec 4.55 Amendment - Internal Wall change to create office,
-    addition of loft ensuite with loft walls increased to fit, two dormer windows
-    to north roof, highlight windows to Bed 1 and Dining.
-  address: 66 Wason St, MILTON, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124300&propkey=14433
-  council_reference: DS19/1158
-  date_received: '2019-04-18'
-  description: Dwelling Alterations & Additions & Remove two trees
-  address: 167 Naval Pde, EROWAL BAY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124308&propkey=1000814
-  council_reference: DS19/1159
-  date_received: '2019-04-18'
-  description: 'Campdraft grandstand and associated sanitary facilities, formalise
-    access road for cattle pickup, drop off bay, revised campdraft holding yard layout
-    & landscaping works - Sec 4.55 Amendment:'
-  address: 123 Forster Dr, BAWLEY POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124311&propkey=73500
-  council_reference: DS19/1160
-  date_received: '2019-04-18'
-  description: Two Storey Dwelling (2nd Storey Transportable Dwelling) - Sec 4.55
-    Amendment - Change Window in Bedroom 1 to Picture Window
-  address: 13 Brace Cl, KIOLOA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124323&propkey=44484
-  council_reference: DS19/1161
-  date_received: '2019-04-23'
+  address: 10 Sunningdale Av, SUSSEX INLET, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722583&propkey=88997
+  council_reference: PCD25/1240
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 156B Mackays Rd, UPPER KANGAROO RIVER, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722606&propkey=17858
+  council_reference: PCD25/1241
+  date_received: ''
+  description: Dwelling Alterations & Additions
+  address: 81 Bannister Head Rd, MOLLYMOOK BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722607&propkey=1004866
+  council_reference: PCD25/1242
+  date_received: ''
+  description: Retaining Wall & Associated Earthworks
+  address: 10 Sunningdale Av, SUSSEX INLET, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722728&propkey=1005157
+  council_reference: PCD25/1243
+  date_received: ''
   description: Single Storey Dwelling
-  address: 14 Jerberra Rd, TOMERONG, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124332&propkey=120714
-  council_reference: DS19/1162
-  date_received: '2019-04-23'
-  description: S.4.55 Amendment to Development Consent SF9634
-  address: Corks Lane, MILTON, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124335&propkey=91117
-  council_reference: DS19/1163
-  date_received: '2019-04-23'
-  description: Detached Garage, Inground Swimming Pool, Sound Wall and Second driveway
-    entry/exit
-  address: C90 Princes Hwy, BOMADERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124355&propkey=120942
-  council_reference: DS19/1164
-  date_received: '2019-04-24'
-  description: Single Storey Dwelling - Section 4.55 modification to Amend Condition
-    7 (PART F) Stormwater & remove Bushfire Conditions 22,23 & 24 (PART C)
-  address: 71 Leo Dr, NARRAWALLEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124358&propkey=120943
-  council_reference: DS19/1165
-  date_received: '2019-04-24'
-  description: Single Storey Dwelling - Section 4.55 modification to Amend Condition
-    7 (PART F) Stormwater & Remove Bushfire Conditions 22 & 23 (PART C)
-  address: 69 Leo Dr, NARRAWALLEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124370&propkey=20346
-  council_reference: DS19/1166
-  date_received: '2019-04-24'
-  description: 'Retaining walls, concrete paths and patio area. Application to Modify
-    Development Consent: Addition of boundary fence to approved plans, change of grassed
-    area to paving and addition of stepped area to the north-west.'
-  address: 42 James Cr, KINGS POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124385&propkey=18484
-  council_reference: DS19/1167
-  date_received: '2019-04-24'
-  description: Application to Modify Development Consent for Proposed Minor Re-alignment
-    of Driveway - Addition of second storey to dwelling, garage and storage shed
-  address: 32 Linden Way, MOLLYMOOK BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124410&propkey=81444
-  council_reference: DS19/1168
-  date_received: '2019-04-26'
-  description: Application for Modification of Development Consent to Delete Garage
-  address: 9 Bonnie Troon Cl, DOLPHIN POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124418&propkey=1002503
-  council_reference: DS19/1169
-  date_received: '2019-04-26'
-  description: Detached Dual Occupancy (2 New Units) - Sec 4.55 Modification - construction
-    of front metal awning
-  address: 35 Ocean St, MOLLYMOOK<br>35A Ocean St, MOLLYMOOK<br>35B Ocean St, MOLLYMOOK,
-    NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124429&propkey=1001374
-  council_reference: DS19/1170
-  date_received: '2019-04-29'
-  description: Application to Modify DA Consent to Extend Period of Approval for Two
-    Years - In-Principle Rural Dwelling Envelope
-  address: 123 Graydons Rd, POINTER MOUNTAIN<br>280 Pointer Rd, POINTER MOUNTAIN,
-    NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124432&propkey=76096
-  council_reference: DS19/1171
-  date_received: '2019-04-29'
-  description: Residential two lot subdivison - Modification As Per DA18/2258
-  address: 1 Louisa Gr, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124433&propkey=99577
-  council_reference: DS19/1172
-  date_received: '2019-04-29'
-  description: Modification As Per DA18/2258
-  address: 1 Louisa Gr, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124444&propkey=20101
-  council_reference: DS19/1173
-  date_received: '2019-04-29'
-  description: Dual Occupancy
-  address: 15 King George St, EROWAL BAY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124465&propkey=16532
-  council_reference: DS19/1174
-  date_received: '2019-04-30'
-  description: 8m x 12m x 6.77m high colorbond shed extension to south end; new stair
-    to shed; formalise 3m x 3.87m awning extension to the shed; the additional shed
-    area is approved as retail showroom bulky goods
-  address: 391 Princes Hwy, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124468&propkey=88096
-  council_reference: DS19/1175
-  date_received: '2019-04-30'
-  description: Caravan Park Alterations Including Installation of Caretakers Cabin
-    mod to correct error under 4.55 (1)
-  address: 1A Lake Conjola Entrance Rd, LAKE CONJOLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124469&propkey=41294
-  council_reference: DS19/1176
-  date_received: '2019-04-30'
-  description: Modification to Windows and Cladding
-  address: 13 Woorin Cl, BOMADERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124470&propkey=98825
-  council_reference: DS19/1177
-  date_received: '2019-04-30'
-  description: New Two Storey Dwelling
-  address: 393 Elizabeth Dr, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124492&propkey=23454
-  council_reference: DS19/1178
-  date_received: '2019-05-01'
-  description: 'Attached Two Storey Dual Occupancy (2 New Units) - Sec 4.55 Modification:
-    Relocate rainwater tanks in-ground (under the driveway), alter garage floors to
-    be on same level and minor window changes'
-  address: 13 Silver Sands Dr, BERRARA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124502&propkey=13102
-  council_reference: DS19/1179
-  date_received: '2019-05-01'
-  description: Two Storey Dwelling, Detached Habitable Room & Demolish Existing Dwelling
-    & Outbuildings - Remove Multiple Windows
-  address: 244 Elizabeth Dr, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124504&propkey=1000814
-  council_reference: DS19/1180
-  date_received: '2019-05-01'
-  description: Twenty (20) tourist cabins and associated infrastructure ancillary
-    to approved equine outdoor recreation facility to provide short term guest accommodation-
-    Sec 4.55 Amendment - Amend Table in Condition 13 relating to Contributions for
-    Additional Services and or Facilities
-  address: 123 Forster Dr, BAWLEY POINT, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124546&propkey=13809
-  council_reference: DS19/1181
-  date_received: '2019-05-02'
-  description: Alterations, Additions & Detached Shed - 4.55 modification to correct
-    lapse date of consent
-  address: 10 Namur St, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124576&propkey=18660
-  council_reference: DS19/1183
-  date_received: '2019-05-03'
-  description: 'Two Storey Dwelling, Plunge Pool & Demolition of Existing Dwelling
-    & Garage. Sec 4.55 Modification: Increase overall height by 900mm'
-  address: 198 Mitchell Pde, MOLLYMOOK BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124585&propkey=16531
-  council_reference: DS19/1184
-  date_received: '2019-05-03'
-  description: "Alterations to the Suncoast Caravan Park comprising: •\tReduction
-    from 30 to 27 long term sites;"
-  address: 385 Princes Hwy, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124593&propkey=1000969
-  council_reference: DS19/1185
-  date_received: '2019-05-06'
-  description: Modification to move Condition 7 to prior to the issue of Occupation
-    Certificate
-  address: 14 Tressider Cl, BERRY<br>14A Tressider Cl, BERRY<br>14B Tressider Cl,
-    BERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124594&propkey=88883
-  council_reference: DS19/1186
-  date_received: '2019-05-06'
-  description: Proposed colorbond workshop/carport - 4.55 modification to extend the
-    building envelope
-  address: 535B Jacks Corner Rd, KANGAROO VALLEY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124603&propkey=76920
-  council_reference: DS19/1187
-  date_received: '2019-05-06'
-  description: Dwelling Additions - Covered Deck.
-  address: 32 Scorpio Gr, NARRAWALLEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124610&propkey=18981
-  council_reference: DS19/1188
-  date_received: '2019-05-06'
-  description: Dwelling alterations, new deck, new garage - Front building line variation.
-  address: 18 Tallwood Av, NARRAWALLEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124616&propkey=121911
-  council_reference: DS19/1189
-  date_received: '2019-05-06'
-  description: Single Storey Dwelling. Section 4.55 - Part C Condition 23 be removed
-    from DA consent
-  address: 18 Dune Cr, MANYANA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124626&propkey=23320
-  council_reference: DS19/1190
-  date_received: '2019-05-07'
-  description: Remove back of dwelling; extend area; remove asbestos roof and re-roof.
-  address: 10 Lakeway Av, BERRARA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124633&propkey=116590
-  council_reference: DS19/1191
-  date_received: '2019-05-07'
-  description: Section 4.55(1A) Modification Application seeking to amended Condition
-    3 of Development Consent No. DA to extend the operation of the consent for an
-    additional 5 years in the months of May and June
-  address: 8 Currambene St, HUSKISSON, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124637&propkey=13088
-  council_reference: DS19/1192
-  date_received: '2019-05-07'
-  description: Two storey workshop and studio addition to an existing garage
-  address: 212 Elizabeth Dr, VINCENTIA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124672&propkey=121096
-  council_reference: DS19/1193
-  date_received: '2019-05-08'
-  description: Single Storey Dwelling - S4.55(1A) Retaining Wall Height
-  address: 17 Alata Cr, SOUTH NOWRA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124690&propkey=28523
-  council_reference: DS19/1194
-  date_received: '2019-05-09'
-  description: DEFERRED DEVELOPMENT CONSENT - Single Storey Dwelling- S4.55(2) Extend
-    operation of consent for one (1) month to permit registration of suitable easement
-    as required
-  address: Sheaffe St, CALLALA BAY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124698&propkey=1000746
-  council_reference: DS19/1195
-  date_received: '2019-05-09'
-  description: S4.55(1A) - Modification to Design and Conditions of Consent
-  address: 101/7 Beach St, HUSKISSON<br>102/7 Beach St, HUSKISSON<br>103/7 Beach St,
-    HUSKISSON<br>104/7 Beach St, HUSKISSON<br>201/7 Beach St, HUSKISSON<br>202/7 Beach
-    St, HUSKISSON<br>203/7 Beach St, HUSKISSON<br>204/7 Beach St, HUSKISSON<br>302/7
-    Beach St, HUSKISSON<br>G01/7 Beach St, HUSKISSON<br>G02/7 Beach St, HUSKISSON,
-    NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124736&propkey=44421
-  council_reference: DS19/1196
-  date_received: '2019-05-09'
-  description: S4.55(1A) - Modification to Condition 4 of Consent
-  address: 408 Bunkers Hill Rd, BARRENGARRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124738&propkey=121150
-  council_reference: DS19/1197
-  date_received: '2019-05-09'
-  description: Application to Modify Development Consent to Include a Retaining Wall
-    on Boundary - New Single Dwelling
-  address: 64 Gemini Way, NARRAWALLEE, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124743&propkey=90378
-  council_reference: DS19/1198
-  date_received: '2019-05-10'
-  description: Dwelling Alterations & Additions - S96(1A) Modifications to Approved
-    Plans - some work not to proceed.
-  address: 17 Ironwood Cl, NOWRA HILL, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124749&propkey=5454
-  council_reference: DS19/1199
-  date_received: '2019-05-10'
-  description: Increase the carport roof height from the approved height of 2.600m
-    to 3.900m and replace roller door to the front elevation with timber gates. Carport
-    to remain 500mm from side boundary
-  address: 105 Scott St, SHOALHAVEN HEADS, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124751&propkey=29803
-  council_reference: DS19/1200
-  date_received: '2019-05-10'
-  description: Single Storey Dwelling.
-  address: 21 Lake Dr, SWANHAVEN, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124768&propkey=35533
-  council_reference: DS19/1201
-  date_received: '2019-05-13'
-  description: Urban Dwelling Additions - Sec 4.55 Modification - No stairs to pavillion
-    (outside) - pavillion enclosed with balastrade, no specific colour for house (not
-    to be white)
-  address: 46 Kurrajong Cr, CONJOLA PARK, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124780&propkey=21004
-  council_reference: DS19/1202
-  date_received: '2019-05-13'
-  description: Colorbond Garage
-  address: 73 Burrill St, HUSKISSON, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124786&propkey=93010
-  council_reference: DS19/1203
-  date_received: '2019-05-13'
-  description: Two Storey Dwelling - Installation of Fire Place
-  address: 37 Caffery Cct, CALLALA BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124790&propkey=34988
-  council_reference: DS19/1204
-  date_received: '2019-05-13'
-  description: S4.55(1A) - Modification to Conditions of Consent
-  address: 37 Deakin St, WRIGHTS BEACH, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124838&propkey=16441
-  council_reference: DS19/1205
-  date_received: '2019-05-14'
-  description: Application to Modify Development Consent for inclusion of a split
-    level floor plan - Additions & Alterations
-  address: 8 Powell Av, ULLADULLA, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124177&propkey=1000969
-  council_reference: SF10736
-  date_received: '2019-04-15'
-  description: Community Title subdivision of an approved dual occupancy development
-  address: 14 Tressider Cl, BERRY<br>14A Tressider Cl, BERRY<br>14B Tressider Cl,
-    BERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124347&propkey=91581
-  council_reference: SF10737
-  date_received: '2019-04-24'
-  description: Boundary adjustment
-  address: 90 Mullers Lane, BERRY<br>90B Mullers Lane, BERRY, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124390&propkey=119595
-  council_reference: SF10738
-  date_received: '2019-04-24'
-  description: Proposed subdivision over 4 lots to create 7 lots
-  address: 11 Discovery Pl, SHOALHAVEN HEADS<br>13 Discovery Pl, SHOALHAVEN HEADS<br>15
-    Discovery Pl, SHOALHAVEN HEADS<br>9 Discovery Pl, SHOALHAVEN HEADS, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124408&propkey=119276
-  council_reference: SF10739
-  date_received: '2019-04-26'
-  description: Proposed Torrens Title Subdivision of Lot 65 and the approved attached
-    dual occupancy consisting of two single storey dwellings
-  address: 17A Molloy St, MOLLYMOOK, NSW
-  date_scraped: '2019-05-14'
-- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124490&propkey=96641
-  council_reference: SF10740
-  date_received: '2019-05-01'
-  description: Six (6) Lot Torrens Title Subdivision
-  address: Lightwood Dr, WEST NOWRA, NSW
-  date_scraped: '2019-05-14'
+  address: 23 Spica St, BADAGARANG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722741&propkey=4086
+  council_reference: PCD25/1244
+  date_received: ''
+  description: Swimming Pool
+  address: 84 Penguins Head Rd, CULBURRA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722799&propkey=99439
+  council_reference: PCD25/1245
+  date_received: ''
+  description: Swimming Pool
+  address: 18 Nadine St, SANCTUARY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722802&propkey=1003098
+  council_reference: PCD25/1246
+  date_received: ''
+  description: Swimming Pool
+  address: 1 Ringtail Loop, TAPITALLEE, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=720849&propkey=24745
+  council_reference: SFH2025/1019
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 4 The Parapet, MANYANA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721326&propkey=11307
+  council_reference: SFH2025/1020
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 9 Greentree Av, SUSSEX INLET, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721334&propkey=1004617
+  council_reference: SFH2025/1021
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 10 Tomerong St, TOMERONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721436&propkey=28240
+  council_reference: SFH2025/1023
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 134 Queen Mary St, CALLALA BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721724&propkey=117890
+  council_reference: SFH2025/1024
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 11A Nugents Creek Rd, KANGAROO VALLEY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721781&propkey=118060
+  council_reference: SFH2025/1025
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 24 Brangus Cl, BERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=721883&propkey=80423
+  council_reference: SFH2025/1026
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 126 Bunkers Hill Rd, BARRENGARRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722021&propkey=1003389
+  council_reference: SFH2025/1027
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 10 White Gum Rd, ULLADULLA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722024&propkey=35877
+  council_reference: SFH2025/1028
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 11 Pine St, BENDALONG, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722036&propkey=18549
+  council_reference: SFH2025/1029
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 40 Lockhart Av, MOLLYMOOK BEACH, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722071&propkey=90030
+  council_reference: SFH2025/1031
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 40 Willinga Rd, BAWLEY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722208&propkey=26400
+  council_reference: SFH2025/1032
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 126 Malibu Dr, BAWLEY POINT, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722210&propkey=71658
+  council_reference: SFH2025/1033
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 77 Little Forest Rd, LITTLE FOREST, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722215&propkey=97546
+  council_reference: SFH2025/1034
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 2 Huntingdale Park Rd, BERRY, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722409&propkey=46703
+  council_reference: SFH2025/1035
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 124 Millbank Rd, TERARA, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722687&propkey=1094
+  council_reference: SFH2025/1036
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 3 Explorer Bvd, SHOALHAVEN HEADS, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
+- info_url: https://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=722689&propkey=70446
+  council_reference: SFH2025/1037
+  date_received: ''
+  description: Solid Fuel Heater Installation
+  address: 359C Coolangatta Rd, FAR MEADOW, NSW
+  date_scraped: '2025-04-15'
+  authority_label: shoalhaven
